@@ -3,6 +3,8 @@ ManyMoons::Application.routes.draw do
   # first created -> highest priority.
 
   root :to => 'pages#home'
+  match 'about' => 'pages#about'
+  match 'contact' => 'pages#contact'
   match 'ping' => 'pages#ping'
 
   # Sample of regular route:
