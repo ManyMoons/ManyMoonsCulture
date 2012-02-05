@@ -81,6 +81,8 @@ GEM
     less-rails (2.1.5)
       actionpack (>= 3.1)
       less (~> 2.0.7)
+    less-rails-bootstrap (2.0.4)
+      less-rails (~> 2.1.0)
     libv8 (3.3.10.4)
     mail (2.4.1)
       i18n (>= 0.4.0)
@@ -163,10 +165,6 @@ GEM
     treetop (1.4.10)
       polyglot
       polyglot (>= 0.3.1)
-    twitter-bootstrap-rails (2.0.0)
-      actionpack (>= 3.1)
-      less-rails (~> 2.1.2)
-      railties (>= 3.1)
     tzinfo (0.3.31)
     uglifier (1.2.3)
       execjs (>= 0.3.0)
@@ -185,6 +183,7 @@ DEPENDENCIES
   haml-rails
   jquery-rails
   launchy
+  less-rails-bootstrap
   newrelic_rpm
   pg
   pry
@@ -193,5 +192,4 @@ DEPENDENCIES
   sass-rails (~> 3.2.3)
   spork-rails
   sqlite3
-  twitter-bootstrap-rails
   uglifier (>= 1.0.3)
