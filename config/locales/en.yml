@@ -12,15 +12,15 @@ en:
 
   home_heading1_title: "Heading One"
   home_heading1_desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
-  home_heading1_button_html: View details &raquo;
+  home_heading1_button_html: "View details &raquo;"
 
   home_heading2_title: "Heading Two"
   home_heading2_desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
-  home_heading2_button_html: View details &raquo;
+  home_heading2_button_html: "View details &raquo;"
 
   home_heading3_title: "Heading Three"
   home_heading3_desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
-  home_heading3_button_html: View details &raquo;
+  home_heading3_button_html: "View details &raquo;"
 
   # footer section
   footer_html: "&copy; Company 2012"
