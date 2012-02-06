@@ -1,4 +1,10 @@
 en:
+  # header section
+  header_title: "Many Moons"
+  header_link_home: "Home"
+  header_link_about: "About"
+  header_link_contact: "Contact"
+
   # hero section
   home_hero_title: "Welcome"
   home_hero_desc: "This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique."
@@ -15,3 +21,6 @@ en:
   home_heading3_title: "Heading Three"
   home_heading3_desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
   home_heading3_button_html: View details &raquo;
+
+  # footer section
+  footer_html: "&copy; Company 2012"
