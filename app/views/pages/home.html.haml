@@ -1,24 +1,26 @@
 <!-- Main hero unit for a primary marketing message or call to action -->
 .hero-unit
-  %h2 Welcome
-  %p This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+  %h2= t :home_hero_title
+  %p= t :home_hero_desc
   %p 
-    %a.btn.btn-primary.btn-large Learn more &raquo;
+    %a.btn.btn-primary.btn-large 
+      = t :home_hero_button
+      &raquo;
 
 <!-- Example row of columns -->
 .row
   .span4
-    %h2 Heading
-    %p Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+    %h2= t :home_heading1_title
+    %p= t :home_heading1_desc
     %p
-      %a.btn(href="#") View details &raquo;
+      %a.btn(href="#")= t :home_heading1_button_html
   .span4
-    %h2 Heading
-    %p Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+    %h2= t :home_heading2_title
+    %p= t :home_heading2_desc
     %p
-      %a.btn(href="#") View details &raquo;
+      %a.btn(href="#")= t :home_heading2_button_html
   .span4
-    %h2 Heading
-    %p Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+    %h2= t :home_heading3_title
+    %p= t :home_heading3_desc
     %p
-      %a.btn(href="#") View details &raquo;
+      %a.btn(href="#")= t :home_heading3_button_html

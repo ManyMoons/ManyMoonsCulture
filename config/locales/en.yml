@@ -1,2 +1,17 @@
 en:
-  hello: "Hello world"
+  # hero section
+  home_hero_title: "Welcome"
+  home_hero_desc: "This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique."
+  home_hero_button: "Learn more"
+
+  home_heading1_title: "Heading One"
+  home_heading1_desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+  home_heading1_button_html: View details &raquo;
+
+  home_heading2_title: "Heading Two"
+  home_heading2_desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+  home_heading2_button_html: View details &raquo;
+
+  home_heading3_title: "Heading Three"
+  home_heading3_desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+  home_heading3_button_html: View details &raquo;
