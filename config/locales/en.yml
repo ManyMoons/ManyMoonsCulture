@@ -3,3 +3,7 @@
 
 en:
   hello: "Hello world"
+cn:
+  hello: "ni hao"
+kr:
+  hello: "Hello world"
