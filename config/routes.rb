@@ -13,6 +13,7 @@ ManyMoons::Application.routes.draw do
 
   match 'exchange' => 'pages#exchange'
   match 'university_tour' => 'pages#university_tour'
+  match 'space_rental' => 'pages#space_rental'
 
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'

@@ -202,7 +202,72 @@ en:
     how_sign_up:
       title: How do I sign up?
       desc: For more information please contact Sung at sung@manymoonsculture.org so that we can send you a brochure and application form with more information.
-    
+
+  # Services > Space Rental
+  space_rental:
+    title: Space Rental
+    desc:
+      Need a centrally located place to hold a party, meeting or other special 
+      gathering? Consider renting a space at the Many Moons Center – our resources 
+      are at your disposal. Contact us at info@manymoonsculture.org to make a 
+      reservation. 
+    main:
+      title: Main Events Room
+      desc:
+        <ul>
+          <li>6 square tables</li>
+          <li>Seating capacity&#58; 40</li>
+          <li>Projector & laptop</li>
+          <li>Small stereo</li>
+          <li>Keyboard</li>
+        </ul>
+
+        <hr />
+        Member price&#58; 150 RMB/hour 
+        <br />
+        Non-Member price&#58; 200 RMB/hour
+    reading:
+      title: Reading Room
+      desc:
+        <ul>
+          <li>Seating capacity&#58; 10</li>
+          <li>Imported books and magazines (click here to download list)</li>
+        </ul>
+
+        <hr />
+        Member price&#58; 50 RMB/hour 
+        <br />
+        Non-Member price&#58; 80 RMB/hour
+    workshop:
+      title: Workshop
+      desc:
+        <ul>
+          <li>Large work table</li>
+          <li>Seating capacity&#58; 10</li>
+          <li>Two ovens</li>
+          <li>Baking equipment (cookie cutters, measuring cups, baking pans, etc.)</li>
+          <li>Arts & crafts books, cookbooks, magazines</li>
+          <li>Paper cutter</li>
+          <li>CD player</li>
+        </ul>
+
+        <hr />
+        Member price&#58; 50 RMB/hour 
+        <br />
+        Non-Member price&#58; 80 RMB/hour
+    bonus:
+      title: Free wireless internet and games available for use throughout the center&#58; 
+      desc:
+        <ul>
+          <li>Monopoly (Chinese edition)</li>
+          <li>Scrabble</li>
+          <li>Chinese chess</li>
+          <li>Pictionary</li>
+          <li>Guesstures</li>
+          <li>Clue</li>
+          <li>Taboo</li>
+          <li>Playing cards and more</li>
+        </ul>
 
   about:
     hi: 'hello america'

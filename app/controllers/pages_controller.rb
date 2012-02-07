@@ -24,6 +24,9 @@ class PagesController < ApplicationController
   def university_tour
   end
 
+  def space_rental
+  end
+
   def ping
   end
 
