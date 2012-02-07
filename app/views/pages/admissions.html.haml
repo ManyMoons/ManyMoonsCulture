@@ -1,4 +1,4 @@
-%h2 Admissions Consulting
+%h2= t :'admissions.title'
 %hr
 
 .alert.alert-info
@@ -25,13 +25,14 @@
 %p= raw(t :'admissions.process.desc')
 %hr
 
-%h3= t :'admissions.calendar.title'
-%p= raw(t :'admissions.calendar.desc')
-%hr
-
-%h3= t :'admissions.school_fees.title'
-%p= raw(t :'admissions.school_fees.desc')
-%hr
+.row
+  .span5
+    .well
+      %h3= t :'admissions.calendar.title'
+      %p= raw(t :'admissions.calendar.desc')
+  .span7
+    %h3= t :'admissions.school_fees.title'
+    %p= raw(t :'admissions.school_fees.desc')
 
 %h3= t :'admissions.additional_costs.title'
 %p= raw(t :'admissions.additional_costs.desc')

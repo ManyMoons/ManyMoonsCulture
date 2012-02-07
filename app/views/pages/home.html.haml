@@ -13,7 +13,7 @@
     %h2= t :'home.heading1.title'
     %p= t :'home.heading1.desc'
     %p
-      %a.btn(href="#")= t :'home.heading1.button_html'
+      = link_to t(:'home.heading1.button_html'), admissions_url, { :class => 'btn' }
   .span4
     %h2= t :'home.heading2.title'
     %p= t :'home.heading2.desc'
