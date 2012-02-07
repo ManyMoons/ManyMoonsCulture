@@ -25,5 +25,8 @@ ko:
       desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
       button_html: "View details &raquo;"
 
+  about:
+    hi: 'hello korea'
+
   # footer section
   footer_html: "&copy; Company 2012"

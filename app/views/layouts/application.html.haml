@@ -28,12 +28,16 @@
             %span.i-bar
             %span.i-bar
             %span.i-bar
-          %a.brand{:href => "/"}= t :'header.title'
+              %a.brand{:href => "#{root_path}"}= t :'header.title'
           .container.nav-collapse
             %ul.nav
               %li= link_to t(:'header.link_home'), root_path
               %li= link_to t(:'header.link_about'), about_path
               %li= link_to t(:'header.link_contact'), contact_path
+            %ul.nav.pull-right
+              %li= link_to "Chinese", url_for(:controller => params[:controller], :action => params[:action], :locale => 'zh-CN')
+              %li= link_to "Korean", url_for(:controller => params[:controller], :action => params[:action], :locale => 'ko')
+              %li= link_to "English", url_for(:controller => params[:controller], :action => params[:action], :locale => 'en')
 
     .container
       = yield
