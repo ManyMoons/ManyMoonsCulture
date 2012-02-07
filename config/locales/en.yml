@@ -6,7 +6,7 @@ en:
     link_about: "About"
     link_contact: "Contact"
 
-  # hero section
+  # home page
   home:
     hero:
       title: "Welcome to Many Moons Cultural Exchange"
@@ -24,6 +24,113 @@ en:
       title: "Dream"
       desc: "Week long excursion to states... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
       button_html: "View details &raquo;"
+
+  # Services > Admissions
+  admissions:
+    intro:
+      title: Many Moons Educational Consultation Services
+      desc:
+        We believe that an American education is the best in the world. Our 
+        mission is to help students and parents to reach their dreams of 
+        receiving an American education. We specialize in helping families 
+        through the application process, visa process and securing a homestay 
+        while studying in America. This process can be complicated and difficult 
+        for many students but our promise is that we will provide an honest and 
+        complete service for our families.
+    philosophy:
+      title: International Boarding Philosophy
+      desc:
+        Homestay is a unique feature of our boarding program. We believe that 
+        international students living with American families creates a much 
+        better educational environment and provides more social and emotional 
+        support than an impersonal boarding dorm. Host families are carefully 
+        chosen after a background and reference check and personal interviews.
+        Orientation and ongoing support is provided for both host families and 
+        international students.
+    process:
+      title: Admission Process
+      desc:
+        <ol>
+          <li>Print and submit our application for admission to Mr. Sung Chung at sung@manymoonsculture.org</li>
+          <li>Once we receive your application, we will schedule a Skype student interview. The interview consists of our meeting with the applicant for about 15 minutes. The interview can also be conducted in person if the applicant is available.</li>
+          <li>Admission decision - Following the interview, a decision will be made regarding admission. The decision is made based on the student application, interview, availability of host families, and the fit of the student with the available host families. The acceptance decision will be emailed to the family. If the student is accepted, the I-20 will be sent to the family by mail after a deposit and enrollment contract are submitted.</li>
+        </ol>
+    calendar:
+      title: School Calendar
+      desc:
+        <ul>
+          <li>Early August&#58; International Student Boarding Orientation</li>
+          <li>Mid-August through mid-December&#58; First Semester</li>
+          <li>Late-December- early January&#58; two week Christmas Vacation</li>
+          <li>Mid-January through early June&#58; Second Semester</li>
+        </ul>
+    school_fees:
+      title: Tuition and Fees
+      desc:
+        <p>
+          Tuition and Fees include&#58; enrollment and orientation fees, special 
+          fieldtrips, special dinners and excursions, college counseling, college 
+          application assistance, books, international processing services. 
+        </p>
+        
+        <p>
+          Tuition and fees for 2011-2012 are&#58;
+        </p>
+         
+        <p>
+          <strong>Traders Point Christian Academy</strong>
+          <br />
+          $16,000 per year for grades 7 - 12
+        </p>
+          
+        <p>
+          <strong>Eastside Christian High School</strong>
+          <br />
+          $18,000 per year for grades 7 - 12
+        </p>
+    additional_costs:
+      title: Estimated Additional Costs
+      desc:
+        <p>
+          Homestay fees, lunch and athletic participation fees are not included in 
+          tuition and fees noted above. These additional fees will be billed to 
+          the student’s family monthly by the schools. 
+        </p>
+        
+        <p>
+          Anticipated additional fees are&#58;
+        </p>
+         
+        <ul>
+          <li>Homestay fees ($10,000 for TPCA per year and $20,000 Eastside for  per year)</li>
+          <li>School lunch (approximately $70 per month)</li>
+          <li>Athletic participation fees (approximately $100 per sport)</li>
+          <li>Uniforms (Eastside only about $300 depending on items)</li>
+          <li>Ipad2 Program (Eastside only $350)</li>
+          <li>Return to home country during Christmas break and/or summer break</li>
+          <li>Must bring $1000 Visa card for incidental expenses (clothing; shoes; weekend entertainment; instrumental music rental; extra art, dance, athletic lessons, etc.)</li>
+        </ul>
+
+    mm_fees:
+      title: Many Moons Consultation Fee 
+      desc:
+        <ul>
+          <li>1000 RMB application fee</li>
+          <li>20,000 RMB due at reception of I-20</li>
+        </ul>
+        Our mission is to provide you with the service that best suits your needs. 
+        That is why the service fee is only charged after the student has been 
+        accepted to either of the schools. After the application process has 
+        begun, if the student and the school does not seem to be an ideal fit, 
+        there will be no further obligation to pay beyond the 1000 RMB application 
+        fee.
+
+    questions:
+      title: Questions?
+      desc:
+        If you have any questions in terms of how to start the application 
+        process or how to fill out the application, please email us at 
+        sung@manymoonsculture.org. 
 
   about:
     hi: 'hello america'
