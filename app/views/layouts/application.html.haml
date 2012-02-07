@@ -31,8 +31,9 @@
               %a.brand{:href => "#{root_path}"}= t :'header.title'
           .container.nav-collapse
             %ul.nav
-              %li= link_to t(:'header.link_home'), root_path
-              %li.dropdown 
+              %li{ :class => params[:action].include?('home') ? 'active' : '' }
+                = link_to t(:'header.link_home'), root_path
+              %li.dropdown{ :class => %w[services admissions exchange university_tour space_rental].include?(params[:action]) ? 'active' : '' }
                 = link_to raw("#{'Services'} <b class='caret'></b>"), root_url, { :class => "dropdown-toggle", 'data-toggle' => "dropdown" }
                 %ul.dropdown-menu
                   %li
@@ -44,7 +45,7 @@
                   %li.divider
                   %li
                     = link_to "Space Rental", space_rental_url
-              %li.dropdown 
+              %li.dropdown{ :class => %w[mission locations staff our_name].include?(params[:action]) ? 'active' : '' }
                 = link_to raw("#{'About'} <b class='caret'></b>"), root_url, { :class => "dropdown-toggle", 'data-toggle' => "dropdown" }
                 %ul.dropdown-menu
                   %li
@@ -57,7 +58,8 @@
                   %li
                     = link_to "Our Name", our_name_url
 
-              %li= link_to t(:'header.link_contact'), contact_path
+              %li{ :class => params[:action] == 'contact' ? 'active' : '' }
+                = link_to t(:'header.link_contact'), contact_path
             %ul.nav.pull-right
               %li{ :class => params[:locale].nil? || params[:locale].include?('zh-CN') ? "active" : '' }
                 = link_to "中文", url_for(:controller => params[:controller], :action => params[:action], :locale => 'zh-CN')
