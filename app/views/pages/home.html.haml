@@ -18,7 +18,7 @@
     %h2= t :'home.heading2.title'
     %p= t :'home.heading2.desc'
     %p
-      %a.btn(href="#")= t :'home.heading2.button_html'
+      = link_to t(:'home.heading1.button_html'), exchange_url, { :class => 'btn' }
   .span4
     %h2= t :'home.heading3.title'
     %p= t :'home.heading3.desc'

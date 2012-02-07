@@ -132,6 +132,22 @@ en:
         process or how to fill out the application, please email us at 
         sung@manymoonsculture.org. 
 
+  # Services > Cultural Exchange
+  exchange:
+    title: Cultural Exchange
+    desc:
+      <p>
+        Many Moons Cultural Exchange is an organization that exists to promote personal growth and building community through the discussion and experience of culture.
+      </p>
+
+      <p>
+        The emphasis of a Many Moons event is first-hand experience. Where books, movies and the media can give us a glimpse of life in other countries, a Many Moons event allows people to try things themselves. It’s the difference between seeing a beautiful Christmas tree and decorating one yourself, knowing that Americans eat turkey at Thanksgiving and tasting it yourself. 
+      </p>
+
+      <p>
+        So if you’re curious about other cultures and like to explore, come to an event at our center and experience something new.
+      </p>
+
   about:
     hi: 'hello america'
 

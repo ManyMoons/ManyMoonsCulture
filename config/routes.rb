@@ -11,6 +11,8 @@ ManyMoons::Application.routes.draw do
   match 'eastside' => 'pages#eastside'
   match 'tpca' => 'pages#tpca'
 
+  match 'exchange' => 'pages#exchange'
+
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'
   # Keep in mind you can assign values other than :controller and :action
