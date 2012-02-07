@@ -1,0 +1,19 @@
+%h2= t :'university_tour.title'
+%br
+
+.well
+  %h3= t :'university_tour.walk.title'
+  = t :'university_tour.walk.desc'
+  %hr
+
+  %h3= t :'university_tour.visit.title'
+  = t :'university_tour.visit.desc'
+
+.row
+  .span6
+    .well= raw(t :'university_tour.how_where_when_cost')
+  .span6
+    .alert
+      %strong= t :'university_tour.how_sign_up.title'
+      %br
+      = t :'university_tour.how_sign_up.desc'

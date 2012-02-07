@@ -21,6 +21,9 @@ class PagesController < ApplicationController
   def exchange
   end
 
+  def university_tour
+  end
+
   def ping
   end
 

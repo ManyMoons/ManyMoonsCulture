@@ -27,6 +27,8 @@ en:
 
   # Services > Admissions
   admissions:
+    title: Admissions Consulting
+
     intro:
       title: Many Moons Educational Consultation Services
       desc:
@@ -147,6 +149,60 @@ en:
       <p>
         So if you’re curious about other cultures and like to explore, come to an event at our center and experience something new.
       </p>
+
+  # Services > University Tour
+  university_tour:
+    title: American Cultural University Tour
+
+    walk:
+      title: Come walk the streets where George Washington, Thomas Jefferson and their colleagues walked! 
+      desc: 
+        The tour will include visiting major cities of historical significance such
+        as Boston, New York City, West Point, Baltimore, Philadelphia,
+        Gettysburg, Hershey, Washington, D.C., and many more!
+
+    visit:
+      title: Visit the universities of Harvard, Princeton and other major educational institutions that have shaped and formed the leaders of America.
+      desc:
+        Students will have opportunities to visit the campuses
+        and meet with Admissions representative to discuss admissions
+        requirement and preparation for future applicants.
+
+    study:
+      title: Study English in the context of America’s culture and history.
+      desc:
+        Travelers will be accompanied by ESL teachers who will incorporate
+        the curriculum of each day into an English learning opportunity.
+
+    how_where_when_cost:
+      <p>
+        <strong>How Long?</strong>
+        <br />
+        7 days 
+      </p>
+     
+      <p>
+        <strong>Where?</strong>
+        <br />
+        From Boston to Washington D.C.
+      </p>
+      
+      <p>
+        <strong>When?</strong>
+        <br />
+        Coming August of 2012!
+      </p>
+       
+      <p>
+        <strong>How Much?</strong>
+        <br />
+        2000USD per person not including airfare to and from the United States.
+      </p>
+
+    how_sign_up:
+      title: How do I sign up?
+      desc: For more information please contact Sung at sung@manymoonsculture.org so that we can send you a brochure and application form with more information.
+    
 
   about:
     hi: 'hello america'
