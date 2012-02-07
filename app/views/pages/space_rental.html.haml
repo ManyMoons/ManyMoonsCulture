@@ -1,0 +1,40 @@
+%h2= t :'space_rental.title'
+%br
+
+.row
+  .span5
+    = t :'space_rental.desc'
+
+    %hr
+    %p
+      = raw(t :'space_rental.bonus.title')
+      .row
+        .span4
+          = raw(t :'space_rental.bonus.desc')
+        .span3
+          = image_tag asset_path('res04.jpg')
+  .span7
+    .alert.alert-info
+      .row
+        .span3
+          = image_tag asset_path('res02.jpg')
+        .span3
+          %p
+            %strong= t :'space_rental.main.title'
+          = raw(t :'space_rental.main.desc')
+    .alert
+      .row
+        .span3
+          = image_tag asset_path('res01.jpg')
+        .span3
+          %p
+            %strong= t :'space_rental.reading.title'
+          = raw(t :'space_rental.reading.desc')
+    .alert.alert-success
+      .row
+        .span3
+          = image_tag asset_path('res_03.jpg')
+        .span3
+          %p
+            %strong= t :'space_rental.workshop.title'
+          = raw(t :'space_rental.workshop.desc')

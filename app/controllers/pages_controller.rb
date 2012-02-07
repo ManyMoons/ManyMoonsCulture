@@ -24,6 +24,21 @@ class PagesController < ApplicationController
   def university_tour
   end
 
+  def space_rental
+  end
+
+  def mission
+  end
+
+  def locations
+  end
+
+  def staff
+  end
+
+  def our_name
+  end
+
   def ping
   end
 

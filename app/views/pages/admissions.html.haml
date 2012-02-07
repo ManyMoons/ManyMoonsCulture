@@ -1,0 +1,42 @@
+%h2= t :'admissions.title'
+%hr
+
+.alert.alert-info
+  %h3= t :'admissions.questions.title'
+  %p= t :'admissions.questions.desc'
+
+%h3= t :'admissions.intro.title'
+%p= t :'admissions.intro.desc'
+%hr
+
+%h3= t :'admissions.philosophy.title'
+%p= t :'admissions.philosophy.desc'
+%hr
+
+%ul.thumbnails
+  %li.span5
+    .thumbnail
+      = link_to image_tag(asset_path('eastside-logo.png')), eastside_url, { :class => 'thumbnail' }
+  %li.span7
+    .thumbnail
+      = link_to image_tag(asset_path('tpca-logo.png')), tpca_url, { :class => 'thumbnail' }
+
+%h3= t :'admissions.process.title'
+%p= raw(t :'admissions.process.desc')
+%hr
+
+.row
+  .span5
+    .well
+      %h3= t :'admissions.calendar.title'
+      %p= raw(t :'admissions.calendar.desc')
+  .span7
+    %h3= t :'admissions.school_fees.title'
+    %p= raw(t :'admissions.school_fees.desc')
+
+%h3= t :'admissions.additional_costs.title'
+%p= raw(t :'admissions.additional_costs.desc')
+
+%h3= t :'admissions.mm_fees.title'
+%p= raw(t :'admissions.mm_fees.desc')
+%hr

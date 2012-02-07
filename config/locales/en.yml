@@ -6,27 +6,30 @@ en:
     link_about: "About"
     link_contact: "Contact"
 
-  # hero section
+  # home page
   home:
     hero:
-      title: "Welcome"
-      desc: "This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique."
+      title: "Welcome to Many Moons Cultural Exchange"
+      desc: "connecting students with an opportunity to grow"
       button: "Learn more"
     heading1:
-      title: "Heading One"
-      desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+      title: "Connect"
+      desc: "Connecting students to schools... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
       button_html: "View details &raquo;"
     heading2:
-      title: "Heading One"
-      desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+      title: "Experience"
+      desc: "Shanhai MM... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
       button_html: "View details &raquo;"
     heading3:
-      title: "Heading One"
-      desc: "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+      title: "Dream"
+      desc: "Week long excursion to states... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
       button_html: "View details &raquo;"
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> verbiage
   # Services > Admissions
   admissions:
     title: Admissions Consulting
@@ -151,6 +154,27 @@ en:
       <p>
         So if you’re curious about other cultures and like to explore, come to an event at our center and experience something new.
       </p>
+<<<<<<< HEAD
+=======
+    quote1:
+      text:
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+        enim ad minim veniam, quis nostrud exercitation
+      author: Mike Chang
+    quote2:
+      text:
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui 
+        officia deserunt mollit anim id est laborum.
+      author: Chen Lee
+    quote3:
+      text:
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem 
+        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
+        quae ab illo.
+      author: Victor Zhao
+
+>>>>>>> verbiage
 
   # Services > University Tour
   university_tour:
@@ -204,10 +228,88 @@ en:
     how_sign_up:
       title: How do I sign up?
       desc: For more information please contact Sung at sung@manymoonsculture.org so that we can send you a brochure and application form with more information.
+<<<<<<< HEAD
     
 
+=======
+
+  # Services > Space Rental
+  space_rental:
+    title: Space Rental
+    desc:
+      Need a centrally located place to hold a party, meeting or other special 
+      gathering? Consider renting a space at the Many Moons Center – our resources 
+      are at your disposal. Contact us at info@manymoonsculture.org to make a 
+      reservation. 
+    main:
+      title: Main Events Room
+      desc:
+        <ul>
+          <li>6 square tables</li>
+          <li>Seating capacity&#58; 40</li>
+          <li>Projector & laptop</li>
+          <li>Small stereo</li>
+          <li>Keyboard</li>
+        </ul>
+
+        <hr />
+        Member price&#58; 150 RMB/hour 
+        <br />
+        Non-Member price&#58; 200 RMB/hour
+    reading:
+      title: Reading Room
+      desc:
+        <ul>
+          <li>Seating capacity&#58; 10</li>
+          <li>Imported books and magazines (click here to download list)</li>
+        </ul>
+
+        <hr />
+        Member price&#58; 50 RMB/hour 
+        <br />
+        Non-Member price&#58; 80 RMB/hour
+    workshop:
+      title: Workshop
+      desc:
+        <ul>
+          <li>Large work table</li>
+          <li>Seating capacity&#58; 10</li>
+          <li>Two ovens</li>
+          <li>Baking equipment (cookie cutters, measuring cups, baking pans, etc.)</li>
+          <li>Arts & crafts books, cookbooks, magazines</li>
+          <li>Paper cutter</li>
+          <li>CD player</li>
+        </ul>
+
+        <hr />
+        Member price&#58; 50 RMB/hour 
+        <br />
+        Non-Member price&#58; 80 RMB/hour
+    bonus:
+      title: Free wireless internet and games available for use throughout the center&#58; 
+      desc:
+        <ul>
+          <li>Monopoly (Chinese edition)</li>
+          <li>Scrabble</li>
+          <li>Chinese chess</li>
+          <li>Pictionary</li>
+          <li>Guesstures</li>
+          <li>Clue</li>
+          <li>Taboo</li>
+          <li>Playing cards and more</li>
+        </ul>
+
+  # About
+>>>>>>> verbiage
   about:
-    hi: 'hello america'
+    mission:
+      title: Mission Statement
+    locations:
+      title: Locations
+    staff:
+      title: Staff
+    our_name:
+      title: Our Name
 
   # footer section
   footer_html: "&copy; Company 2012"
