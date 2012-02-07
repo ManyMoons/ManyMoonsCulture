@@ -48,14 +48,14 @@
                 = link_to raw("#{'About'} <b class='caret'></b>"), root_url, { :class => "dropdown-toggle", 'data-toggle' => "dropdown" }
                 %ul.dropdown-menu
                   %li
-                    %a(href='#') Mission Statement
+                    = link_to "Mission Statement", mission_url
                   %li
-                    %a(href='#') Locations
+                    = link_to "Locations", locations_url
                   %li
-                    %a(href='#') Staff
+                    = link_to "Staff", staff_url
                   %li.divider
                   %li
-                    %a(href='#') Our Name
+                    = link_to "Our Name", our_name_url
 
               -#%li= link_to t(:'header.link_about'), about_path
               %li= link_to t(:'header.link_contact'), contact_path

@@ -287,8 +287,16 @@ en:
           <li>Playing cards and more</li>
         </ul>
 
+  # About
   about:
-    hi: 'hello america'
+    mission:
+      title: Mission Statement
+    locations:
+      title: Locations
+    staff:
+      title: Staff
+    our_name:
+      title: Our Name
 
   # footer section
   footer_html: "&copy; Company 2012"

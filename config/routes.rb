@@ -15,6 +15,11 @@ ManyMoons::Application.routes.draw do
   match 'university_tour' => 'pages#university_tour'
   match 'space_rental' => 'pages#space_rental'
 
+  match 'mission' => 'pages#mission'
+  match 'locations' => 'pages#locations'
+  match 'staff' => 'pages#staff'
+  match 'our_name' => 'pages#our_name'
+
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'
   # Keep in mind you can assign values other than :controller and :action
