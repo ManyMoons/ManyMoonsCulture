@@ -16,10 +16,10 @@
 %ul.thumbnails
   %li.span5
     .thumbnail
-      = link_to image_tag(asset_path('eastside-logo.png')), root_url, { :class => 'thumbnail' }
+      = link_to image_tag(asset_path('eastside-logo.png')), eastside_url, { :class => 'thumbnail' }
   %li.span7
     .thumbnail
-      = link_to image_tag(asset_path('tpca-logo.png')), root_url, { :class => 'thumbnail' }
+      = link_to image_tag(asset_path('tpca-logo.png')), tpca_url, { :class => 'thumbnail' }
 
 %h3= t :'admissions.process.title'
 %p= raw(t :'admissions.process.desc')

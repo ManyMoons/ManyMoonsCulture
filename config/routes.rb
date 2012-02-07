@@ -8,6 +8,8 @@ ManyMoons::Application.routes.draw do
   match 'ping' => 'pages#ping'
 
   match 'admissions' => 'pages#admissions'
+  match 'eastside' => 'pages#eastside'
+  match 'tpca' => 'pages#tpca'
 
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'

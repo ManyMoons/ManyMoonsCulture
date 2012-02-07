@@ -12,6 +12,12 @@ class PagesController < ApplicationController
   def admissions
   end
 
+  def eastside
+  end
+
+  def tpca
+  end
+
   def ping
   end
 
