@@ -23,4 +23,4 @@
     %h2= t :'home.heading3.title'
     %p= t :'home.heading3.desc'
     %p
-      %a.btn(href="#")= t :'home.heading3.button_html'
+      = link_to t(:'home.heading3.button_html'), university_tour_url, { :class => 'btn' }
