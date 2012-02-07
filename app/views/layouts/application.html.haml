@@ -32,7 +32,34 @@
           .container.nav-collapse
             %ul.nav
               %li= link_to t(:'header.link_home'), root_path
-              %li= link_to t(:'header.link_about'), about_path
+              %li.dropdown 
+                = link_to raw("#{'Services'} <b class='caret'></b>"), root_url, { :class => "dropdown-toggle", 'data-toggle' => "dropdown" }
+                %ul.dropdown-menu
+                  %li
+                    %a(href='#') Admissions Consulting
+                  %li
+                    %a(href='#') Culture Exchange
+                  %li
+                    %a(href='#') American University Tour
+                  %li.divider
+                  %li
+                    %a(href='#') Space Rental
+              %li.dropdown 
+                = link_to raw("#{'About'} <b class='caret'></b>"), root_url, { :class => "dropdown-toggle", 'data-toggle' => "dropdown" }
+                %ul.dropdown-menu
+                  %li
+                    %a(href='#') Mission Statement
+                  %li
+                    %a(href='#') Our Schools
+                  %li
+                    %a(href='#') Locations
+                  %li
+                    %a(href='#') Staff
+                  %li.divider
+                  %li
+                    %a(href='#') Our Name
+
+              -#%li= link_to t(:'header.link_about'), about_path
               %li= link_to t(:'header.link_contact'), contact_path
             %ul.nav.pull-right
               %li{ :class => params[:locale].nil? || params[:locale].include?('zh-CN') ? "active" : '' }
