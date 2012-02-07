@@ -25,11 +25,6 @@ en:
       desc: "Week long excursion to states... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
       button_html: "View details &raquo;"
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> verbiage
   # Services > Admissions
   admissions:
     title: Admissions Consulting
@@ -154,8 +149,6 @@ en:
       <p>
         So if you’re curious about other cultures and like to explore, come to an event at our center and experience something new.
       </p>
-<<<<<<< HEAD
-=======
     quote1:
       text:
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
@@ -174,7 +167,6 @@ en:
         quae ab illo.
       author: Victor Zhao
 
->>>>>>> verbiage
 
   # Services > University Tour
   university_tour:
@@ -228,10 +220,6 @@ en:
     how_sign_up:
       title: How do I sign up?
       desc: For more information please contact Sung at sung@manymoonsculture.org so that we can send you a brochure and application form with more information.
-<<<<<<< HEAD
-    
-
-=======
 
   # Services > Space Rental
   space_rental:
@@ -300,7 +288,6 @@ en:
         </ul>
 
   # About
->>>>>>> verbiage
   about:
     mission:
       title: Mission Statement
