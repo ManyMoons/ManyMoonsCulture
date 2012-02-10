@@ -290,7 +290,45 @@ en:
   # About
   about:
     mission:
-      title: Mission Statement
+      title: Mission of Many Moons Educational Consultation
+      desc:
+        <p> 
+          Many Moons Cultural Exchange is an organization that exists to promote 
+          personal growth and building community through the discussion and 
+          experience of culture.
+        </p>
+
+        <p> 
+          Many Moons Educational Consulting continues that vision by acting as a 
+          cultural bridge to give students the opportunity to fully enter the 
+          American high school experience. We believe that studying in America 
+          has value that goes beyond an American diploma. It can profoundly 
+          influence students’ worldview and self-image in a way that will 
+          benefit them for the rest of their lives. 
+        </p>
+
+        <p> 
+          Because we realize that every student is different, our services are 
+          specifically geared to help parents and students fulfill this vision.  
+          From the application process, visa process and updates from host 
+          families even after the students arrive in America, our company will 
+          be your partner all along the way.  
+        </p>
+
+        <p> 
+          The cultural excursion is also a great way for parents and students 
+          to get a firsthand look at the American educational environment and 
+          also experience our company's and partner's services first hand. 
+        </p>
+
+        <p> 
+          We believe our cultural excursions to America and direct relationships 
+          with American schools will inspire confidence in families who are 
+          looking for an honest and reliable partner for their child's education.
+        </p>
+      questions:
+        If you would like more information about our excursions or schools please contact us at info@manymoonsculture.org.
+
     locations:
       title: Locations
     staff:
