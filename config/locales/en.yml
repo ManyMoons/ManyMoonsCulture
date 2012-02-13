@@ -333,8 +333,31 @@ en:
       title: Locations
     staff:
       title: Staff
+
     our_name:
       title: Our Name
+      desc:
+        <p>
+          “Many Moons” is the title of a children’s book by James Thurbur, a noted 
+          American author and illustrator. In it, a princess asks for the moon, 
+          but when the king summons his wise men to figure out how to get it for 
+          her, all they come up with is reasons why it’s impossible. In the end, 
+          it is the court jester who finds the answer, and it is just a matter of 
+          making a simple paradigm shift. But in the end, isn’t that one of the 
+          hardest things for us to do?
+        </p>
+
+        <p>
+          Hard, but not impossible. 
+        </p>
+
+        <p>
+          We want to challenge people to change the way they think. By exposing 
+          people to other cultures, by valuing creativity and imagination, we want 
+          to encourage people to look at the world in a different way, and in so 
+          doing, perhaps to find the answers they’ve been looking for.
+        </p>
+      book_caption: 1990 edition
 
   # footer section
   footer_html: "&copy; Company 2012"

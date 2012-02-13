@@ -1,1 +1,13 @@
 %h2= t :'about.our_name.title'
+%br
+
+.row
+  .span4
+    %ul.thumbnails
+      %li.span4
+        .thumbnail
+          = image_tag asset_path("manymoons_book.jpeg")
+        .caption
+          = t :'about.our_name.book_caption'
+  .span8
+    =raw(t :'about.our_name.desc')
