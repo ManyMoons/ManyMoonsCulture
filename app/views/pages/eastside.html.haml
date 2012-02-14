@@ -15,6 +15,7 @@
       = raw(t :'eastside.history.desc')
     .span6
       <embed src='http://player.youku.com/player.php/sid/XMzUyNDA4MjM2/v.swf' quality='high' width='432' height='360' align='right' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
+%hr
 
 .row
   .span6
@@ -31,11 +32,14 @@
   %h3= t :'eastside.about.title'
   = raw(t :'eastside.about.desc')
 
-%p
-  %h3= t :'eastside.accreditation.title'
-  = raw(t :'eastside.accreditation.desc')
-= image_tag asset_path("eastside_accreditation.png")
+.row
+  .span10
+    %p
+      %h3= t :'eastside.accreditation.title'
+      = raw(t :'eastside.accreditation.desc')
+    %p
+      %h3= t :'eastside.academics.title'
+      = raw(t :'eastside.academics.desc')
+  .span2
+    = image_tag asset_path("eastside_accreditation.png")
 
-%p
-  %h3= t :'eastside.academics.title'
-  = raw(t :'eastside.academics.desc')
