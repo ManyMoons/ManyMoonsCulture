@@ -28,6 +28,8 @@ en:
   # Services > Admissions
   admissions:
     title: Admissions Consulting
+    eastside_link_caption: click for more info
+    tpca_link_caption: click for more info
 
     intro:
       title: Many Moons Educational Consultation Services
