@@ -12,6 +12,8 @@
     .span6
       %h3
         = t :'eastside.history.title'
+      %p
+        = link_to "#{t :'eastside.link.title'}", "http://www.eastsidechristian.org", { :target => "_blank" }
       = raw(t :'eastside.history.desc')
     .span6
       <embed src='http://player.youku.com/player.php/sid/XMzUyNDA4MjM2/v.swf' quality='high' width='432' height='360' align='right' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
@@ -26,7 +28,6 @@
         .caption= t :'eastside.map_caption'
   .span6
     = raw(t :'eastside.fast_facts.desc')
-    = link_to "#{t :'eastside.link.title'}", "http://www.eastsidechristian.org", { :target => "_blank" }
 
 %p
   %h3= t :'eastside.about.title'
