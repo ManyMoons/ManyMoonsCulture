@@ -1,3 +1,37 @@
-%h2 Eastside Christian Schools
+%ul.thumbnails
+  %li
+    %a.thumbnail(target="_blank" href="http://www.eastsidechristian.org")
+      = image_tag(asset_path('eastside-logo.png'), { :alt => "Eastside Christian Schools" })
 
-= image_tag(asset_path('eastside-logo.png'))
+.alert.alert-info
+  %h3= t :'eastside.admissions.title'
+  = raw(t :'eastside.admissions.desc')
+
+.row
+  .span7
+    = raw(t :'eastside.fast_facts.desc')
+    = link_to "#{t :'eastside.link.title'}", "http://www.eastsidechristian.org", { :target => "_blank" }
+    %br
+    %br
+    %h3
+      = t :'eastside.history.title'
+    = raw(t :'eastside.history.desc')
+  .span5
+    %ul.thumbnails
+      %li.span5
+        %a.thumbnail(target="_blank" href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=1701+W+Valencia+Dr,+Fullerton,+CA+92833&sll=33.889192,-117.891412&sspn=0.010456,0.015492&ie=UTF8&ll=33.869703,-117.953339&spn=0.083666,0.12394&z=13&iwloc=addr")
+          = image_tag asset_path("eastside_map.png")
+        .caption= t :'eastside.map_caption'
+
+%p
+  %h3= t :'eastside.about.title'
+  = raw(t :'eastside.about.desc')
+
+%p
+  %h3= t :'eastside.accreditation.title'
+  = raw(t :'eastside.accreditation.desc')
+= image_tag asset_path("eastside_accreditation.png")
+
+%p
+  %h3= t :'eastside.academics.title'
+  = raw(t :'eastside.academics.desc')

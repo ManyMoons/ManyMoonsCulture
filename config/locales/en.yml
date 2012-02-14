@@ -134,6 +134,119 @@ en:
         process or how to fill out the application, please email us at 
         sung@manymoonsculture.org. 
 
+  eastside:
+    fast_facts:
+      title: Fast Facts
+      desc: 
+        <table class="table table-striped table-bordered table-condensed">
+          <tbody>
+            <tr>
+              <td>Year Established&#58;</td>
+              <td>1976</td>
+            </tr>
+            <tr>
+              <td>School type&#58;</td> <td>K-12</td>
+            </tr>
+            <tr>
+              <td>Number of Students&#58;</td> <td>556</td>
+            </tr>
+            <tr>
+              <td>Student Teacher Ratio&#58;</td> <td>1&#58;16</td>
+            </tr>
+            <tr>
+              <td>Location&#58;</td> <td>Fullerton, California</td>
+            </tr>
+            <tr>
+              <td>Religious Affiliation&#58;</td><td>Christian</td>
+            </tr>
+            <tr>
+              <td>Accreditation&#58;</td><td>Western Association of Schools and Colleges</td>
+            </tr>
+          </tbody>
+        </table>
+    map_caption: google map
+    link:
+      title: Goto Eastside Christian Schools webpage
+    history:
+      title: School History
+      desc:
+        <p>
+          Eastside Christian Schools was established as part of the Eastside 
+          Christian Church ministry in 1976. David Schoen has been the lead 
+          administrator since 1980 when the school was a preschool through 
+          fifth grade campus of 100 students.
+        </p>
+         
+        <p>
+          The school grew rapidly during the 1980's, filling the space that 
+          Eastside Christian Church was able to provide at the time. As the 
+          church added facilities, the school was given additional office and 
+          classroom space as well. As part of the growth process, grades were 
+          added up through eighth grade.
+        </p>
+          
+        <p>
+          As Eastside Christian Schools matured, it became apparent that the 
+          school needed to become a separate corporation to expand our 
+          Christian school ministry to additional locations as well as to 
+          add a high school.
+          Today Eastside Christian Schools has grown to become a fully 
+          accredited educational program and operates two school campuses in 
+          the City of Fullerton California. At Eastside you will find a 
+          comprehensive educational program for all age groups from preschool 
+          through twelfth grade.
+        </p>
+
+    about:
+      title: About Eastside
+      desc:
+        Eastside Christian High School and Junior High operates a comprehensive 
+        high school and junior high program in a shared facility in freeway-close 
+        west Fullerton. With large classrooms, cafeteria, gymnasium, science labs 
+        and computer lab on site, and Hunt Branch Public Library sharing its 
+        border; Eastside occupies property owned by Grace Ministries International, 
+        and leases local city fields for outdoor sports. Students are encouraged to 
+        participate in a variety of activities, including sports, arts, service and 
+        leadership. With opportunities such as extra-curricular mission trips and a 
+        four-year film-making institute, Eastside offers the basics of a curriculum 
+        for college preparation while it provides areas of high interest for 
+        students to explore.
+    accreditation:
+      title: Accreditation
+      desc:
+        Our K-12 program is accredited by the Western Association of Schools and 
+        Colleges (WA SC). Detailed information in regards to WASC accreditation 
+        can be found on their 
+        <a href="http://www.acswasc.org/index.htm" target="_blank">website</a>.  
+
+    academics:
+      title: Academics
+      desc:
+        <p>
+          Both the Eastside junior high and high school program received a 
+          six-year term of accreditation from the Western Association of 
+          Schools and Colleges in 2007. The curriculum at Eastside is college 
+          prep, and meets all curricular requirements of the University of 
+          California. All a-g high school courses have been submitted and 
+          approved by the UC board. ECHS graduation requirements meet 
+          pre-requisites for UC or CSU admission, with the additional 
+          requirement of four years of Bible and three semesters of 
+          business/technology. 
+        </p>
+         
+        <p>
+          Students may choose from <strong>eight AP courses</strong> during 
+          their junior and senior years, and a trip to Europe for additional 
+          academic credit.
+        </p>
+
+    admissions:
+      title: Admissions
+      desc:
+        If you would like more information about applying to Eastside, please 
+        contact Mr. Sung Chung, who is the Eastside Christian Schools 
+        representative for China, at sung@manymoonsculture.org.
+
   # Services > Cultural Exchange
   exchange:
     title: Cultural Exchange
