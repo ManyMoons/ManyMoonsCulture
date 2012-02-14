@@ -8,24 +8,28 @@
   = raw(t :'tpca.admissions.desc')
 
 .row
-  .span7
-    = raw(t :'tpca.fast_facts.desc')
-    = link_to "#{t :'tpca.link.title'}", "http://www.tpcs.org", { :target => "_blank" }
-    %br
-    %br
+  .span6 
     %h3
       = t :'tpca.history.title'
-    = raw(t :'tpca.history.desc')
-  .span5
+    %p
+      = link_to "#{t :'tpca.link.title'}", "http://www.tpcs.org", { :target => "_blank" }
+    %p
+      = raw(t :'tpca.history.desc')
+    %p
+      = raw(t :'tpca.fast_facts.desc')
+  .span6
+    <embed src='http://player.youku.com/player.php/sid/XMzUyNDAzMjQw/v.swf' quality='high' width='432' height='360' align='right' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
+
+.row
+  .span6
     %ul.thumbnails
       %li.span5
         %a.thumbnail(target="_blank" href="http://maps.google.com/maps?q=+Traders+Point+Christian+Church%E2%80%8E+6590+South+Indianapolis+Road+Whitestown,+IN+46075&hl=en&ie=UTF8&ll=39.943568,-86.357775&spn=0.013704,0.018797&sll=39.944926,-86.357596&sspn=0.013703,0.018797&hq=Traders+Point+Christian+Church%E2%80%8E+6590+South+Indianapolis+Road+Whitestown,+IN+46075&radius=15000&t=m&z=16")
           = image_tag asset_path("tpca_map.png")
         .caption= t :'tpca.map_caption'
-
-%p
-  %h3= t :'tpca.about.title'
-  = raw(t :'tpca.about.desc')
+  .span6
+    %h3= t :'tpca.about.title'
+    = raw(t :'tpca.about.desc')
 
 %p
   %h3= t :'tpca.accreditation.title'
