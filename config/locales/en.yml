@@ -249,6 +249,111 @@ en:
         contact Mr. Sung Chung, who is the Eastside Christian Schools 
         representative for China, at sung@manymoonsculture.org.
 
+  tpca:
+    link:
+      title: Goto Traders Point Christian Academy webpage
+    map_caption: google map
+    fast_facts:
+      title: Fast Facts
+      desc:
+        <table class="table table-striped table-bordered table-condensed">
+          <tbody>
+            <tr>
+              <td>Year Established&#58;</td><td>1976</td>
+            <tr>
+            </tr>
+              <td>School type&#58;</td><td>K-12</td>
+            <tr>
+            </tr>
+              <td>Number of Students&#58;</td><td>590</td>
+            <tr>
+            </tr>
+              <td>Student Teacher Ratio&#58;</td><td>1&#58;13</td>
+            <tr>
+            </tr>
+              <td>Location&#58;</td><td>Whitestown, Indiana</td>
+            <tr>
+            </tr>
+              <td>Religious Affiliation&#58;</td><td>Christian</td>
+            <tr>
+            </tr>
+              <td>
+                Accreditation&#58;</td><td>Association of Christian Schools International, 
+                <br />
+                North Central Association and Indiana Department of Education
+              </td>
+            </tr>
+        </table>
+    history:
+      title: School History
+      desc:
+        Traders Point Christian Academy was founded in 1976 and continues to 
+        build a reputation of being one of the most respected private 
+        Christian schools in Indiana. The school mission statement reflects 
+        a commitment to providing exceptional academics within a Biblical 
+        worldview as part of an effort to educate the whole student.
+    about:
+      title: About Traders Point
+      desc:
+        Traders Point Christian Academy (TPCA) is a private Christian school 
+        that serves northwest Indianapolis and outlying areas. We believe 
+        that a complete education includes imparting knowledge and developing 
+        skills in the framework of a Christian values system. Knowledge 
+        involves critical life skills such as learning vocabulary and math. 
+        Skill development is the application of knowledge, which allows 
+        children to become more self-directed and sets the stage for lifelong 
+        learning. But knowledge and skills are not enough to equip a child to 
+        succeed in the world. The heart must be enriched with a value system 
+        through which knowledge is evaluated, skills are applied, and decisions 
+        are made. Teaching Biblical worldview provides the value system through 
+        which students learn how God wants them to behave, react, and respond 
+        to life. A complete education expands the mind and enriches the heart. 
+        That's our goal at TPCA. Join us in fulfilling our mission.
+    accreditation:
+      title: Accreditation
+      acsi: Association of Christian Schools International
+      nca: North Central Association
+      doe_in: Indiana Department of Education
+
+    academics:
+      title: Academics
+      desc:
+        TPCA has a comprehensive media center, science lab, music and visual 
+        arts areas.
+        25 classrooms are fully networked for the most advanced technological 
+        tools to enhance learning. High School students receive Tablet computers 
+        for use during the academic year. Students pursue a rigorous academic 
+        curriculum in the academy tradition while having the freedom to pursue 
+        their own academic passions.
+      sub:
+        <h3>Advanced Placement Courses</h3>
+         
+        <ul>
+          <li>Offer scope and depth of college courses</li>
+          <li>AP test offered; AP courses available in Spanish, World History, Chemistry and English Literature.</li>
+        </ul>
+          
+        <h3>Honors Courses</h3>
+
+        <ul>
+          <li>Offer more in-depth study of subjects</li>
+          <li>Proceed at a faster pace for students</li>
+          <li>Expand opportunities for independent work</li>
+        </ul>
+
+        <h3>College Preparatory Courses</h3>
+
+        <ul>
+          <li>Provide students with the skills and knowledge imperative for college success</li>
+          <li>All major courses not otherwise designated are college preparatory</li>
+        </ul>
+    admissions:
+      title: Admissions
+      desc:
+        If you would like more information about applying to Traders Point 
+        Christian Academy, please contact Mr. Sung Chung, who is the Eastside 
+        Christian Schools representative for China, at sung@manymoonsculture.org.
+
   # Services > Cultural Exchange
   exchange:
     title: Cultural Exchange

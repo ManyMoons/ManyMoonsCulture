@@ -1,3 +1,71 @@
-%h2 Traders Point Christian Academy
+%ul.thumbnails
+  %li
+    %a.thumbnail(target="_blank" href="http://tpcs.org")
+      = image_tag(asset_path('tpca-logo.png'), { :alt => "Traders Point Christian Academy" })
 
-= image_tag(asset_path('tpca-logo.png'))
+.alert.alert-info
+  %h3= t :'tpca.admissions.title'
+  = raw(t :'tpca.admissions.desc')
+
+.row
+  .span7
+    = raw(t :'tpca.fast_facts.desc')
+    = link_to "#{t :'tpca.link.title'}", "http://www.tpcs.org", { :target => "_blank" }
+    %br
+    %br
+    %h3
+      = t :'tpca.history.title'
+    = raw(t :'tpca.history.desc')
+  .span5
+    %ul.thumbnails
+      %li.span5
+        %a.thumbnail(target="_blank" href="http://maps.google.com/maps?q=6600+S.+Indianapolis+Rd.+|+Whitestown,+IN+46075&hl=en&sll=37.0625,-95.677068&sspn=39.047881,79.980469&vpsrc=0&hnear=6600+S+Indianapolis+Rd,+Whitestown,+Indiana+46075&t=m&z=16")
+          = image_tag asset_path("tpca_map.png")
+        .caption= t :'tpca.map_caption'
+
+%p
+  %h3= t :'tpca.about.title'
+  = raw(t :'tpca.about.desc')
+
+%p
+  %h3= t :'tpca.accreditation.title'
+
+:ruby
+  nca_link = "http://www.ncacasi.org"
+  acsi_link = "http://www.acsi.org"
+  doe_in_link = "http://www.doe.state.in.us"
+
+%ul.thumbnails
+  %li.span3
+    %a.thumbnail(target="_blank" href="#{nca_link}")
+      = image_tag(asset_path('tpca_nca.jpg'), { :alt => "#{t :'tcpa.accreditation.nca'}" })
+    .caption
+      = t :'tpca.accreditation.nca'
+      %a(href="#{nca_link}" target="_blank") 
+        #{nca_link.sub('http://','')}
+  %li.span5
+    %a.thumbnail(target="_blank" href="#{acsi_link}")
+      = image_tag(asset_path('tpca_acsi.png'), { :alt => "#{t :'tcpa.accreditation.acsi'}" })
+    .caption
+      = t :'tpca.accreditation.acsi'
+      %a(href="#{acsi_link}" target="_blank")
+        #{acsi_link.sub('http://','')}
+  %li.span4
+    %a.thumbnail(target="_blank" href="#{doe_in_link}")
+      = image_tag(asset_path('tpca_doe_in.png'), { :alt => "#{t :'tcpa.accreditation.doe_in'}" })
+    .caption
+      = t :'tpca.accreditation.doe_in'
+      %a(href="#{doe_in_link}" target="_blank")
+        #{doe_in_link.sub('http://','')}
+
+%p
+  %h3= t :'tpca.academics.title'
+  = raw(t :'tpca.academics.desc')
+.row
+  .span1
+    &nbsp;
+  .span9.well
+    = raw(t :'tpca.academics.sub')
+  .span2
+    &nbsp;
+
