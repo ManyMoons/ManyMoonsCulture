@@ -26,13 +26,12 @@
       %li.span5
         %a.thumbnail(target="_blank" href="http://maps.google.com/maps?q=+Traders+Point+Christian+Church%E2%80%8E+6590+South+Indianapolis+Road+Whitestown,+IN+46075&hl=en&ie=UTF8&ll=39.943568,-86.357775&spn=0.013704,0.018797&sll=39.944926,-86.357596&sspn=0.013703,0.018797&hq=Traders+Point+Christian+Church%E2%80%8E+6590+South+Indianapolis+Road+Whitestown,+IN+46075&radius=15000&t=m&z=16")
           = image_tag asset_path("tpca_map.png")
-        .caption= t :'tpca.map_caption'
+          .caption= t :'tpca.map_caption'
   .span6
     %h3= t :'tpca.about.title'
     = raw(t :'tpca.about.desc')
 
-%p
-  %h3= t :'tpca.accreditation.title'
+%h3= t :'tpca.accreditation.title'
 
 :ruby
   nca_link = "http://www.ncacasi.org"
