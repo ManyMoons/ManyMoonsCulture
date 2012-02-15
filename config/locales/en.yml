@@ -13,15 +13,15 @@ en:
       desc: "Offering quality elementary, junior high and high school education opportunities in the United States."
       button_html: Learn more &raquo;
     heading1:
-      title: "Connect to a school"
+      title: Connect <span class="hero-sub-italic">to a school</span>
       desc: "Education is always a smart investment but how you approach it can make all the difference in the world. Entering one of our private Christian schools and living in a caring homestay environment will put your mind at ease as you prepare for the future. Let us show you how."
       button_html: "View details &raquo;"
     heading2:
-      title: "Experience Culture"
+      title: Experience <span class="hero-sub-italic">culture</span>
       desc: "Culture is more than a book, it is something meant to be experienced and lived. We invite you to come see, smell, hear, taste and feel what American culture is all about."
       button_html: "View details &raquo;"
     heading3:
-      title: "Dream of the future"
+      title: Dream <span class="hero-sub-italic">of the future</span>
       desc: "Come join us on a one week tour of the most historic cities and most prestigious universities in America as we come together to dream of what our future holds."
       button_html: "View details &raquo;"
 
