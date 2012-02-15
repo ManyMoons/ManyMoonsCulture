@@ -3,9 +3,7 @@
   %h2= t :'home.hero.title'
   %p= t :'home.hero.desc'
   %p 
-    %a.btn.btn-primary.btn-large 
-      = t :'home.hero.button'
-      &raquo;
+    = link_to t(:'home.hero.button_html'), admissions_url, { :class => 'btn btn-primary btn-large' }
 
 <!-- Example row of columns -->
 .row

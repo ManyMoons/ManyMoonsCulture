@@ -11,7 +11,7 @@ en:
     hero:
       title: "Welcome to Many Moons Cultural Exchange"
       desc: "Offering quality elementary, junior high and high school education opportunities in the United States."
-      button: "Learn more"
+      button_html: Learn more &raquo;
     heading1:
       title: "Connect to a school"
       desc: "Education is always a smart investment but how you approach it can make all the difference in the world. Entering one of our private Christian schools and living in a caring homestay environment will put your mind at ease as you prepare for the future. Let us show you how."
