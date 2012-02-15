@@ -10,19 +10,19 @@ en:
   home:
     hero:
       title: "Welcome to Many Moons Cultural Exchange"
-      desc: "connecting students with an opportunity to grow"
+      desc: "offering quality elementary, junior high and high school opportunities in the United States."
       button: "Learn more"
     heading1:
-      title: "Connect"
-      desc: "Connecting students to schools... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+      title: "Connect to a school"
+      desc: "Education is always a smart investment but how you approach it can make all the difference in the world. Entering one of our private Christian schools and living in a caring homestay environment will put your mind at ease as you prepare for the future. Let us show you how."
       button_html: "View details &raquo;"
     heading2:
-      title: "Experience"
-      desc: "Shanhai MM... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+      title: "Experience Culture"
+      desc: "Culture is more than a book, it is something meant to be experienced and lived. We invite you to come see, smell, hear, taste and feel what American culture is all about."
       button_html: "View details &raquo;"
     heading3:
-      title: "Dream"
-      desc: "Week long excursion to states... Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui."
+      title: "Dream of the future"
+      desc: "Come join us on a one week tour of the most historic cities and most prestigious universities in America as we come together to dream of what our future holds."
       button_html: "View details &raquo;"
 
   # Services > Admissions
