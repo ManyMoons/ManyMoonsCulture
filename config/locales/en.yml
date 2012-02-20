@@ -549,8 +549,152 @@ en:
       questions:
         If you would like more information about our excursions or schools please contact us at info@manymoonsculture.org.
 
+    # About > Locations
     locations:
-      title: Locations
+      bj:
+        title: Beijing Office
+        desc:
+          <p>
+            Many Moons Education is based in Beijing, in the heart of Haidian 
+            District. The Beijing office's main purpose is to facilitate 
+            applicant interviews, assist in visa processing  and also serve 
+            as an orientation location for students who are preparing for 
+            life in America. Many Moons Dream Trips will be taking applications 
+            and processes them at the Beijing location. 
+          </p>
+
+          <p>
+            Being conveniently located in Wudaokou's Hua Qing Jia Yuan complex, 
+            we feel that this will be a great place for people to come and get 
+            to know us and see what services we can offer. 
+          </p>
+        info_table:
+          <table class="table table-striped table-bordered table-condensed">
+            <tbody>
+              <tr>
+                <td>
+                  Office Hours
+                </td>
+                <td>
+                  Monday-Friday 9&#58;00AM - 5&#58;00PM
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Address
+                </td>
+                <td>
+                  <div>
+                    <strong>English</strong>
+                    <br />
+                    Beijing, Haidian District
+                    <br />
+                    Hua Qing Jia Yuan,  Building 3, Unit 503 
+                    <br />
+                    100083 
+                  </div>
+                  <br />
+                  <div>
+                    <strong>Chinese</strong>
+                    <br />
+                    北京市海淀区
+                    <br />
+                    华清嘉园 三号楼 503房
+                    <br />
+                    100083
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Bus Lines
+                </td>
+                <td>
+                  307 331 375 562 630 656 690 731 848
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Subway
+                </td>
+                <td>
+                  Subway line 13, get off at WuDaoKou Station, 
+                  exit B and head west toward HuaQingJiaYuan
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        map:
+          caption: Baidu Map Many Moons Education, Beijing
+      sh:
+        title: Shanghai Office
+        desc:
+          Located in one of the most bustling commercial areas of the city, the 
+          Many Moons Cultural Exchange Center is like an oasis. We want to be a 
+          shelter of calm from the busyness of life, a place of community and 
+          friendship, a place where people can come to find rest, relaxation 
+          and enjoyment while engaging in meaningful activities leading to 
+          personal growth.  This is the place of cultural exchange where we will 
+          encourage students to learn through 
+        info_table:
+          <table class="table table-striped table-bordered table-condensed">
+            <tbody>
+              <tr>
+                <td>
+                  Office Hours
+                </td>
+                <td>
+                  Monday-Friday 9&#58;00AM - 5&#58;00PM
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Address
+                </td>
+                <td>
+                  <div>
+                    <strong>English</strong>
+                    <br />
+                    Many Moons Cultural Exchange Center
+                    <br />
+                    Ding Xi Road 1279, Room 1305
+                    <br />
+                    Shanghai, CHINA 200050
+                  </div>
+                  <br />
+                  <div>
+                    <strong>Chinese</strong>
+                    <br />
+                    Many Moons 文化交流中心
+                    <br />
+                    上海市长宁区定西路1279号1305室
+                    <br />
+                    200050
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Bus Lines
+                </td>
+                <td>
+                  13，20，54，67，88，946，947
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Subway
+                </td>
+                <td>
+                  Lines 2 / 3 / 4, Zhong Shan Park station, Exit 5
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        map:
+          caption: Baidu Maps Many Moons Culture, Shanghai
+
+    # About > Staff
     staff:
       title: Staff
 

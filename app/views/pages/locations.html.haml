@@ -1,1 +1,32 @@
-%h2= t :'about.locations.title'
+%h2= t :'about.locations.bj.title'
+
+%p
+  = raw(t :'about.locations.bj.desc')
+
+.row
+  .span7
+    = raw(t :'about.locations.bj.info_table')
+  .span5
+    %ul.thumbnails
+      %li.span5
+        %a.thumbnail(target="_blank" href="http://map.baidu.com/?newmap=1&l=18&tn=B_NORMAL_MAP&c=12951360,4837960&cc=bj&i=0,0&s=s%26wd%3D%E5%8D%8E%E6%B8%85%E5%98%89%E5%9B%AD%20%E4%B8%89%E5%8F%B7%E6%A5%BC%20503%26c%3D131%26src%3D0%26wd2%3D%26sug%3D0%26l%3D18%26from%3Dwebmap&sc=0")
+          = image_tag asset_path("bj-baidu-map.png")
+          .caption= t :'about.locations.bj.map.caption'
+
+%hr
+
+%h2= t :'about.locations.sh.title'
+
+%p
+  = raw(t :'about.locations.sh.desc')
+
+.row
+  .span5
+    %ul.thumbnails
+      %li.span5
+        %a.thumbnail(target="_blank" href="http://map.baidu.com/?newmap=1&l=19&tn=B_NORMAL_MAP&c=13517530,3639233&cc=sh&i=0%7C-1|-1&s=s%26wd%3D%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%BF%E5%AE%81%E5%8C%BA%E5%AE%9A%E8%A5%BF%E8%B7%AF1279%E5%8F%B71305%E5%AE%A4%26c%3D289%26src%3D0%26wd2%3D%26sug%3D0%26l%3D12%26from%3Dwebmap&sc=0")
+          = image_tag asset_path("sh-baidu-map.png")
+          .caption= t :'about.locations.sh.map.caption'
+  .span7
+    = raw(t :'about.locations.sh.info_table')
+-#http://map.baidu.com/?newmap=1&l=19&tn=B_NORMAL_MAP&c=13517530,3639233&cc=sh&i=0%7C-1|-1&s=s%26wd%3D%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%95%BF%E5%AE%81%E5%8C%BA%E5%AE%9A%E8%A5%BF%E8%B7%AF1279%E5%8F%B71305%E5%AE%A4%26c%3D289%26src%3D0%26wd2%3D%26sug%3D0%26l%3D12%26from%3Dwebmap&sc=0
