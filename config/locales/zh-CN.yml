@@ -1,17 +1,17 @@
 zh-CN:
   # header section
   header:
-    title: "Many Moons"
-    link_home: "Home"
-    link_about: "About"
-    link_contact: "Contact"
+    title: "Many Moons 集月"
+    link_home: "主页"
+    link_about: "关于集月"
+    link_contact: "联系我们"
 
   # home page
   home:
     hero:
-      title: "Welcome to Many Moons Cultural Exchange"
-      desc: "Offering quality elementary, junior high and high school education opportunities in the United States."
-      button_html: Learn more &raquo;
+      title: "欢迎来到集月文化艺术交流中心"
+      desc: "为中小学学生提供高质量的赴美留学机会"
+      button_html: 来进一步了解吧 &raquo;
     heading1:
       title: Connect <span class="hero-sub-italic">to a school</span>
       desc: "Education is always a smart investment but how you approach it can make all the difference in the world. Entering one of our private Christian schools and living in a caring homestay environment will put your mind at ease as you prepare for the future. Let us show you how."
