@@ -11,19 +11,19 @@ zh-CN:
     hero:
       title: "欢迎来到集月文化艺术交流中心"
       desc: "为中小学学生提供高质量的赴美留学机会"
-      button_html: 来进一步了解吧 &raquo;
+      button_html: 进一步了解 &raquo;
     heading1:
-      title: Connect <span class="hero-sub-italic">to a school</span>
-      desc: "Education is always a smart investment but how you approach it can make all the difference in the world. Entering one of our private Christian schools and living in a caring homestay environment will put your mind at ease as you prepare for the future. Let us show you how."
-      button_html: "View details &raquo;"
+      title: 连通 <span class="hero-sub-italic">直通学校</span>
+      desc: "教育从来都是明智的投资，但你所选取的方式有着决定性作用。进入我们所代表的私立基督教学校、住进一个友爱的寄宿家庭环境，将使你在预备未来的途中轻装上阵。让我们告诉你如何申请吧"
+      button_html: "了解详情 &raquo;"
     heading2:
-      title: Experience <span class="hero-sub-italic">culture</span>
-      desc: "Culture is more than a book, it is something meant to be experienced and lived. We invite you to come see, smell, hear, taste and feel what American culture is all about."
-      button_html: "View details &raquo;"
+      title: 体验 <span class="hero-sub-italic">多维文化</span>
+      desc: "纸上谈兵不适用于文化，文化是要来体验，来品味的。我们邀请你来看，来闻，来尝，来亲身感受美国的文化到底是什么滋味"
+      button_html: "了解详情 &raquo;"
     heading3:
-      title: Dream <span class="hero-sub-italic">of the future</span>
+      title: 憧憬 <span class="hero-sub-italic">未来</span>
       desc: "Come join us on a one week tour of the most historic cities and most prestigious universities in America as we come together to dream of what our future holds."
-      button_html: "View details &raquo;"
+      button_html: "了解详情 &raquo;"
 
   # Services > Admissions
   admissions:
