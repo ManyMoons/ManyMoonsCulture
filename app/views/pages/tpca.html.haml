@@ -31,20 +31,26 @@
     %h3= t :'tpca.about.title'
     = raw(t :'tpca.about.desc')
 
-%blockquote 
-  %p= raw(t :'tpca.quote1.text')
-  %small= raw(t :'tpca.quote1.who')
-%blockquote 
-  %p= raw(t :'tpca.quote2.text')
-  %small= raw(t :'tpca.quote2.who')
+.row
+  .span6
+    %h3= t :'tpca.academics.title'
+    = raw(t :'tpca.academics.desc')
+    %p
+      .well
+        = raw(t :'tpca.academics.sub')
+  .span6
+    %blockquote 
+      %p= raw(t :'tpca.quote1.text')
+      %small= raw(t :'tpca.quote1.who')
+    %blockquote 
+      %p= raw(t :'tpca.quote2.text')
+      %small= raw(t :'tpca.quote2.who')
 
 %h3= t :'tpca.accreditation.title'
-
 :ruby
   nca_link = "http://www.ncacasi.org"
   acsi_link = "http://www.acsi.org"
   doe_in_link = "http://www.doe.state.in.us"
-
 %ul.thumbnails
   %li.span3
     %a.thumbnail(target="_blank" href="#{nca_link}")
@@ -67,15 +73,4 @@
       = t :'tpca.accreditation.doe_in'
       %a(href="#{doe_in_link}" target="_blank")
         #{doe_in_link.sub('http://','')}
-
-%p
-  %h3= t :'tpca.academics.title'
-  = raw(t :'tpca.academics.desc')
-.row
-  .span1
-    &nbsp;
-  .span9.well
-    = raw(t :'tpca.academics.sub')
-  .span2
-    &nbsp;
 
