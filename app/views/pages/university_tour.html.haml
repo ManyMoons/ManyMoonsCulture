@@ -16,4 +16,4 @@
     .alert
       %strong= t :'university_tour.how_sign_up.title'
       %br
-      = t :'university_tour.how_sign_up.desc'
+      = raw t(:'university_tour.how_sign_up.desc', :encoded_email => encoded_email)

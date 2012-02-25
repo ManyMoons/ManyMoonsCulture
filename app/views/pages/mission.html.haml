@@ -1,5 +1,5 @@
 %h2= t :'about.mission.title'
 %br
 
-.alert.alert-info= t :'about.mission.questions'
+.alert.alert-info= raw t(:'about.mission.questions', :encoded_email => encoded_email)
 = raw(t :'about.mission.desc')

@@ -3,7 +3,7 @@
 
 .row
   .span5
-    = t :'space_rental.desc'
+    = raw(t :'space_rental.desc', :encoded_email => encoded_email)
 
     %hr
     %p

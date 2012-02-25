@@ -5,7 +5,7 @@
 
 .alert.alert-info
   %h3= t :'tpca.admissions.title'
-  = raw(t :'tpca.admissions.desc')
+  = raw(t :'tpca.admissions.desc', :encoded_email => encoded_email)
 
 .row
   .span6 

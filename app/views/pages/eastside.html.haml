@@ -5,7 +5,7 @@
 
 .alert.alert-info
   %h3= t :'eastside.admissions.title'
-  = raw(t :'eastside.admissions.desc')
+  = raw(t :'eastside.admissions.desc', :encoded_email => encoded_email)
 
 %p
   .row
