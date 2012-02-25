@@ -1,1 +1,38 @@
 %h2= t :'about.staff.title'
+
+.row
+  .span4
+    = image_tag asset_path("staff_sung.png")
+  .span8
+    .staff_title
+      = t :'about.staff.sung.title'
+    = t :'about.staff.sung.desc'
+
+%hr
+.row
+  .span9
+    .staff_title
+      = t :'about.staff.chloe.title'
+    = raw t(:'about.staff.chloe.desc')
+  .span3
+    &nbsp;
+    -#= image_tag asset_path("staff_daniel.png"), { :align => "right" }
+
+%hr
+.row
+  .span4
+    &nbsp;
+    -#= image_tag asset_path("staff_esther.png")
+  .span8
+    .staff_title
+      = t :'about.staff.esther.title'
+    = t :'about.staff.esther.desc'
+
+%hr
+.row
+  .span9
+    .staff_title
+      = t :'about.staff.daniel.title'
+    = raw t(:'about.staff.daniel.desc')
+  .span3
+    = image_tag asset_path("staff_daniel.png"), { :align => "right" }
