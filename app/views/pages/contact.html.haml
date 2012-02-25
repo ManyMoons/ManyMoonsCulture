@@ -1,1 +1,28 @@
-%h2 Contact Us
+%h2= t :'contact.title'
+
+%p
+  .row
+    .span5
+      = raw t(:'contact.desc')
+    .span1
+      &nbsp;
+    .span6
+      .well
+        = raw t(:'contact.table.desc')
+        %table.table.table-striped.table-bordered.table-condensed
+          %tbody
+            %tr
+              %td
+                = t :'contact.table.email.title'
+              %td
+                = raw t(:'contact.table.email.email', :email => encoded_email)
+            %tr
+              %td
+                = t :'contact.table.phone.title'
+              %td
+                = raw t(:'contact.table.phone.desc')
+            %tr
+              %td
+                = t :'contact.table.in_person.title'
+              %td
+                = raw t(:'contact.table.in_person.desc')

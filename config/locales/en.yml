@@ -820,5 +820,64 @@ en:
         </p>
       book_caption: 1990 edition
 
+  # Contact page
+  contact:
+    title: Contact Us
+    desc:
+      <p>
+        Thank you for visiting our website! 
+      </p>
+
+      <p>
+        If you are interested in studying abroad, experiencing American culture or want to join us on an exciting trip to America, please let us show you how we can help! 
+      </p>
+
+      <ul>
+        <li>
+          Want help filling out the application? 
+        </li>
+        <li>
+          Want to know what living in Fullerton, California is really like? 
+        </li>
+        <li>
+          Want an estimate of how much all this is going to cost?
+        </li>
+        <li>
+          Want to meet some Americans who can help?
+        </li>
+      </ul>
+    table:
+      desc: 
+        You can contact us using any of the following methods&#58; call, email 
+        or just stop by&#58;
+      phone:
+        title: Phone
+        desc:
+          Chinese Inquiries&#58; 18600164247 (小雨)
+          <br />
+          Korean and English Inquiries&#58;  TBD  (Esther)
+      email:
+        title: Email
+        email: "%{email}"
+      in_person:
+        title: Stop by in Person!
+        desc:
+          (English)
+          <br />
+          Beijing, Haidian District 
+          <br />
+          Hua Qing Jia Yuan, Building 3, Unit 503 
+          <br />
+          100083
+
+          <hr />
+          (Chinese)
+          <br />
+          北京市海淀区 
+          <br />
+          华清嘉园 三号楼 503房 
+          <br />
+          100083
+
   # footer section
   footer_html: "&copy; Company 2012"
