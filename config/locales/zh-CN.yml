@@ -723,7 +723,75 @@ zh-CN:
 
     # About > Staff
     staff:
-      title: Staff
+      title: Our Staff
+      sung:
+        title: Sung Chung, Director of Educational Consulting
+        desc:
+          Sung is a graduate of UCSD and attended graduate school at Biola 
+          University located in Sunny, Southern California. In 1996, after 
+          a summer trip visiting the many cities of North-Eastern China, 
+          he decided to one day come back and plant his roots. Sung has 
+          extensive experience working with students in America as well 
+          as China and has established Many Moons Educational Consulting 
+          to continue in his passion for people, especially students from 
+          all around the world. His experience includes working with students 
+          as a teacher in the Los Angeles Unified School District, as a 
+          speaker/coordinator for JAMA student conferences and also as a 
+          speaker for Christian groups all across America. He now lives in 
+          Beijing with his beautiful wife and four lovely daughters. 
+      chloe:
+        title: Chloe Wu, Chinese Students Representative
+        desc:
+      esther:
+        title: Esther Chang, Korean Students Representative
+        desc:
+          Having lived half her life in Korea and the other half in America, 
+          Esther is an advocate of culture and global exchange. She graduated 
+          from Emory University in Atlanta, Georgia with a degree in Psychology. 
+          Her experiences include teaching English to Korean and Chinese middle 
+          school students, working with children with Autism and other 
+          disabilities, and doing research regarding children’s spatial 
+          concepts and cognitive maps. She is interested in overall comprehensive 
+          (physical, psychological, social, and spiritual) health for people all 
+          over the world, particularly those in the margins, and believes 
+          community development and practice is the key to better health.  She 
+          is currently in Beijing, China, embracing another part of the world 
+          as her own. So far, she enjoys learning how to navigate through 
+          Beijing traffic with her bike, trying new dishes whose 
+      daniel:
+        title: Daniel Yoon, Director of Technology
+        desc:
+          <p>
+            Daniel is a customer-focused IT specialist with 10+ years of 
+            professional experience in the development and design of 
+            e-enabled web solutions. He believes that software development 
+            is both an art and science and strives to be a "software 
+            craftsman" rather than a strict engineer. Prior to joining 
+            Many Moons Culture Exchange, Daniel worked in a variety of 
+            environments ranging from large Fortune 500 companies to 
+            small technology startups. 
+          </p>
+          <p>
+            Daniel graduated from University of California Irvine with a BS 
+            in Information and Computer Science. Graduation was just the 
+            beginning as he continues to research new trends and best 
+            practices in software development and user design experience.
+          </p>
+          <p>
+            Currently his web development environment of choice is Ruby on 
+            Rails, VIM, git, iTerm2 and tmux on Mac OSX. He's also intimately 
+            familiar with the Microsoft stack having developed professionally 
+            on it for almost 10 years. After experiencing both, his preference 
+            is for the *nix stack and is a staunch proponent of open source software.
+          </p>
+          <p>
+            When not at the office you can find him either at home with his 
+            wife, anxiously awaiting the arrival of their newborn baby or in 
+            class studying Chinese. He used to love surfing (on actual waves, 
+            not the internet) but since leaving his home town of California 
+            he's had to change to more sedentary hobbies like reading and 
+            watching movies with friends.
+          </p>
 
     our_name:
       title: Our Name
