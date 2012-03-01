@@ -21,15 +21,15 @@ zh-CN:
       desc: "纸上谈兵不适用于文化，文化是要来体验，来品味的。我们邀请你来看，来闻，来尝，来亲身感受美国的文化到底是什么滋味"
       button_html: "了解详情 &raquo;"
     heading3:
-      title: 憧憬 <span class="hero-sub-italic">未来</span>
+      title: 逐梦 <span class="hero-sub-italic">未来</span>
       desc: "Come join us on a one week tour of the most historic cities and most prestigious universities in America as we come together to dream of what the future can hold."
       button_html: "了解详情 &raquo;"
 
   # Services > Admissions
   admissions:
-    title: Admissions Consulting
-    eastside_link_caption: click for more info
-    tpca_link_caption: click for more info
+    title: 学校申请咨询
+    eastside_link_caption: 点击了解更多信息
+    tpca_link_caption: 点击了解更多信息
 
     intro:
       title: 集月教育咨询服务
@@ -93,13 +93,11 @@ zh-CN:
       title: 额外花费估计
       desc:
         <p>
-          上述费用没有包含寄宿家庭的花费，午餐费用和参与体育运动的费用。学校会每月将这些额外花费的账单寄到学生家中。Homestay fees, lunch and athletic participation fees are not included in 
-          tuition and fees noted above. These additional fees will be billed to 
-          the student’s family monthly by the schools. 
+          上述费用没有包含寄宿家庭的花费，午餐费用和参与体育运动的费用。学校会每月将这些额外花费的账单寄到学生家中。
         </p>
         
         <p>
-          可预期的额外花费包括&#58;
+          可预期的额外花费包括：
         </p>
          
         <ul>
@@ -351,15 +349,16 @@ She grew
     title: Cultural Exchange
     desc:
       <p>
-        Many Moons Cultural Exchange is an organization that exists to promote personal growth and building community through the discussion and experience of culture.
+        
+Many Moons 文化交流是一个致力于通 过对于文化的讨论和体验来提升个人成 长和社区建立的组织。
       </p>
 
       <p>
-        The emphasis of a Many Moons event is first-hand experience. Where books, movies and the media can give us a glimpse of life in other countries, a Many Moons event allows people to try things themselves. It’s the difference between seeing a beautiful Christmas tree and decorating one yourself, knowing that Americans eat turkey at Thanksgiving and tasting it yourself. 
+       Many Moons的活动就着重于“亲身体验 ”。书籍、电影或媒体只能让我们看到 其他国家的生活的掠影，而Many Moons 的活动却能让大家亲身尝试。与单单看到美丽的圣诞树相比，能亲自装饰一棵圣诞树自然感受不同，知道美国人在感恩节吃火鸡与真正常常火鸡的味道，同样也大有不同。
       </p>
 
       <p>
-        So if you’re curious about other cultures and like to explore, come to an event at our center and experience something new.
+        所以如果你对他国文化有兴趣，并也想尝试全新的事物，那么就请到我们的中心来参加我们的活动吧。
       </p>
     quote1:
       text:
@@ -434,7 +433,7 @@ She grew
     desc:
       想在市中心寻找一个开派对或见面聚会的地方？你可以在我们的 Many Moons 中心租借一个空间——我们的资源愿供你使用。要预定请联系 %{encoded_email} 
     main:
-      title: Main Events Room
+      title: 大会议室
       desc:
         <ul>
           <li>6 square tables</li>
@@ -445,23 +444,23 @@ She grew
         </ul>
 
         <hr />
-        Member price&#58; 150 RMB/hour 
+        会员价&#58; 150 RMB/hour 
         <br />
-        Non-Member price&#58; 200 RMB/hour
+        非会员价&#58; 200 RMB/hour
     reading:
-      title: Reading Room
+      title: 阅览室
       desc:
         <ul>
-          <li>Seating capacity&#58; 10</li>
-          <li>Imported books and magazines (click here to download list)</li>
+          <li>可容纳&#58; 10</li>
+          <li>进口图书和杂志（点击下载清单）</li>
         </ul>
 
         <hr />
-        Member price&#58; 50 RMB/hour 
+        会员价&#58; 50 RMB/hour 
         <br />
-        Non-Member price&#58; 80 RMB/hour
+        非会员价&#58; 80 RMB/hour
     workshop:
-      title: Workshop
+      title: 工作坊
       desc:
         <ul>
           <li>Large work table</li>
@@ -474,9 +473,9 @@ She grew
         </ul>
 
         <hr />
-        Member price&#58; 50 RMB/hour 
+        会员价&#58; 50 RMB/hour 
         <br />
-        Non-Member price&#58; 80 RMB/hour
+        非会员价&#58; 80 RMB/hour
     bonus:
       title: Free wireless internet and games available for use throughout the center&#58; 
       desc:
@@ -494,52 +493,39 @@ She grew
   # About
   about:
     mission:
-      title: Mission of Many Moons Educational Consultation
+      title: 集月教育咨询的使命
       desc:
         <p> 
-          Many Moons Cultural Exchange is an organization that exists to promote 
-          personal growth and building community through the discussion and 
-          experience of culture.
+          
+集月文化艺术交流中心是一个致力于通过对文化的讨论和体验来提升个人成长、建立社区的组织。
         </p>
 
         <p> 
-          Many Moons Educational Consulting continues that vision by acting as a 
-          cultural bridge to give students the opportunity to fully enter the 
-          American high school experience. We believe that studying in America 
-          has value that goes beyond an American diploma. It can profoundly 
-          influence students’ worldview and self-image in a way that will 
-          benefit them for the rest of their lives. 
+          集月教育咨询有着同样的愿景，作为文化的桥梁，我们为学生提供充分体验美国高中教育的机会。我们相信，在美国留学的价值不仅在于得到美国的学位，这种教育经历更能够深刻地影响学生的世界观和自我形象，使他们终生受益。
         </p>
 
         <p> 
-          Because we realize that every student is different, our services are 
-          specifically geared to help parents and students fulfill this vision.  
-          From the application process, visa process and updates from host 
-          families even after the students arrive in America, our company will 
-          be your partner all along the way.  
+          
+我们意识到每个学生都是独特的，因此，我们提供的服务适应于学生和家长的个性化需要，以帮助学生和家长实现我们共同的愿景。从申请的过程，签证的过程，甚至到学生赴美进入寄宿家庭时后续的消息更新方面——我们是您一路的伙伴。
         </p>
 
         <p> 
-          The cultural excursion is also a great way for parents and students 
-          to get a firsthand look at the American educational environment and 
-          also experience our company's and partner's services first hand. 
-        </p>
+          我们所提供的文化之旅对于学生和家长第一手了解美国的教育环境也大有裨益，而且通过文化旅行，您可以直接体验到我们公司和我们合作伙伴的服务。        </p>
 
         <p> 
-          We believe our cultural excursions to America and direct relationships 
-          with American schools will inspire confidence in families who are 
-          looking for an honest and reliable partner for their child's education.
+          
+您的家庭在为孩子的教育寻找实在可靠的伙伴吗？我们相信，我们的美国文化之旅项目，和我们与美国学校所有的直接关系，能够使您对我们的信心不断增长。
         </p>
       questions:
-        If you would like more information about our excursions or schools please contact us at %{encoded_email}.
-
+        
+如果想要知道更多关于文化之旅和学校的信息，请通过 %{encoded_email}联系我们
     # About > Locations
     locations:
       bj:
-        title: Beijing Office
+        title: 北京办事处
         desc:
           <p>
-            Many Moons Education is based in Beijing, in the heart of Haidian 
+            集月教育咨询Many Moons Education is based in Beijing, in the heart of Haidian 
             District. The Beijing office's main purpose is to facilitate 
             applicant interviews, assist in visa processing  and also serve 
             as an orientation location for students who are preparing for 
@@ -557,15 +543,15 @@ She grew
             <tbody>
               <tr>
                 <td>
-                  Office Hours
+                  工作时间
                 </td>
                 <td>
-                  Monday-Friday 9&#58;00AM - 5&#58;00PM
+                  周一至周五，8：00AM - 8：00PM
                 </td>
               </tr>
               <tr>
                 <td>
-                  Address
+                  地址
                 </td>
                 <td>
                   <div>
@@ -579,7 +565,7 @@ She grew
                   </div>
                   <br />
                   <div>
-                    <strong>Chinese</strong>
+                    <strong>中文地址</strong>
                     <br />
                     北京市海淀区
                     <br />
@@ -591,7 +577,7 @@ She grew
               </tr>
               <tr>
                 <td>
-                  Bus Lines
+                  公交线路
                 </td>
                 <td>
                   307 331 375 562 630 656 690 731 848
@@ -599,19 +585,19 @@ She grew
               </tr>
               <tr>
                 <td>
-                  Subway
+                  地铁
                 </td>
                 <td>
-                  Subway line 13, get off at WuDaoKou Station, 
-                  exit B and head west toward HuaQingJiaYuan
+                  地铁13号线五道口站下车
+                  B出口往西可以到华清嘉园
                 </td>
               </tr>
             </tbody>
           </table>
         map:
-          caption: Baidu Map Many Moons Education, Beijing
+          caption: 百度地图，北京集月教育咨询中心
       sh:
-        title: Shanghai Office
+        title: 上海办公室
         desc:
           坐落于城市的最繁忙商业区之一Many Moons 文化交流中心如同一片绿洲。
           我们希望成一个隔避繁忙生活的恬静之地，一个共享和友谊之地，在这里，
@@ -748,29 +734,20 @@ She grew
           </p>
 
     our_name:
-      title: Our Name
+      title: 我们的名字
       desc:
         <p>
-          “Many Moons” is the title of a children’s book by James Thurbur, a noted 
-          American author and illustrator. In it, a princess asks for the moon, 
-          but when the king summons his wise men to figure out how to get it for 
-          her, all they come up with is reasons why it’s impossible. In the end, 
-          it is the court jester who finds the answer, and it is just a matter of 
-          making a simple paradigm shift. But in the end, isn’t that one of the 
-          hardest things for us to do?
+“Many Moons（集月）”是一本由美国有名的作者和插图画家 James Thurbur 所著的儿童读物的书名。在那个故事里，一个小公主想要拿到月亮，但是国王召集他的智者们来出谋划策时，所有人都是在找理由来说明这个任务的不可能性，而最后，是一个宫廷御用小丑找到了问题的答案，那就是做一个简单的思维变通。然而，要做出这个变通，并非易事。 
         </p>
 
         <p>
-          Hard, but not impossible. 
+          很难，但是并非不可能。 
         </p>
 
         <p>
-          We want to challenge people to change the way they think. By exposing 
-          people to other cultures, by valuing creativity and imagination, we want 
-          to encourage people to look at the world in a different way, and in so 
-          doing, perhaps to find the answers they’ve been looking for.
+          我们希望能使人们对自己的思维模式做出改变。 通过体验各种文化，加上在创意和想象力方面的熏陶，我们希望能鼓励大家用另一个角度来观察世界，或许，从而能帮助他们找到他们一直在探索的问题的答案。
         </p>
-      book_caption: 1990 edition
+      book_caption: 1990 edition（新版）
 
   # Contact page
   contact:
@@ -803,7 +780,7 @@ She grew
         You can contact us using any of the following methods&#58; call, email 
         or just stop by&#58;
       phone:
-        title: Phone
+        title: 电话
         desc:
           Chinese Inquiries&#58; 18600164247 (小雨)
           <br />
