@@ -2,139 +2,117 @@ ko:
   # header section
   header:
     title: "Many Moons"
-    link_home: "Home"
-    link_about: "About"
-    link_contact: "Contact"
+    link_home: "홈"
+    link_about: "Many Moons이란?"
+    link_contact: "문의"
 
   # home page
   home:
     hero:
       title: "Welcome to Many Moons Cultural Exchange"
-      desc: "Offering quality elementary, junior high and high school education opportunities in the United States."
-      button_html: Learn more &raquo;
+      desc: "미국 초중고 교육의 다리 역할을 하는 문화 교류 프로그램"
+      button_html: 자세한 정보 &raquo;
     heading1:
-      title: Connect <span class="hero-sub-italic">to a school</span>
-      desc: "Education is always a smart investment but how you approach it can make all the difference in the world. Entering one of our private Christian schools and living in a caring homestay environment will put your mind at ease as you prepare for the future. Let us show you how."
-      button_html: "View details &raquo;"
+      title: 학교 연계 <span class="hero-sub-italic">교육 방안</span>
+      desc: "저희 교육 전문 컨설턴트에게 자녀 진로에 관한 상담과 필요한 정보를 받으십시오.  저희 교육기관과 직접 연계한 기독교 사립학교에서 미국 학생들과 마음껏 공부하며 집에서는 가족과 같이 편하고 따뜻한 홈스테이에서 미래를 준비해 나가세요."
+      button_html: "자세한 정보 &raquo;"
     heading2:
-      title: Experience <span class="hero-sub-italic">culture</span>
-      desc: "Culture is more than a book, it is something meant to be experienced and lived. We invite you to come see, smell, hear, taste and feel what American culture is all about."
-      button_html: "View details &raquo;"
+      title: 현지 문화 <span class="hero-sub-italic">체험</span>
+      desc: "미국 문화에 대한 책을 읽거나 영상을 보는 것 만으로 이해하기는 부족합니다.  한 나라의 문화는 경험을 통해서만 이해할 수 있습니다. 미국 문화를 직접 보고, 듣고, 느끼며, 배울 수 있는 기회에 여러분의 소중한 자녀를 초대합니다."
+      button_html: "자세한 정보 &raquo;"
     heading3:
-      title: Dream <span class="hero-sub-italic">of the future</span>
-      desc: "Come join us on a one week tour of the most historic cities and most prestigious universities in America as we come together to dream of what the future can hold."
-      button_html: "View details &raquo;"
+      title: 장래의 꿈 <span class="hero-sub-italic">을 향해</span>
+      desc: "저희들과 함께 일주일간의 미국 문화와 명문대 투어에 참가해서 장래의 꿈을 키워 나가세요." 
+      button_html: "자세한 정보 &raquo;"
 
-  # Services > Admissions
+  # 서비스 > 입학 컨설팅
   admissions:
-    title: Admissions Consulting
+    title: 입학 컨설팅
     eastside_link_caption: click for more info
     tpca_link_caption: click for more info
 
     intro:
-      title: Many Moons Educational Consultation Services
+      title: 교육 전문 상담 서비스
       desc:
-        We believe that an American education is the best in the world. Our 
-        mission is to help students and parents to reach their dreams of 
-        receiving an American education. We specialize in helping families 
-        through the application process, visa process and securing a homestay 
-        while studying in America. This process can be complicated and difficult 
-        for many students but our promise is that we will provide an honest and 
-        complete service for our families.
+        미국은 세계 최고의 교육 시스템을 자랑하는 국가 입니다. 저희 교육 컨설팅 기관의 임무는 미국에서의 경험을 통해 학생들이 자신의 꿈과 목표를 달성하도록 이끌어 주는 것입니다. 저희들은 고객을 위해 신청 절차부터, 비자 발급, 미국의 홈스테이까지 책임지고 관리합니다. 소중한 우리 자녀들에게 맞춤식의 서비스로 일생에 단 한번뿐인 청소년기에 특별한 체험을 할 수 있도록 도와 드릴 것을 약속해 드립니다. 
     philosophy:
-      title: International Boarding Philosophy
+      title: 유학생들을 위한 맞춤 홈스테이의 장점 
       desc:
-        Homestay is a unique feature of our boarding program. We believe that 
-        international students living with American families creates a much 
-        better educational environment and provides more social and emotional 
-        support than an impersonal boarding dorm. Host families are carefully 
-        chosen after a background and reference check and personal interviews.
-        Orientation and ongoing support is provided for both host families and 
-        international students.
+        홈스테이는 저희 프로그램 독자적인 교육 시스템입니다. 홈스테이를 통해서 학생들은 최상의 교육 환경에서 학업에 정진하며 학교 기숙사와 비교할 수 없는 더 많은 사회적, 정서적 도움을 받게 됩니다. 호스트 가정선별은 엄격한 심사를 통해 별도로 추천서 참조와(reference check), 수차례의 개인 면접 후 선발됩니다. 또한 호스트 가족과 학생들의 만남을 시작으로 프로그램을 마치고 귀국하기 전까지 전문 상담사를 통하여 체계적으로 관리하며 프로그램 참가자들에게 이상적인 교육환경을 제공해 줍니다.   
     process:
-      title: Admission Process
+      title: 입학 과정 
       desc:
         <ol>
-          <li>Print and submit our application for admission to us at %{encoded_email}. We have a rolling application process. We will consider applicants as long as there are spaces available, but the best time to apply is at least 2 months before the start of a new semester. We accept students for both Spring and Fall semesters.</li>
-          <li>Once we receive your application, we will schedule a Skype student interview. The interview consists of our meeting with the applicant for about 15 minutes. The interview can also be conducted in person if the applicant is available.</li>
-          <li>Admission decision - Following the interview, a decision will be made regarding admission. The decision is made based on the student application, interview, availability of host families, and the fit of the student with the available host families. The acceptance decision will be emailed to the family. If the student is accepted, the I-20 will be sent to the family by mail after a deposit and enrollment contract are submitted.</li>
+          <li>입학 신청서를 %{encoded_email}로 제출합니다. 저희는 롤링 입학 제도(rolling application process)를 시행하므로 자리가 있는 한 지원서를 계속 받습니다. 신청하기 제일 적합한 시기는 학기 시작하기 2개월 전입니다. 가을 학기와 봄 학기 모두 지원서를 받습니다. </li>
+          <li>신청자가 직접 찾아 오셔서 저희 교육 전문 컨설턴트와 인터뷰를 하시거나, 신청서 제출 후 Skype으로 학생과의 개별 인터뷰를 갖습니다. 인터뷰는 약 15분간의 기본적인 질문과 대화로 이루어집니다.</li>
+          <li>인터뷰 후, 입학 결정이 이루어집니다. 학생의 신청서, 인터뷰, 호스트 가정의 조건, 그리고 호스트 가정과의 관계적응 가능성에 의해 입학이 결정이 됩니다. 입학 결정 유무는 신청자 가족들에게 이 메일로 전송됩니다. 입학이 허가된 학생들이 보증금과 등록 계약서를 제출하면 필요한I-20와 그외 서류를 우편으로 받게 됩니다.</li>
         </ol>
     calendar:
-      title: School Calendar
+      title: 학사 일정
       desc:
         <ul>
-          <li>Early August&#58; International Student Boarding Orientation</li>
-          <li>Mid-August through mid-December&#58; First Semester</li>
-          <li>Late-December- early January&#58; two week Christmas Vacation</li>
-          <li>Mid-January through early June&#58; Second Semester</li>
+          <li>8월 초&#58; 유학생 오리엔테이션</li>
+          <li>8월 중순 - 12월 중순&#58; 가을학기</li>
+          <li>12월 말 - 1월 초&#58; 2주간 겨울방학</li>
+          <li>1월 중순 - 6월 초&#58; 봄학기</li>
         </ul>
     school_fees:
-      title: Tuition and Fees
+      title: 비용
       desc:
         <p>
-          Tuition and Fees include&#58; enrollment and orientation fees, special 
-          fieldtrips, special dinners and excursions, college counseling, college 
-          application assistance, books, international processing services. 
+          포함된 비용&#58; 등록금 및 오리엔테이션 비용, 견학, 각종 행사와 저녁 식사 및 관광, 대학 진학 상담, 대학 원서 지원, 교과서 구입, 국제 프로세싱 서비스  
         </p>
         
         <p>
-          Tuition and fees for 2011-2012 are&#58;
+          2011년 - 2012년 학비&#58;
         </p>
          
         <p>
           <strong>Traders Point Christian Academy</strong>
           <br />
-          $16,000 per year for grades 7 - 12
+          7 - 12 학년: 매년 $16,000
         </p>
           
         <p>
           <strong>Eastside Christian High School</strong>
           <br />
-          $18,000 per year for grades 7 - 12
+          7 - 12학년: 매년 $18,000 
         </p>
     additional_costs:
-      title: Estimated Additional Costs
+      title: 그 외 비용 
       desc:
         <p>
-          Homestay fees, lunch and athletic participation fees are not included in 
-          tuition and fees noted above. These additional fees will be billed to 
-          the student’s family monthly by the schools. 
+          홈스테이 비용, 점심 식사와 그 외 학생 개인의 스포츠 클럽 활동 참가비는 위 비용에 포함돼 있지 않습니다. 그 외의 비용은 학교에서 매달 학생 가족에게 청구할 것입니다. 
         </p>
         
         <p>
-          Anticipated additional fees are&#58;
+          예상된 추가 비용은 대략 다음과 같습니다&#58;
         </p>
          
         <ul>
-          <li>Homestay fees ($10,000 for TPCA per year and $20,000 Eastside for  per year)</li>
-          <li>School lunch (approximately $70 per month)</li>
-          <li>Athletic participation fees (approximately $100 per sport)</li>
-          <li>Uniforms (Eastside only, about $300 depending on items)</li>
-          <li>Ipad2 Program (Eastside only, $350)</li>
-          <li>Return to home country during Christmas break and/or summer break</li>
-          <li>Must bring $1000 Visa card for incidental expenses (clothing; shoes; weekend entertainment; instrumental music rental; extra art, dance, athletic lessons, etc.)</li>
+          <li>홈스테이 비용: 매년 $10,000 (TPCA); 매년 $20,000 (Eastside)</li>
+          <li>학교 급식비: 매달 약 $70</li>
+          <li>스포츠 참가비: 참가하는 스포츠마다 약 $100 추가</li>
+          <li>유니폼: $100 - $300 (Eastside에만 해당됨)</li>
+          <li>Ipad2 프로그램: $350 (Eastside에만 해당됨)</li>
+          <li>겨울방학 및/또는 여름방학 기간 고국으로 돌아갈 비용</li>
+          <li>그 외 추가 비용을 위해 $1,000 비자 카드를 가지고 있어야 함 (옷, 신발, 엔터테인먼트, 악기 임대 비용, 혹은 예술, 무용, 체육 과외, 등)</li>
         </ul>
 
     mm_fees:
-      title: Many Moons Consultation Fee 
+      title: Many Moons 컨설팅 비용 
       desc:
         <ul>
-          <li>1000 RMB application fee</li>
-          <li>20,000 RMB due at reception of I-20</li>
+          <li>신청비: 1000 RMB</li>
+          <li>컨설팅비: 20,000 RMB (I-20 비자 발급 후 보내시면 됩니다.)</li>
         </ul>
-        Our mission is to provide you with the service that best suits your needs. 
-        That is why the service fee is only charged after the student has been 
-        accepted to either of the schools. After the application process has 
-        begun, if the student and the school does not seem to be an ideal fit, 
-        there will be no further obligation to pay beyond the 1000 RMB application 
-        fee.
+        고객님들께 최상의 교육 서비스를 제공해 드리는 것이 저희의 임무이므로 고객님들은 학생이 해당 학교에 합격된 이후에만 서비스 요금을 청구합니다. 입학 지원 과정 중 만약 학교가 학생의 적성과 특성에 잘 맞지 않아 지원을 중단 하기로 결정하는 경우 고객님은 1,000 RMB 신청비 외의 다른 비용을 부담하지 않으셔도 됩니다.
 
     questions:
-      title: Questions?
+      title: 문의사항 
       desc:
-        If you have any questions in terms of how to start the application 
-        process or how to fill out the application, please email us at 
-        %{encoded_email}. 
+        입학 과정과 관련서류 작성에 관한 문의 사항이 있으면 %{encoded_email}로 이메일을 보내주시기 바랍니다. 
+        . 
 
   eastside:
     fast_facts:
@@ -383,20 +361,20 @@ ko:
         teachers. Way to go!!!
       who: Lisa M
 
-  # Services > Cultural Exchange
+  # 서비스 > 문화교류 
   exchange:
-    title: Cultural Exchange
+    title: 문화교류 
     desc:
       <p>
-        Many Moons Cultural Exchange is an organization that exists to promote personal growth and building community through the discussion and experience of culture.
+        Many Moons Cultural Exchange는 다양한 주제를 통한 토론과 풍부한 문화적 경험을 통해 자아 성장을 도모하며 지역 문화의 주체가 되는 공동체 이룩을 목표로 하는 모임입니다. 
       </p>
 
       <p>
-        The emphasis of a Many Moons event is first-hand experience. Where books, movies and the media can give us a glimpse of life in other countries, a Many Moons event allows people to try things themselves. It’s the difference between seeing a beautiful Christmas tree and decorating one yourself, knowing that Americans eat turkey at Thanksgiving and tasting it yourself. 
+        Many Moons문화 이벤트의 주 목표는 다양한 세계의 문화를 직접 경험하는 것입니다. 책, 영화나 미디어를 통해 다른 나라 생활을 접할 수 있겠으나 Many Moons의 문화 이벤트는 문화 체험을 직접 할 수 있는 자리를 제공해 줍니다. 아름다운 크리스마스 트리를 바라보는 것과 자신만의 스타일로 직접 장식해 보는 것, 추수 감사절에 칠면조 먹는다는 것을 아는 것과 그 칠면조를 요리해 맛을 보는 것의 차이가 얼마나 클까요?  
       </p>
 
       <p>
-        So if you’re curious about other cultures and like to explore, come to an event at our center and experience something new.
+        다양한 세계 문화에 대해 더 알고자 하시면 Many Moons에 오셔서 색다른 새로운 것을 경험을 하시기 바랍니다.
       </p>
     quote1:
       text:
@@ -417,62 +395,56 @@ ko:
       author: Victor Zhao
 
 
-  # Services > University Tour
+  # 서비스 > 명문대 탐방
   university_tour:
-    title: American Cultural University Tour
+    title: 명문대 탐방
 
     walk:
-      title: Come walk the streets where George Washington, Thomas Jefferson and their colleagues walked! 
+      title: 미국의 첫 번째 대통령이었던 조지 워싱턴과 토머스 제퍼슨이 걸었던 거리를 걸어 보실래요? 
       desc: 
-        The tour will include visiting major cities of historical significance such
-        as Boston, New York City, West Point, Baltimore, Philadelphia,
-        Gettysburg, Hershey, Washington, D.C., and many more!
+        깊은 역사와 풍부한 문화를 자랑하는 미국의 대표적인 명문 대학 도시인 보스톤, 뉴욕, West Point, 볼티모어, 워싱턴DC, 필라델피아를 가볼 수 있는 기회를 드립니다! 
 
     visit:
-      title: Visit the universities of Harvard, Princeton and other major educational institutions that have shaped and formed the leaders of America.
+      title: 미국 리더들의 산실인 하버드와 프린스톤 및 여러 명문 대학교를 방문해 보세요! 
       desc:
-        Students will have opportunities to visit the campuses
-        and meet with Admissions representative to discuss admissions
-        requirement and preparation for future applicants.
+        이곳 명문 대학교의 입학 담당자들과 만나 지원정보 및 준비과정에 대해 더욱 자세하게 알아볼 수 있습니다.
 
     study:
-      title: Study English in the context of America’s culture and history.
+      title: 미국의 문화와 역사를 직접 경험해 보며 영어를 배워 볼 기회도 드려요! 
       desc:
-        Travelers will be accompanied by ESL teachers who will incorporate
-        the curriculum of each day into an English learning opportunity.
+        방문객들은 매일 미국의 전통 음식을 먹으며, 미국인들의 습관, 그리고 문화를 자연스럽게 이해하게 되며 또한 원어민ESL선생님들과 함께 영어를 배울 시간도 갖게 됩니다. 
 
     how_where_when_cost:
       <p>
-        <strong>How Long?</strong>
+        <strong>기간</strong>
         <br />
-        7 days 
+        7일 
       </p>
      
       <p>
-        <strong>Where?</strong>
+        <strong>장소</strong>
         <br />
-        From Boston to Washington D.C.
-      </p>
+        보스톤, 뉴욕, 필라델피아, 워싱턴DC까지
       
       <p>
-        <strong>When?</strong>
+        <strong>날짜</strong>
         <br />
-        Coming August of 2012!
+        2012년 8월
       </p>
        
       <p>
-        <strong>How Much?</strong>
+        <strong>비용</strong>
         <br />
-        2000USD per person not including airfare to and from the United States.
+        한 사람당 2,000USD (왕복 비행기표 포함 안됨)
       </p>
 
     how_sign_up:
-      title: How do I sign up?
-      desc: For more information please contact us at %{encoded_email} so that we can send you a brochure and application form with more information.
+      title: 참가 정보 
+      desc: 더 자세한 정보와 지원서를 원하시면 info@manymoonsculture.org로 문의하시기 바랍니다. 
 
-  # Services > Space Rental
+  # 서비스 > 공간 임대
   space_rental:
-    title: Space Rental
+    title: 공간 임대
     desc:
       Need a centrally located place to hold a party, meeting or other special 
       gathering? Consider renting a space at the Many Moons Center – our resources 
@@ -536,85 +508,63 @@ ko:
           <li>Playing cards and more</li>
         </ul>
 
-  # About
+  # Many Moons이란?
   about:
     mission:
-      title: Mission of Many Moons Educational Consultation
+      title: Many Moons Educational Consulting (교육 전문 컨설팅) 의 목표
       desc:
         <p> 
-          Many Moons Cultural Exchange is an organization that exists to promote 
-          personal growth and building community through the discussion and 
-          experience of culture.
+         Many Moons Cultural Exchange는 다양한 주제를 통한 토론과 풍부한 문화적 경험을 통해 개인의 성장을 도모하며 지역 문화의 주체가 되는 공동체 이룩을 목표로 하는 모임입니다.
         </p>
 
         <p> 
-          Many Moons Educational Consulting continues that vision by acting as a 
-          cultural bridge to give students the opportunity to fully enter the 
-          American high school experience. We believe that studying in America 
-          has value that goes beyond an American diploma. It can profoundly 
-          influence students’ worldview and self-image in a way that will 
-          benefit them for the rest of their lives. 
+         Many Moons Educational Consulting (교육 전문 컨설팅)의 비젼은 대학진학을 앞두고 있는 우리 자녀들에게 미국의 명문 고교 생활을 직접 경험 할 수 있는 기회를 마련해 주는 문화적 다리가 되는 것입니다. 저희는 청소년들이 이런 값진 경험을 통해 넓은 세계관과 성숙된 자아를 가진 진정한 차세대 리더가 될 것을 믿습니다.
         </p>
 
         <p> 
-          Because we realize that every student is different, our services are 
-          specifically geared to help parents and students fulfill this vision.  
-          From the application process, visa process and updates from host 
-          families even after the students arrive in America, our company will 
-          be your partner all along the way.  
+          이 문화 교류 프로그램은 학생 한명 한명의 적성과 비전에 맞게 신청 과정에서부터 시작해 비자 발급 과정, 미국도착 이후의 호스트 가정과의 만남과 생활에 이르기까지 맞춤식으로 짜여 있습니다. 모든 수속은 본 교육 회사 컨설턴트 전적으로 맡아 함께 할 것입니다.  
         </p>
 
         <p> 
-          The cultural excursion is also a great way for parents and students 
-          to get a firsthand look at the American educational environment and 
-          also experience our company's and partner's services first hand. 
+          저희 문화교류 프로그램을 통해 우리 학부모와 학생들이 미국 본토의 교육 환경을 직접적으로 보고 체험할 수 있는 좋은 기회를 가지게 될 것입니다. 
         </p>
 
         <p> 
-          We believe our cultural excursions to America and direct relationships 
-          with American schools will inspire confidence in families who are 
-          looking for an honest and reliable partner for their child's education.
+          또한 본 문화교류 프로그램은 이미 미국 교육기관들과 정식 협약을 맺었으며 풍부한 경험을 바탕으로 자녀 교육을 최우선으로 생각하고 계시는 여러분의 가정에 신뢰성 있는 교육 파트너가 될 것임을 믿습니다. 
         </p>
       questions:
-        If you would like more information about our excursions or schools please contact us at %{encoded_email}.
+        저희가 제공하는 문화 교류 프로그램이나 학교에 대한 더 자세한 내용은 %{encoded_email}로 문의하시기 바랍니다.
 
-    # About > Locations
+    # Many Moons이란? > 위치
     locations:
       bj:
-        title: Beijing Office
+        title: 북경 사무실
         desc:
           <p>
-            Many Moons Education is based in Beijing, in the heart of Haidian 
-            District. The Beijing office's main purpose is to facilitate 
-            applicant interviews, assist in visa processing  and also serve 
-            as an orientation location for students who are preparing for 
-            life in America. Many Moons Dream Trips will be taking applications 
-            and processes them at the Beijing location. 
+            Many Moons Education 사무실은 북경, 해전구 (海淀区) 중심에 위치해 있으며, 신청자들의 인터뷰 진행, 비자 발급, 미국에서 홈스테이를 시작하는 학생들의 오리엔테이션을 가질 곳입니다.  여기에서 Many Moons Dream Trips 을 위한 지원서도 접수합니다.  
           </p>
 
           <p>
-            Being conveniently located in Wudaokou's Hua Qing Jia Yuan complex, 
-            we feel that this will be a great place for people to come and get 
-            to know us and see what services we can offer. 
+            사무실은 오대구 지하철역에서 5분거리인 화칭자위안(华清嘉园) 단지 안에 위치해 있습니다. 관심 있으신 분들은 방문하셔서 회사와 서비스에 대해 더 알아보실 수 있습니다. 
           </p>
         info_table:
           <table class="table table-striped table-bordered table-condensed">
             <tbody>
               <tr>
                 <td>
-                  Office Hours
+                  근무 시간
                 </td>
                 <td>
-                  Monday-Friday 9&#58;00AM - 5&#58;00PM
+                  월 - 금 9:00AM - 5:00PM
                 </td>
               </tr>
               <tr>
                 <td>
-                  Address
+                  주소
                 </td>
                 <td>
                   <div>
-                    <strong>English</strong>
+                    <strong>영어</strong>
                     <br />
                     Beijing, Haidian District
                     <br />
@@ -624,7 +574,7 @@ ko:
                   </div>
                   <br />
                   <div>
-                    <strong>Chinese</strong>
+                    <strong>중국어</strong>
                     <br />
                     北京市海淀区
                     <br />
@@ -636,7 +586,7 @@ ko:
               </tr>
               <tr>
                 <td>
-                  Bus Lines
+                  버스
                 </td>
                 <td>
                   307 331 375 562 630 656 690 731 848
@@ -644,11 +594,11 @@ ko:
               </tr>
               <tr>
                 <td>
-                  Subway
+                  지하철
                 </td>
                 <td>
-                  Subway line 13, get off at WuDaoKou Station, 
-                  exit B and head west toward HuaQingJiaYuan
+                  전철 13호선에서 오대구(五道口)역에 내립니다. 
+                  출구 B에서 서쪽으로 5분 거리에 화칭자위안(华清嘉园) 단지로 오시면 됩니다.
                 </td>
               </tr>
             </tbody>
@@ -656,33 +606,27 @@ ko:
         map:
           caption: Baidu Map Many Moons Education, Beijing
       sh:
-        title: Shanghai Office
+        title: 상해 사무실
         desc:
-          Located in one of the most bustling commercial areas of the city, the 
-          Many Moons Cultural Exchange Center is like an oasis. We want to be a 
-          shelter of calm from the busyness of life, a place of community and 
-          friendship, a place where people can come to find rest, relaxation 
-          and enjoyment while engaging in meaningful activities leading to 
-          personal growth.  This is the place of cultural exchange where we will 
-          encourage students to learn through 
+          분주 복잡한 상업 도시 상해에 위치한 Many Moons Cultural Exchange 문화 센타는 마치 사막의 오아시스 같습니다. 일상의 복잡함 속에 아늑한 쉼터처럼 이 곳은 지친 일상을 벗어나 지인들과 함께 하며 다양한 문화체험과 문화교류를 함과 더불어 개인의 성장을 도모할 수 있는 곳입니다. 이러한 이벤트와 행사등을 통해 인맥을 넓히고, 친구를 사귀며, 새로운 세계를 만날수 있는 저희 문화 공간에 여러분을 초대합니다. 
         info_table:
           <table class="table table-striped table-bordered table-condensed">
             <tbody>
               <tr>
                 <td>
-                  Office Hours
+                  근무시간
                 </td>
                 <td>
-                  Monday-Friday 9&#58;00AM - 5&#58;00PM
+                  월 - 금 9&#58;00AM - 5&#58;00PM
                 </td>
               </tr>
               <tr>
                 <td>
-                  Address
+                  주소
                 </td>
                 <td>
                   <div>
-                    <strong>English</strong>
+                    <strong>영어</strong>
                     <br />
                     Many Moons Cultural Exchange Center
                     <br />
@@ -692,7 +636,7 @@ ko:
                   </div>
                   <br />
                   <div>
-                    <strong>Chinese</strong>
+                    <strong>중국어</strong>
                     <br />
                     Many Moons 文化交流中心
                     <br />
@@ -704,7 +648,7 @@ ko:
               </tr>
               <tr>
                 <td>
-                  Bus Lines
+                  버스
                 </td>
                 <td>
                   13，20，54，67，88，946，947
@@ -712,10 +656,10 @@ ko:
               </tr>
               <tr>
                 <td>
-                  Subway
+                  지하철
                 </td>
                 <td>
-                  Lines 2 / 3 / 4, Zhong Shan Park station, Exit 5
+                  2,3,4호선,중산공원(中山公园)역에서 내려 5번 출구로 나오시면 됩니다.
                 </td>
               </tr>
             </tbody>
@@ -723,76 +667,34 @@ ko:
         map:
           caption: Baidu Maps Many Moons Culture, Shanghai
 
-    # About > Staff
+    # Many Moons이란? > 직원소개
     staff:
-      title: Our Staff
+      title: 직원소개 
       sung:
-        title: Sung Chung, Director of Educational Consulting
+        title: 정 성, 교육 컨설팅의 드랙터
         desc:
-          Sung is a graduate of UCSD and attended graduate school at Biola 
-          University located in Sunny, Southern California. In 1996, after 
-          a summer trip visiting the many cities of North-Eastern China, 
-          he decided to one day come back and plant his roots. Sung has 
-          extensive experience working with students in America as well 
-          as China and has established Many Moons Educational Consulting 
-          to continue in his passion for people, especially students from 
-          all around the world. His experience includes working with students 
-          as a teacher in the Los Angeles Unified School District, as a 
-          speaker/coordinator for JAMA student conferences and also as a 
-          speaker for Christian groups all across America. He now lives in 
-          Beijing with his beautiful wife and four lovely daughters. 
+          정 선생님은 University of California: San Diego 에서 학사 학위를, 화창한 날씨와 아름다운 해변을 자랑하는 남부 캘리포니아의 Biola University에서 석사 학위를 취득하였습니다.  1996년 여름 중국의 북동 지역을 여행한 후 중국으로 돌아오기로 결심하였고 결국에는 중국에서 교육 관련 일을 하고자 하던 자신의 꿈을 현실로 이루었습니다. 정 선생님은 미국뿐 아니라 중국에서 많은 학생들과 활동을 하고 있고, Many Moons Educational Consulting을 설립하여 교육을 향한 열정을 피워나가고 있습니다. 정 선생님은 로스 앤젤레스 (LA) 학군에서 가르치셨고, Jama Conference의 강사와 코디네이터를 역임하였으며, 여러 기독 학생 모임에서 강사로 미국 곳곳을 방문하셨습니다.  현재는 아름다운 아내 그리고 사랑스러운 4자녀와 함께 북경에서 살고 있습니다. 
       chloe:
-        title: Chloe Wu, Chinese Students Representative
+        title: 우 치어유(吴 秋雨), 중국 학생 대표
         desc:
       esther:
-        title: Esther Chang, Korean Students Representative
+        title: 장 에스더, 한국 학생 대표
         desc:
-          Having lived half her life in Korea and the other half in America, 
-          Esther is an advocate of culture and global exchange. She graduated 
-          from Emory University in Atlanta, Georgia with a degree in Psychology. 
-          Her experiences include teaching English to Korean and Chinese middle 
-          school students, working with children with Autism and other 
-          disabilities, and doing research regarding children’s spatial 
-          concepts and cognitive maps. She is interested in overall comprehensive 
-          (physical, psychological, social, and spiritual) health for people all 
-          over the world, particularly those in the margins, and believes 
-          community development and practice is the key to better health.  She 
-          is currently in Beijing, China, embracing another part of the world 
-          as her own. So far, she enjoys learning how to navigate through 
-          Beijing traffic with her bike, trying new dishes whose 
+          장 에스더 선생님은 인생의 반을 한국에서, 다른 반은 미국에서 생활해 문화와 교류의 중요성을 누구보다도 잘 알고 있습니다.  에스더 선생님은 Atlanta, Georgia에 위치한 Emory University에서 심리학 석사를 취득했으며, 한국, 중국 학생들에게 영어를 강의하였습니다.  특히 자폐성 및 다른 장애를 가진 아이들을 위해 공간 개념과 지각 능력을 연구하고 지도하였습니다. 에스더 선생님의 비전은 공동체 발전과 실천을 통하여 사회의 어두운 곳에서 외면 당하는 사람들에게 신체적, 심리적, 사회적, 영적인 건강을 붇돋아 주고, 더 나아가 그들의 삶이 진정 의미있는 삶이 될수 있도록 도와 주는 것입니다. 현재 에스더 선생님은 중국 북경에서 생활하고 있으며, 중국 문화에 자신만의 독특한 방식으로 적응하고 있습니다. 복잡하기로 잘 알려진 북경 도로에서 자전거를 타기도 하고, 미국에서 먹어 보지 못한 새롭고 다양한 음식을 먹으며, “한중영어”로 친구들과 대화하는 것을 즐깁니다.
       daniel:
-        title: Daniel Yoon, Director of Technology
+        title: 윤 다니엘, 기술감독 
         desc:
           <p>
-            Daniel is a customer-focused IT specialist with 10+ years of 
-            professional experience in the development and design of 
-            e-enabled web solutions. He believes that software development 
-            is both an art and science and strives to be a "software 
-            craftsman" rather than a strict engineer. Prior to joining 
-            Many Moons Culture Exchange, Daniel worked in a variety of 
-            environments ranging from large Fortune 500 companies to 
-            small technology startups. 
+            윤 다니엘 선생님은 웹 솔루션 개발 및 디자인 방면으로 10년 이상의 경력을 가진 고객 중심의 IT 전문가입니다. 소프트웨어 개발은 예술과 과학을 접목한 분야라고 생각하며 엔지니어라고 부르기 보다는 “소프트웨어 예술가”로 부르는게 가 더 어울리는 분입니다. Many Moons Cultural Exchange에서 일하기 전에는 Fortune500의 대 기업에서부터 개인회사에 이르기까지 다양한 환경에서의 경력을 가지고 있습니다.
           </p>
           <p>
-            Daniel graduated from University of California Irvine with a BS 
-            in Information and Computer Science. Graduation was just the 
-            beginning as he continues to research new trends and best 
-            practices in software development and user design experience.
+            다니엘 선생님은 University of California: Irvine에서 정보 및 컴퓨터 과학 전공으로 학사를 받았으며 그 후 소프트웨어 개발과 사용자를 대상으로 연구를 진행하였습니다.
           </p>
           <p>
-            Currently his web development environment of choice is Ruby on 
-            Rails, VIM, git, iTerm2 and tmux on Mac OSX. He's also intimately 
-            familiar with the Microsoft stack having developed professionally 
-            on it for almost 10 years. After experiencing both, his preference 
-            is for the *nix stack and is a staunch proponent of open source software.
+            현재 다니엘 선생님이 주로 사용하시는 웹 개발 프로그램은Ruby on Rails, VIM, git, Mac OSX의 iTerm2 과 tmux입니다. 또한 마이크로소프트 스택을 지난 10년 동안 전문적으로 개발하였으며, 특히*nix 스택과 오픈 소스 소프트웨어를 쓰십니다.
           </p>
           <p>
-            When not at the office you can find him either at home with his 
-            wife, anxiously awaiting the arrival of their newborn baby or in 
-            class studying Chinese. He used to love surfing (on actual waves, 
-            not the internet) but since leaving his home town of California 
-            he's had to change to more sedentary hobbies like reading and 
-            watching movies with friends.
+            다니엘 선생님은 사무실에 있지 않으면 중국어 공부를 하고 있거나 집에서 현재 임신중인 아내와 함께 단란한 시간을 보내고 있습니다. 파도 타는 것을 즐기는 그는 바다로 둘러 쌓인 고향 캘리포니아를 떠나온 후, 주로 책을 읽거나 친구들과 영화를 봅니다.
           </p>
 
     our_name:
