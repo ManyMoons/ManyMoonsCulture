@@ -32,337 +32,300 @@ zh-CN:
     tpca_link_caption: click for more info
 
     intro:
-      title: Many Moons Educational Consultation Services
+      title: 集月教育咨询服务
       desc:
-        We believe that an American education is the best in the world. Our 
-        mission is to help students and parents to reach their dreams of 
-        receiving an American education. We specialize in helping families 
-        through the application process, visa process and securing a homestay 
-        while studying in America. This process can be complicated and difficult 
-        for many students but our promise is that we will provide an honest and 
-        complete service for our families.
+        我们相信美国有全球最好的教育。我们以帮助学生和家长实现接受
+        美国教育的梦想为我们的使命。赴美留学的申请、签证、寄宿家庭
+        等手续可能令很多学生及其家庭望而生却，我们的专长便在于全程
+        为学生、家长提供帮助与服务。我们承诺为我们的客户家庭提供诚
+        实、可靠、完整的服务。
     philosophy:
-      title: International Boarding Philosophy
+      title: 关于国际学生住宿的伦理
       desc:
-        Homestay is a unique feature of our boarding program. We believe that 
-        international students living with American families creates a much 
-        better educational environment and provides more social and emotional 
-        support than an impersonal boarding dorm. Host families are carefully 
-        chosen after a background and reference check and personal interviews.
-        Orientation and ongoing support is provided for both host families and 
-        international students.
+        寄宿家庭是我们的住宿项目之独特性所在。我们相信与美国
+        家庭一起生活的留学生可以获得更好的教育环境，寄宿家庭
+        能够提供重要的社会、情感支持，远远优于缺乏人情味的宿
+        舍环境。
+        我们对接待家庭进行了精心的挑选，挑选方式包括背景调查和面谈。
+        我们将帮助接待家庭和留学生彼此适应，并提供后续的支持。
     process:
-      title: Admission Process
+      title: 招生程序
       desc:
         <ol>
-          <li>Print and submit our application for admission to us at %{encoded_email}. We have a rolling application process. We will consider applicants as long as there are spaces available, but the best time to apply is at least 2 months before the start of a new semester. We accept students for both Spring and Fall semesters.</li>
-          <li>Once we receive your application, we will schedule a Skype student interview. The interview consists of our meeting with the applicant for about 15 minutes. The interview can also be conducted in person if the applicant is available.</li>
-          <li>Admission decision - Following the interview, a decision will be made regarding admission. The decision is made based on the student application, interview, availability of host families, and the fit of the student with the available host families. The acceptance decision will be emailed to the family. If the student is accepted, the I-20 will be sent to the family by mail after a deposit and enrollment contract are submitted.</li>
+          <li>第一步：打印入学申请，发送给我们的教育咨询主管 郑老师（Mr. Sung Chung，联系方式： {encoded_email}）. 我们有一个招生申请程序。只要有空余的名额，我们都会考虑申请者的申请，但最佳的申请时间是新学期开始之前至少2个月。招生在每年的春季和秋季学期都会进行。 </li>
+          <li>第二步：一旦接受你的申请，我们将安排通过Skype（视频通话软件）进行的学生面试。面试时间约15分钟。如果申请者条件允许，这一步的面试也可以当面进行。</li>
+          <li>第三步：在面试完成之后，我们将做出是否接收学生的决定。这个决定的做出会根据学生的申请材料、面试情况以及是否有合适的接待家庭。录取决定的结果将通过电子邮件发送到学生家中。被接收的学生在提交定金和入学协议后，会收到包含I-20表（入学通知书）的信件。</li>
         </ol>
     calendar:
-      title: School Calendar
+      title: 校历
       desc:
         <ul>
-          <li>Early August&#58; International Student Boarding Orientation</li>
-          <li>Mid-August through mid-December&#58; First Semester</li>
-          <li>Late-December- early January&#58; two week Christmas Vacation</li>
-          <li>Mid-January through early June&#58; Second Semester</li>
+          <li>8月初：留学生入学培训</li>
+          <li>8月中旬~12月中旬：第一学期</li>
+          <li>12月底~次年1月初：圣诞节假期（两周）</li>
+          <li>1月中旬~6月初：第二学期</li>
         </ul>
     school_fees:
-      title: Tuition and Fees
+      title: 学费及其他费用
       desc:
         <p>
-          Tuition and Fees include&#58; enrollment and orientation fees, special 
+          包括：注册费，入学培训费，特殊活动费用（如校游field trip、晚宴、远足），大学咨询费，大学申请辅导费，书本费，国际学生服务费。Tuition and Fees include&#58; enrollment and orientation fees, special 
           fieldtrips, special dinners and excursions, college counseling, college 
           application assistance, books, international processing services. 
         </p>
         
         <p>
-          Tuition and fees for 2011-2012 are&#58;
+          2011-2012学年度的学费及其他费用如下&#58;
         </p>
          
         <p>
-          <strong>Traders Point Christian Academy</strong>
+          <strong>Traders Point基督教学院（TPCA）</strong>
           <br />
-          $16,000 per year for grades 7 - 12
+          7-12年级：每年16,000美元（约合十万人民币）
         </p>
           
         <p>
-          <strong>Eastside Christian High School</strong>
+          <strong>Eastside基督教高中（ECHS）</strong>
           <br />
-          $18,000 per year for grades 7 - 12
+          7-12年级：每年18,000美元（约合十一万人民币）
         </p>
     additional_costs:
-      title: Estimated Additional Costs
+      title: 额外花费估计
       desc:
         <p>
-          Homestay fees, lunch and athletic participation fees are not included in 
+          上述费用没有包含寄宿家庭的花费，午餐费用和参与体育运动的费用。学校会每月将这些额外花费的账单寄到学生家中。Homestay fees, lunch and athletic participation fees are not included in 
           tuition and fees noted above. These additional fees will be billed to 
           the student’s family monthly by the schools. 
         </p>
         
         <p>
-          Anticipated additional fees are&#58;
+          可预期的额外花费包括&#58;
         </p>
          
         <ul>
-          <li>Homestay fees ($10,000 for TPCA per year and $20,000 Eastside for  per year)</li>
-          <li>School lunch (approximately $70 per month)</li>
-          <li>Athletic participation fees (approximately $100 per sport)</li>
-          <li>Uniforms (Eastside only, about $300 depending on items)</li>
-          <li>Ipad2 Program (Eastside only, $350)</li>
-          <li>Return to home country during Christmas break and/or summer break</li>
-          <li>Must bring $1000 Visa card for incidental expenses (clothing; shoes; weekend entertainment; instrumental music rental; extra art, dance, athletic lessons, etc.)</li>
+          <li>寄宿家庭花费（TPCA：每年10,000美元-约合六万人民币；Eastside：20,000美元-约合十二万人民币）</li>
+          <li>学校午餐（月均约70美元）School lunch (approximately $70 per month)</li>
+          <li>课外体育项目（约100美元/项）</li>
+          <li>制服（仅Eastside：约300美元，据具体项目而定）</li>
+          <li>Ipad2 计划（仅Eastside：350美元）</li>
+          <li>圣诞节假期、暑假往返家乡的花费</li>
+          <li>必须准备含有1000美元的Visa卡以备不时之需（衣物、鞋；周末的娱乐；乐器租借；额外的艺术、舞蹈、体育训练等等）</li>
         </ul>
 
     mm_fees:
-      title: Many Moons Consultation Fee 
+      title: 集月教育咨询费 
       desc:
         <ul>
-          <li>1000 RMB application fee</li>
-          <li>20,000 RMB due at reception of I-20</li>
+          <li>申请费：1000人民币</li>
+          <li>服务费：20,000人民币（收到I-20录取表时收取）</li>
         </ul>
-        Our mission is to provide you with the service that best suits your needs. 
-        That is why the service fee is only charged after the student has been 
-        accepted to either of the schools. After the application process has 
-        begun, if the student and the school does not seem to be an ideal fit, 
-        there will be no further obligation to pay beyond the 1000 RMB application 
-        fee.
+        我们的任务是按照您的需要提供最好的服务。因此，我们的服务费仅在学生申请成功时收取。在申请进程中，如果发现学生和学校的适应度并不理想，我们不会在1000元的申请费之外加收其它费用。 
 
     questions:
-      title: Questions?
+      title: 有其他问题？
       desc:
-        If you have any questions in terms of how to start the application 
-        process or how to fill out the application, please email us at 
+        关于开始申请以及如何填写申请表，若有任何疑问请发送邮件到  
         %{encoded_email}. 
 
   eastside:
     fast_facts:
-      title: Fast Facts
+      title: 基本信息
       desc: 
         <table class="table table-striped table-bordered table-condensed">
           <tbody>
             <tr>
-              <td>Year Established&#58;</td>
+              <td>建校年份&#58;</td>
               <td>1976</td>
             </tr>
             <tr>
-              <td>School type&#58;</td> <td>K-12</td>
+              <td>学制&#58;</td> <td>K-12（学前~12年级）</td>
             </tr>
             <tr>
-              <td>Number of Students&#58;</td> <td>556</td>
+              <td>学生人数&#58;</td> <td>556</td>
             </tr>
             <tr>
-              <td>Student Teacher Ratio&#58;</td> <td>1&#58;16</td>
+              <td>学生-师资比例&#58;</td> <td>1&#58;16</td>
             </tr>
             <tr>
-              <td>Location&#58;</td> <td>Fullerton, California</td>
+              <td>地理位置&#58;</td> <td>Fullert加州，富勒顿市（Fullerton, California）rnia</td>
             </tr>
             <tr>
-              <td>Religious Affiliation&#58;</td><td>Christian</td>
+              <td>宗教背景&#58;</td><td>基督教</td>
             </tr>
             <tr>
-              <td>Accreditation&#58;</td><td>Western Association of Schools and Colleges</td>
+              <td>办学认证&#58;</td><td>美国西部学校学院协会（Western Association of Schools and Colleges, WASC）</td>
             </tr>
           </tbody>
         </table>
-    map_caption: google map
+    map_caption: 在Google地图上找到学校位置
     link:
-      title: Goto Eastside Christian Schools webpage
+      title: Eastside基督教学校网页链接
     history:
-      title: School History
+      title: 学校历史
       desc:
         <p>
-          Eastside Christian Schools was established as part of the Eastside 
-          Christian Church ministry in 1976. David Schoen has been the lead 
-          administrator since 1980 when the school was a preschool through 
-          fifth grade campus of 100 students.
+          Eastside基督教学校（简称Eastside）成立于1976年，是Eastside基督教教会事工的一部分。现任校长David Schoen从1980年开始带领管理这所学校，当时学校从学前班到5年级有100个学生。
         </p>
          
         <p>
-          The school grew rapidly during the 1980's, filling the space that 
-          Eastside Christian Church was able to provide at the time. As the 
-          church added facilities, the school was given additional office and 
-          classroom space as well. As part of the growth process, grades were 
-          added up through eighth grade.
+          学校在80年代迅速成长，招收的学生填满了Eastside基督教教会能够提供的全部教育空间。之后教会设施扩大，学校也有了新的办公室和教室。作为成长的一部分，学校的年级增加到8年级（初中）。
         </p>
           
         <p>
-          As Eastside Christian Schools matured, it became apparent that the 
-          school needed to become a separate corporation to expand our 
-          Christian school ministry to additional locations as well as to 
-          add a high school.
-          Today Eastside Christian Schools has grown to become a fully 
-          accredited educational program and operates two school campuses in 
-          the City of Fullerton California. At Eastside you will find a 
-          comprehensive educational program for all age groups from preschool 
-          through twelfth grade.
+          随着Eastside基督教学校的成熟，学校成立高中部、成为一个独立机构的需要日益凸显。
+          到今天，Eastside基督教学校已经成为了一个经过全面认证的教育机构，在加州的富勒顿市有两个校园。学校提供综合设计的教育项目，给从学前到12年级各个年龄段的孩子。
         </p>
 
     about:
-      title: About Eastside
+      title: 关于Eastside
       desc:
-        Eastside Christian High School and Junior High operates a comprehensive 
-        high school and junior high program in a shared facility in freeway-close 
-        west Fullerton. With large classrooms, cafeteria, gymnasium, science labs 
-        and computer lab on site, and Hunt Branch Public Library sharing its 
-        border; Eastside occupies property owned by Grace Ministries International, 
-        and leases local city fields for outdoor sports. Students are encouraged to 
-        participate in a variety of activities, including sports, arts, service and 
-        leadership. With opportunities such as extra-curricular international trips and a 
-        four-year film-making institute, Eastside offers the basics of a curriculum 
-        for college preparation while it provides areas of high interest for 
-        students to explore.
+        Eastside基督教学校是一所私立学校，位于美国加州富勒顿市（Fullerton）南部。学校的初、高中部共用一个校区，实施综合性设计的课程计划。学校有宽敞的教室、自助餐厅、健身房、实验室和机房，并且紧邻一座公共图书馆（Hunt Branch Public Library）。
+Eastside致力于培养学生在学术上，情感上，心灵上，社交上都能够全面发展，追求卓越。这里的教育将为学生继续接受高等教育打下良好的基础，而与此同时，学校也开拓了多个领域供学生探索，鼓励学生参与体育、艺术、社会服务和领导力培养等各样丰富的活动。
+
     accreditation:
-      title: Accreditation
+      title: 办学认证
       desc:
-        Our K-12 program is accredited by the Western Association of Schools and 
-        Colleges (WA SC). Detailed information in regards to WASC accreditation 
-        can be found on their 
-        <a href="http://www.acswasc.org/index.htm" target="_blank">website</a>.  
+        我们的教育项目由美国西部学校学院协会（WASC）认证。关于该认证的详细信息参见WASC协会的网站
+        <a href="http://www.acswasc.org/index.htm" target="_blank"></a>.  
 
     academics:
-      title: Academics
+      title: 学术情况
       desc:
-        <p>
-          Both the Eastside junior high and high school program received a 
-          six-year term of accreditation from the Western Association of 
-          Schools and Colleges in 2007. The curriculum at Eastside is college 
-          prep, and meets all curricular requirements of the University of 
-          California. All a-g high school courses have been submitted and 
-          approved by the UC board. ECHS graduation requirements meet 
-          pre-requisites for UC or CSU admission, with the additional 
-          requirement of four years of Bible and three semesters of 
-          business/technology. 
+        <p> Eastside的课程安排与大学教育相匹配，与加州大学（UC）所有的课程要求相适应（Eastside的毕业生应满足加州大学（UC）和加州州立大学（CSU）对申请者的高中课程要求），并在此基础上增加了4年的圣经学习和3个学期的商业/科技课程。
+Eastside的初中和高中项目均在2007年从美国西部学校学院协会（WASC）得到了6年的认证。Eastside的课程安排与大学教育相匹配，适应于加州大学（UC）所有的课程要求。全部的A-G高中课程（申请加州大学所要求的必修课）都经由加州大学董事会审核认可。Eastside的毕业要求满足加州大学（UC）和加州州立大学（CSU）入学的先决要求，并在此基础上添加了4年的圣经学习和3个学期的商业/科技课程。
         </p>
          
         <p>
-          Students may choose from <strong>eight AP courses</strong> during 
-          their junior and senior years, and a trip to Europe for additional 
-          academic credit.
+          此外，学校更提供<strong>8门AP课程（美国大学先修课程）</strong> 供初高中学生选择。
         </p>
 
     admissions:
-      title: Admissions
-      desc:
-        If you would like more information about applying to Eastside, please 
-        contact us at Many Moons Education, who is the Eastside Christian Schools 
-        representative for China, at %{encoded_email}.
+      title: 入学申请
+      desc:        如果你想要更多了解信息，以及如何申请Eastside学校，请发送邮件到%{encoded_email}联系我们。集月教育咨询中心是Eastside基督教学校驻中国的官方代表。
 
   tpca:
     link:
-      title: Goto Traders Point Christian Academy webpage
+      title: 去到Traders Point基督教学院（TPCA）的网页
     map_caption: google map
     fast_facts:
-      title: Fast Facts
+      title: 基本信息
       desc:
         <table class="table table-striped table-bordered table-condensed">
           <tbody>
             <tr>
-              <td>Year Established&#58;</td><td>1976</td>
+              <td>建校年份&#58;</td><td>1976</td>
             <tr>
             </tr>
-              <td>School type&#58;</td><td>K-12</td>
+              <td>学制&#58;</td><td>K-12（学前~12年级）</td>
             <tr>
             </tr>
-              <td>Number of Students&#58;</td><td>590</td>
+              <td>学生人数&#58;</td><td>590</td>
             <tr>
             </tr>
-              <td>Student Teacher Ratio&#58;</td><td>1&#58;13</td>
+              <td>学生-师资比例&#58;</td><td>1&#58;13</td>
             <tr>
             </tr>
-              <td>Location&#58;</td><td>Whitestown, Indiana</td>
+              <td>地理位置&#58;</td><td>印第安纳州，怀特斯敦（Whitestown, Indiana）</td>
             <tr>
             </tr>
-              <td>Religious Affiliation&#58;</td><td>Christian</td>
+              <td>宗教背景&#58;</td><td>基督教</td>
             <tr>
             </tr>
               <td>
-                Accreditation&#58;</td><td>Association of Christian Schools International, 
+                办学认证&#58;</td>国际基督教学校协会(ACSI)<td> 
                 <br />
-                North Central Association and Indiana Department of Education
+               中北部院校协会（NCASI）印第安纳州教育厅（Indiana Department of Education）
               </td>
             </tr>
         </table>
     history:
-      title: School History
+      title: 学校历史
       desc:
-        Traders Point Christian Academy was founded in 1976 and continues to 
-        build a reputation of being one of the most respected private 
-        Christian schools in Indiana. The school mission statement reflects 
-        a commitment to providing exceptional academics within a Biblical 
-        worldview as part of an effort to educate the whole student.
+        Traders Point基督教学院（简称TPCA）成立于1976年，此后逐步建设成为印第安纳州最为人称道的私立基督教学校之一。学校将建立圣经世界观作为教育全部学生不可或缺的部分，并致力于在此基础上提供高学术水平的教育。
     about:
-      title: About Traders Point
+      title: 关于Traders Point
       desc:
-        Traders Point Christian Academy (TPCA) is a private Christian school 
-        that serves northwest Indianapolis and outlying areas. We believe 
-        that a complete education includes imparting knowledge and developing 
-        skills in the framework of a Christian values system. Knowledge 
-        involves critical life skills such as learning vocabulary and math. 
-        Skill development is the application of knowledge, which allows 
-        children to become more self-directed and sets the stage for lifelong 
-        learning. But knowledge and skills are not enough to equip a child to 
-        succeed in the world. The heart must be enriched with a value system 
-        through which knowledge is evaluated, skills are applied, and decisions 
-        are made. Teaching Biblical worldview provides the value system through 
-        which students learn how God wants them to behave, react, and respond 
-        to life. A complete education expands the mind and enriches the heart. 
-        That's our goal at TPCA. Join us in fulfilling our mission.
+        Traders Point基督教学院
+（TPCA）位于印第安纳州的西
+北部，是一所私立基督教学校。
+学校所有的办学理念注重给
+学生全面的教育，也就是在基督
+教价值体系的框架内传授知识给
+学生，并发展他们的技能。
+知识包括关键的生活能力，
+比如词语和数学。技能是对知识
+的应用，能够培养孩子的自主能
+力，建立终身学习的基础。
+但一个孩子要在这个世界上
+成功，仅有知识和技能是不够的
+——他的心灵必须得到充实，他
+需要有一个健康的价值体系用以
+评估知识、应用技能、做出决
+策。圣经世界观的教导就是要提
+供这样的价值体系，使学生明白
+上帝要他们如何行为，如何做出
+反应，如何应对生活。
+全面而完整的教育使人思想
+开阔，心灵充实——TPCA愿与
+您的家庭共同完成这个使命！
     accreditation:
-      title: Accreditation
-      acsi: Association of Christian Schools International
-      nca: North Central Association
-      doe_in: Indiana Department of Education
+      title: 办学认证
+      acsi: 国际基督教学校协会(Association of Christian Schools International，ACSI)www.acsi.org
+      nca: 中北部院校协会（North Central Association，NCACASI）www.ncacasi.org
+      doe_in: 印第安纳州教育厅（Indiana Department of Education）www.doe.state.in.us
 
     academics:
-      title: Academics
+      title: 学术情况
       desc:
-        TPCA has a comprehensive media center, science lab, music and visual 
-        arts areas.
-        25 classrooms are fully networked for the most advanced technological 
-        tools to enhance learning. High School students receive Tablet computers 
-        for use during the academic year. Students pursue a rigorous academic 
-        curriculum in the academy tradition while having the freedom to pursue 
-        their own academic passions.
+        TPCA有一个综合媒体中心、实验室和视听艺术区。25
+个教室全部配备网络，以最先进的技术工具强化学习体验。
+学校为每个在校高中学生准备了学习用的平板电脑。学生将
+按照严谨的学术传统接受课程训练，同时，他们也有一定自
+由度来追逐自己的学术
+热情所在。
+T P C A 的教育水平出
+色，这里学生的学业程
+度通常比全州乃至全国
+的同龄人高出至少一个
+年级。
       sub:
-        <h3>Advanced Placement Courses</h3>
+        <h3>AP课程（大学先修课程）</h3>
          
         <ul>
-          <li>Offer scope and depth of college courses</li>
-          <li>AP test offered; AP courses available in Spanish, World History, Chemistry and English Literature.</li>
+          <li>提供大学课程的深度和广度</li>
+          <li>提供AP课程测试；AP课程涵盖西班牙语、世界历史、化学和英语文学</li>
         </ul>
           
-        <h3>Honors Courses</h3>
+        <h3>荣誉课程</h3>
 
         <ul>
-          <li>Offer more in-depth study of subjects</li>
-          <li>Proceed at a faster pace for students</li>
-          <li>Expand opportunities for independent work</li>
+          <li>提供相关科目更有深度的学习</li>
+          <li>更快完成课程进度</li>
+          <li>给学生拓展机会来独立工作</li>
         </ul>
 
-        <h3>College Preparatory Courses</h3>
+        <h3>大学预科课程</h3>
 
         <ul>
-          <li>Provide students with the skills and knowledge imperative for college success</li>
-          <li>All major courses not otherwise designated are college preparatory</li>
+          <li>教授学生在大学获得成就所必需的技能和知识</li>
+          <li>除特定课程外，所有主修课都是为预备大学教育而设定的</li>
         </ul>
     admissions:
-      title: Admissions
+      title: 入学申请
       desc:
-        If you would like more information about applying to Traders Point 
-        Christian Academy, please contact Mr. Sung Chung, who is the Eastside 
-        Christian Schools representative for China, at %{encoded_email}.
+        如果您想了解更多申请Traders Point 学校的信息，请联
+系%{encoded_email}，或致电18600164247 集月教育咨询中心是
+Traders Point（TPCA）驻中国的官方代表
     quote1:
       text:
-        Tonight we were discussing high school and I asked her what she thought. 
-        She simply said, "I love it". She does not say this lightly. She grew 
+        “Tonight we were discussing high school and I asked her what she thought. She simply said, ‘I love it.’ She does not say this lightly.（今晚和女儿聊到她的高中。我问她觉得怎么样，她只简单地说“我喜欢”——我女儿这话可不是轻易说的）”
+She grew 
         up in public schools, she has cousins and an Uncle, Aunt and Grandparents 
         that go to and work or worked in public schools. She sees and knows the 
         difference and she is grateful for where her education is taking place. 
 
         So I say thank you to you, to Mr Lance and to all of our teachers. I am truly very grateful. 
-      who: Kim McManus, TPCA parent of 10th grade student
+      who: 高一学生家长：KIM McMANUS
     quote2:
       text:
         In the spirit of seeking and sharing positive things in my life, I 
@@ -419,65 +382,57 @@ zh-CN:
 
   # Services > University Tour
   university_tour:
-    title: American Cultural University Tour
+    title: 美国名校文化游
 
     walk:
-      title: Come walk the streets where George Washington, Thomas Jefferson and their colleagues walked! 
+      title: 追随华盛顿总统（George Washington）、杰弗逊总统（Thomas Jefferson）及其同仁的足迹！
       desc: 
-        The tour will include visiting major cities of historical significance such
-        as Boston, New York City, West Point, Baltimore, Philadelphia,
-        Gettysburg, Hershey, Washington, D.C., and many more!
+      此行游览将一举囊括美国历史中的重要城市：波士顿（Boston）、纽约（New York City）、西点（West Point）、巴尔的摩（Baltimore）、费城（Philadelphia）、葛底斯堡（Gettysburg）、赫尔希镇（Hershey）、华盛顿哥伦比亚特区（Washington D.C.）等等
 
     visit:
-      title: Visit the universities of Harvard, Princeton and other major educational institutions that have shaped and formed the leaders of America.
+      title: 徜徉于美国的名校哈佛大学（Harvard）、普林斯顿大学（Princeton）及其他重点教育机构，第一手认识塑造与建立美国领袖的地方
       desc:
-        Students will have opportunities to visit the campuses
-        and meet with Admissions representative to discuss admissions
-        requirement and preparation for future applicants.
+        学生将有机会参观校园，与学校招生代表见面，了解学校招生情况以及学校对将来的申请人有何要求、应当如何准备
 
     study:
-      title: Study English in the context of America’s culture and history.
+      title: 在美国的本土文化历史中学习英语
       desc:
-        Travelers will be accompanied by ESL teachers who will incorporate
-        the curriculum of each day into an English learning opportunity.
+        出游的学生将由ESL老师陪同，这些老师负责精心安排每天的日程，把各个活动整合成学习英语的好机会
 
     how_where_when_cost:
       <p>
-        <strong>How Long?</strong>
+        <strong>游览时间</strong>
         <br />
-        7 days 
+        7天
       </p>
      
       <p>
-        <strong>Where?</strong>
+        <strong>游览路线</strong>
         <br />
-        From Boston to Washington D.C.
+        从波士顿（Boston）出发，一路游览到华盛顿哥伦比亚特区（Washington D.C.）
       </p>
       
       <p>
-        <strong>When?</strong>
+        <strong>出行日期</strong>
         <br />
-        Coming August of 2012!
+        即将到来的2012年暑假（8月份）！
       </p>
        
       <p>
-        <strong>How Much?</strong>
+        <strong>价格花费</strong>
         <br />
-        2000USD per person not including airfare to and from the United States.
+        2000美金；不包括往返美国的机票
       </p>
 
     how_sign_up:
-      title: How do I sign up?
-      desc: For more information please contact us at %{encoded_email} so that we can send you a brochure and application form with more information.
+      title: 报名方式
+      desc: 若想了解进一步信息，索取宣传手册及报名表，请联系我们：%{encoded_email} 
 
   # Services > Space Rental
   space_rental:
-    title: Space Rental
+    title: 场地租借
     desc:
-      Need a centrally located place to hold a party, meeting or other special 
-      gathering? Consider renting a space at the Many Moons Center – our resources 
-      are at your disposal. Contact us at %{encoded_email} to make a 
-      reservation. 
+      想在市中心寻找一个开派对或见面聚会的地方？你可以在我们的 Many Moons 中心租借一个空间——我们的资源愿供你使用。要预定请联系 %{encoded_email} 
     main:
       title: Main Events Room
       desc:
