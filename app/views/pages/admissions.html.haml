@@ -1,29 +1,27 @@
 %h2= t :'admissions.title'
-%hr
+
+%ul.thumbnails
+  %li.span5
+    .thumbnail.alert.alert-success
+      = link_to image_tag(asset_path('eastside-logo.png')), eastside_url, { :class => 'thumbnail' }
+      .caption
+        = link_to "#{t :'admissions.eastside_link_caption'}", eastside_url
+  %li.span7
+    .thumbnail.alert.alert-info
+      = link_to image_tag(asset_path('tpca-logo.png')), tpca_url, { :class => 'thumbnail' }
+      .caption
+        = link_to "#{t :'admissions.tpca_link_caption'}", tpca_url
+
+%h3= t :'admissions.intro.title'
+%p= t :'admissions.intro.desc'
 
 .alert.alert-info
   %h3= t :'admissions.questions.title'
   %p= raw t(:'admissions.questions.desc', :encoded_email => encoded_email)
 
-%h3= t :'admissions.intro.title'
-%p= t :'admissions.intro.desc'
-%hr
-
 %h3= t :'admissions.philosophy.title'
 %p= t :'admissions.philosophy.desc'
 %hr
-
-%ul.thumbnails
-  %li.span5
-    .thumbnail
-      = link_to image_tag(asset_path('eastside-logo.png')), eastside_url, { :class => 'thumbnail' }
-      .caption
-        = link_to "#{t :'admissions.eastside_link_caption'}", eastside_url
-  %li.span7
-    .thumbnail
-      = link_to image_tag(asset_path('tpca-logo.png')), tpca_url, { :class => 'thumbnail' }
-      .caption
-        = link_to "#{t :'admissions.tpca_link_caption'}", tpca_url
 
 %h3= t :'admissions.process.title'
 %p= raw(t :'admissions.process.desc', :encoded_email => encoded_email)
