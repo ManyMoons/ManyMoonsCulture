@@ -1,19 +1,26 @@
 %h2= t :'university_tour.title'
 %br
 
-.well
-  %h3= t :'university_tour.walk.title'
-  = t :'university_tour.walk.desc'
-  %hr
-
-  %h3= t :'university_tour.visit.title'
-  = t :'university_tour.visit.desc'
-
 .row
-  .span6
-    .well= raw(t :'university_tour.how_where_when_cost')
-  .span6
-    .alert
-      %strong= t :'university_tour.how_sign_up.title'
-      %br
-      = raw t(:'university_tour.how_sign_up.desc', :encoded_email => encoded_email)
+  .span3
+    = image_tag asset_path("ben.png")
+  .span9
+    %h3= t :'university_tour.walk.title'
+    = t :'university_tour.walk.desc'
+    %hr
+
+    %h3= t :'university_tour.visit.title'
+    = t :'university_tour.visit.desc'
+
+    %p
+      .alert
+        %strong= t :'university_tour.how_sign_up.title'
+        %br
+        = raw t(:'university_tour.how_sign_up.desc', :encoded_email => encoded_email)
+
+%p
+  .row
+    .span6
+      .well= raw(t :'university_tour.how_where_when_cost')
+    .span6
+      = image_tag asset_path("univ-tour.jpg")
