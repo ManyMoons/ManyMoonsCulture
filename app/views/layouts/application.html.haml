@@ -63,7 +63,7 @@
               %li{ :class => params[:locale].nil? || params[:locale].include?('zh-CN') ? "active" : '' }
                 = link_to "中文", url_for(:controller => params[:controller], :action => params[:action], :locale => 'zh-CN')
               %li{ :class => params[:locale] && params[:locale].include?('ko') ? "active" : '' }
-                = link_to "한국의", url_for(:controller => params[:controller], :action => params[:action], :locale => 'ko')
+                = link_to "한국어", url_for(:controller => params[:controller], :action => params[:action], :locale => 'ko')
               %li{ :class => params[:locale] && params[:locale].include?('en') ? "active" : '' }
                 = link_to "English", url_for(:controller => params[:controller], :action => params[:action], :locale => 'en')
 
