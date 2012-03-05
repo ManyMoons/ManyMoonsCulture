@@ -3,7 +3,7 @@ ko:
   header:
     title: "Many Moons"
     link_home: "홈"
-    link_about: "Many Moons이란?"
+    link_about: "회사정보"
     link_contact: "문의"
 
   # home page
@@ -14,7 +14,7 @@ ko:
       button_html: 자세한 정보 &raquo;
     heading1:
       title: 학교 연계 <span class="hero-sub-italic">교육 방안</span>
-      desc: "저희 교육 전문 컨설턴트에게 자녀 진로에 관한 상담과 필요한 정보를 받으십시오.  저희 교육기관과 직접 연계한 기독교 사립학교에서 미국 학생들과 마음껏 공부하며 집에서는 가족과 같이 편하고 따뜻한 홈스테이에서 미래를 준비해 나가세요."
+      desc: "저희 교육 전문 컨설턴트에게 자녀 진로에 관한 상담과 필요한 정보를 받으세요.  저희 교육기관과 직접 연계한 기독교 사립학교에서 미국 학생들과 마음껏 공부하며 가족과 같은 편하고 따뜻한 홈스테이에서 미래를 준비해 나가세요."
       button_html: "자세한 정보 &raquo;"
     heading2:
       title: 현지 문화 <span class="hero-sub-italic">체험</span>
@@ -45,7 +45,7 @@ ko:
         <ol>
           <li>입학 신청서를 %{encoded_email}로 제출합니다. 저희는 롤링 입학 제도(rolling application process)를 시행하므로 자리가 있는 한 지원서를 계속 받습니다. 신청하기 제일 적합한 시기는 학기 시작하기 2개월 전입니다. 가을 학기와 봄 학기 모두 지원서를 받습니다. </li>
           <li>신청자가 직접 찾아 오셔서 저희 교육 전문 컨설턴트와 인터뷰를 하시거나, 신청서 제출 후 Skype으로 학생과의 개별 인터뷰를 갖습니다. 인터뷰는 약 15분간의 기본적인 질문과 대화로 이루어집니다.</li>
-          <li>인터뷰 후, 입학 결정이 이루어집니다. 학생의 신청서, 인터뷰, 호스트 가정의 조건, 그리고 호스트 가정과의 관계적응 가능성에 의해 입학이 결정이 됩니다. 입학 결정 유무는 신청자 가족들에게 이 메일로 전송됩니다. 입학이 허가된 학생들이 보증금과 등록 계약서를 제출하면 필요한I-20와 그외 서류를 우편으로 받게 됩니다.</li>
+          <li>인터뷰 후, 입학 결정이 이루어집니다. 학생의 신청서, 인터뷰, 호스트 가정의 조건, 그리고 호스트 가정과의 관계적응 가능성에 의해 입학이 결정이 됩니다. 입학 결정 유무는 신청자 가족들에게 이 메일로 전송됩니다. 입학이 허가된 학생들이 보증금과 등록 계약서를 제출하면 필요한 I-20와 그외 서류를 우편으로 받게 됩니다.</li>
         </ol>
     calendar:
       title: 학사 일정
@@ -378,13 +378,12 @@ ko:
       </p>
     quote1:
       text:
-        Coming to Many Moons is like going home. No uneasiness, no worries. Only the sound of laughter with like-minded friends. 
-      author: Andy
+        Many Moons은 마치 집과 같습니다 .불편함이나 걱정거리 없이, 마음을 나눌 수 있는 친구들과 함께 웃을 수 있는 곳입니다.  
+      author: 앤디
     quote2:
       text:
-        My first experience at Many Moons was unforgettable; Even through my 
-        broken English, I still felt the power of “cultural exchange”. 
-      author: Kurt
+        Many Moons에서의 첫 경험을 절대 잊을 없답니다. 아직까지 너무나 서투른 영어를 통해서도 문화 교류의 힘을 느꼈습니다. 
+      author: 컬트  
 
 
   # 서비스 > 명문대 탐방
@@ -438,69 +437,65 @@ ko:
   space_rental:
     title: 공간 임대
     desc:
-      Need a centrally located place to hold a party, meeting or other special 
-      gathering? Consider renting a space at the Many Moons Center – our resources 
-      are at your disposal. Contact us at %{encoded_email} to make a 
-      reservation. 
-    main:
-      title: Main Events Room
+       모임 가질만한 장소가 필요하십니까? Many Moons 센터 공간 임대를 고려해 보세요. 예약하시려면 %{encoded_email}로 문의해 주시길 바랍니다. 
+      title: 메인 이벤트 공간 
       desc:
         <ul>
-          <li>6 square tables</li>
-          <li>Seating capacity&#58; 40</li>
-          <li>Projector & laptop</li>
-          <li>Small stereo</li>
-          <li>Keyboard</li>
+          <li>네모난 테이블&#58; 6</li>
+          <li>좌석 수&#58; 40</li>
+          <li>츠로젝터 & 노트북</li>
+          <li>소형 스테레오</li>
+          <li>키보드</li>
         </ul>
 
         <hr />
-        Member price&#58; 150 RMB/hour 
+        멤버 가격&#58; 1시간당 150 RMB 
         <br />
-        Non-Member price&#58; 200 RMB/hour
+        비멤버 가격&#58; 1시간당 200 RMB
     reading:
-      title: Reading Room
+      title: 독서실 
       desc:
         <ul>
-          <li>Seating capacity&#58; 10</li>
-          <li>Imported books and magazines (click here to download list)</li>
+          <li>좌석 수&#58; 10</li>
+          <li>미국에서 온  책과 잡지 (책 리스트)</li>
         </ul>
 
         <hr />
-        Member price&#58; 50 RMB/hour 
+        멤버 가격&#58; 1시간당 50 RMB
         <br />
-        Non-Member price&#58; 80 RMB/hour
+        비멤버 가격&#58; 1시간당 80 RMB
     workshop:
-      title: Workshop
+      title: 작업실 
       desc:
         <ul>
-          <li>Large work table</li>
-          <li>Seating capacity&#58; 10</li>
-          <li>Two ovens</li>
-          <li>Baking equipment (cookie cutters, measuring cups, baking pans, etc.)</li>
-          <li>Arts & crafts books, cookbooks, magazines</li>
-          <li>Paper cutter</li>
-          <li>CD player</li>
+          <li>큰 테이블</li>
+          <li>좌석 수&#58; 10</li>
+          <li>오븐&#58; 2</li>
+          <li>베이킹 요리 기구 (쿠키 커더, 측정 컵, 베이킹 팬, 등)</li>
+          <li>미술책, 요리책, 잡지</li>
+          <li>종이 커터</li>
+          <li>CD 플레이어</li>
         </ul>
 
         <hr />
-        Member price&#58; 50 RMB/hour 
+        멤버 가격&#58; 1시간당 50 RMB 
         <br />
-        Non-Member price&#58; 80 RMB/hour
+        비멤버 가격&#58; 1시간당 80 RMB
     bonus:
-      title: Free wireless internet and games available for use throughout the center&#58; 
+      title: 무료 무선 인터넷(wi-fi)과 보드 게임이 준비되어 있습니다&#58; 
       desc:
         <ul>
-          <li>Monopoly (Chinese edition)</li>
+          <li>Monopoly (중국판)</li>
           <li>Scrabble</li>
           <li>Chinese chess</li>
           <li>Pictionary</li>
           <li>Guesstures</li>
           <li>Clue</li>
           <li>Taboo</li>
-          <li>Playing cards and more</li>
+          <li>카드 게임, 등</li>
         </ul>
 
-  # Many Moons이란?
+  # 회사 정보
   about:
     mission:
       title: Many Moons Educational Consulting (교육 전문 컨설팅) 의 목표
@@ -659,7 +654,7 @@ ko:
         map:
           caption: Baidu Maps Many Moons Culture, Shanghai
 
-    # Many Moons이란? > 직원소개
+    # 회사 정보 > 직원소개
     staff:
       title: 직원소개 
       sung:
@@ -690,73 +685,63 @@ ko:
           </p>
 
     our_name:
-      title: Our Name
+      title: Many Moons의 뜻 
       desc:
         <p>
-          “Many Moons” is the title of a children’s book by James Thurbur, a noted 
-          American author and illustrator. In it, a princess asks for the moon, 
-          but when the king summons his wise men to figure out how to get it for 
-          her, all they come up with is reasons why it’s impossible. In the end, 
-          it is the court jester who finds the answer, and it is just a matter of 
-          making a simple paradigm shift. But in the end, isn’t that one of the 
-          hardest things for us to do?
+          “Many Moons”는 미국의 유명 작가이자 그림작가인 제임스 서버(James Thurber)가 쓴 어린이 책입니다.  이 책의 주인공인 공주가 달을 달라고 부탁해서 왕은 그의 현자들에게 어떻게 하면 달을 가질 수 있는지 묻습니다. 하지만 그들은 모두 불가능한 이유만 댑니다. 결국에는 궁중의 광대가 나서서 해답을 발견하는데 이것은 바로 단순한 패러다임 시프트였습니다. 우리에게도 역시 이런 패러다임을 바꾸는 것이 제일 어려운 일 중 하나가 아닐까요? 
         </p>
 
         <p>
-          Hard, but not impossible. 
+          어렵지만 결코 불가능은 아닙니다.  
         </p>
-
+ 
         <p>
-          We want to challenge people to change the way they think. By exposing 
-          people to other cultures, by valuing creativity and imagination, we want 
-          to encourage people to look at the world in a different way, and in so 
-          doing, perhaps to find the answers they’ve been looking for.
+          우리는 사람들이 생각하는 방식을 도전하길 원합니다. 색다른 문화 접함과 창의력, 및 상상력을 통해 사람들이 새로운 눈으로 세계를 보길 바라며 그로 인해 찾고 있던 해답을 꼭 찾길 바랍니다. 
         </p>
-      book_caption: 1990 edition
+      book_caption: 
 
   # Contact page
   contact:
-    title: Contact Us
+    title: 문의 
     desc:
       <p>
-        Thank you for visiting our website! 
+        저희 웹사이트를 방문해 주셔서 감사 드립니다!  
       </p>
 
       <p>
-        If you are interested in studying abroad, experiencing American culture or want to join us on an exciting trip to America, please let us show you how we can help! 
+        유학, 미국 문화 경험 및 문학 탐방에 관심 있으신 분들에게 저희들이 도움을 드릴 수 있습니다. 다음과 같은 궁금증이 있습니까?  
       </p>
 
       <ul>
         <li>
-          Want help filling out the application? 
+         지원서는 어떻게 제출합니까? 
         </li>
         <li>
-          Want to know what living in Fullerton, California is really like? 
+          풀러턴, 캘리포니아는 어떤가요? 
         </li>
         <li>
-          Want an estimate of how much all this is going to cost?
+          종합 가격은 어느 정도 됩니까?
         </li>
         <li>
-          Want to meet some Americans who can help?
+          도와줄 수 있는 미국인을 어떻게 만날 수 있나요? 
         </li>
       </ul>
     table:
       desc: 
-        You can contact us using any of the following methods&#58; call, email 
-        or just stop by&#58;
+        다음과 같은 방법으로 저희들에게 연락해 주십시오&#58;
       phone:
-        title: Phone
+        title: 전화
         desc:
-          Chinese Inquiries&#58; 18600164247 (小雨)
+          중국어 문의처&#58; 18600164247 (小雨)
           <br />
-          Korean and English Inquiries&#58;  TBD  (Esther)
+          한국어 영어 문의처&#58;  15611571244 (에스더/Esther) 
       email:
-        title: Email
+        title: 이메일
         email: "%{encoded_email}"
       in_person:
-        title: Stop by in Person!
+        title: 직접 사무실로 오세요
         desc:
-          (English)
+          (영어)
           <br />
           Beijing, Haidian District 
           <br />
@@ -765,7 +750,7 @@ ko:
           100083
 
           <hr />
-          (Chinese)
+          (중국어)
           <br />
           北京市海淀区 
           <br />
