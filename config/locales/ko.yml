@@ -438,6 +438,7 @@ ko:
     title: 공간 임대
     desc:
        모임 가질만한 장소가 필요하십니까? Many Moons 센터 공간 임대를 고려해 보세요. 예약하시려면 %{encoded_email}로 문의해 주시길 바랍니다. 
+    main:
       title: 메인 이벤트 공간 
       desc:
         <ul>
