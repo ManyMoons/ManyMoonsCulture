@@ -13,15 +13,15 @@ ko:
       desc: "미국 초중고 교육의 다리 역할을 하는 문화 교류 프로그램"
       button_html: 자세한 정보 &raquo;
     heading1:
-      title: 학교 연계 <span class="hero-sub-italic">교육 방안</span>
+      title: 학교 연계 <span class="hero-sub-normal">교육 방안</span>
       desc: "저희 교육 전문 컨설턴트에게 자녀 진로에 관한 상담과 필요한 정보를 받으세요.  저희 교육기관과 직접 연계한 기독교 사립학교에서 미국 학생들과 마음껏 공부하며 가족과 같은 편하고 따뜻한 홈스테이에서 미래를 준비해 나가세요."
       button_html: "자세한 정보 &raquo;"
     heading2:
-      title: 현지 문화 <span class="hero-sub-italic">체험</span>
+      title: 현지 문화 <span class="hero-sub-normal">체험</span>
       desc: "미국 문화에 대한 책을 읽거나 영상을 보는 것 만으로 이해하기는 부족합니다.  한 나라의 문화는 경험을 통해서만 이해할 수 있습니다. 미국 문화를 직접 보고, 듣고, 느끼며, 배울 수 있는 기회에 여러분의 소중한 자녀를 초대합니다."
       button_html: "자세한 정보 &raquo;"
     heading3:
-      title: 장래의 꿈 <span class="hero-sub-italic">을 향해</span>
+      title: 장래의 꿈 <span class="hero-sub-normal">을 향해</span>
       desc: "저희들과 함께 일주일간의 미국 문화와 명문대 투어에 참가해서 장래의 꿈을 키워 나가세요." 
       button_html: "자세한 정보 &raquo;"
 
