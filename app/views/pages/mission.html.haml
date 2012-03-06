@@ -2,4 +2,23 @@
 %br
 
 .alert.alert-info= raw t(:'about.mission.questions', :encoded_email => encoded_email)
-= raw(t :'about.mission.desc')
+
+.row
+  .span6
+    .well
+      = raw(t :'about.mission.desc')
+    %ul.thumbnails
+      %li.span6
+        .thumbnail
+          = image_tag asset_path('missioncapital.jpg')
+  .span6
+    %ul.thumbnails
+      %li.span6
+        .thumbnail
+          = image_tag asset_path('mission1.jpg')
+      %li.span6
+        .thumbnail
+          = image_tag asset_path('mission2.jpg')
+      %li.span6
+        .thumbnail
+          = image_tag asset_path('missionlab.jpg')
