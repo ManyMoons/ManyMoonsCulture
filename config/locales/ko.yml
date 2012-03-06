@@ -5,6 +5,15 @@ ko:
     link_home: 홈
     link_about: 회사정보
     link_contact: 문의
+    link_services: 서비스
+    link_admissions: 입학 컨설팅
+    link_exchange: 문화 교류
+    link_tour: 명문대 탐방
+    link_space: 공간 임대
+    link_mission: 목표
+    link_locations: 위치
+    link_staff: 직원 소개
+    link_name: Many Moons의 뜻
 
   # home page
   home:

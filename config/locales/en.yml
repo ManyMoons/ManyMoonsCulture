@@ -5,6 +5,15 @@ en:
     link_home: Home
     link_about: About
     link_contact: Contact
+    link_services: Services
+    link_admissions: Admissions Consulting
+    link_exchange: Cultural Exchange
+    link_tour: American University Tour
+    link_space: Space Rental
+    link_mission: Mission Statement
+    link_locations: Locations
+    link_staff: Staff
+    link_name: Our Name
 
   # home page
   home:
