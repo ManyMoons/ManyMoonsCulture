@@ -9,5 +9,13 @@
           = image_tag asset_path("manymoons_book.jpeg")
         .caption
           = t :'about.our_name.book_caption'
-  .span8
-    =raw(t :'about.our_name.desc')
+  .span5
+    .well
+      = raw(t :'about.our_name.desc')
+  .span3
+    %ul.thumbnails.pull-right
+      %li.span3
+        .thumbnail
+          = image_tag asset_path('manymoons-book-ko.jpg')
+        .caption
+          = t :'about.our_name.korean_book_caption'
