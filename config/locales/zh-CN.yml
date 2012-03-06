@@ -1,10 +1,10 @@
 zh-CN:
   # header section
   header:
-    title: "Many Moons 集月"
-    link_home: "主页"
-    link_about: "关于集月"
-    link_contact: "联系我们"
+    title: Many Moons 集月
+    link_home: 主页
+    link_about: 关于集月
+    link_contact: 联系我们
 
   # home page
   home:

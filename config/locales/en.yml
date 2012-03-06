@@ -1,10 +1,10 @@
 en:
   # header section
   header:
-    title: "Many Moons"
-    link_home: "Home"
-    link_about: "About"
-    link_contact: "Contact"
+    title: Many Moons
+    link_home: Home
+    link_about: About
+    link_contact: Contact
 
   # home page
   home:

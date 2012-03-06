@@ -1,10 +1,10 @@
 ko:
   # header section
   header:
-    title: "Many Moons"
-    link_home: "홈"
-    link_about: "회사정보"
-    link_contact: "문의"
+    title: Many Moons
+    link_home: 홈
+    link_about: 회사정보
+    link_contact: 문의
 
   # home page
   home:
