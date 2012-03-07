@@ -1,5 +1,5 @@
 module PagesHelper
   def encoded_email
-    mail_to "info@manymoonsculture.org", "info@manymoonsculture.org", :encode => "javascript"
+    mail_to "info@manymoonseducation.org", "info@manymoonseducation.org", :encode => "javascript"
   end
 end
