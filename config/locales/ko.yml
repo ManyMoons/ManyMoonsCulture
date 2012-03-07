@@ -37,8 +37,8 @@ ko:
   # 서비스 > 입학 컨설팅
   admissions:
     title: 입학 컨설팅
-    eastside_link_caption: click for more info
-    tpca_link_caption: click for more info
+    eastside_link_caption: 자세한 정보 
+    tpca_link_caption: 자세한 정보 
 
     intro:
       title: 교육 전문 상담 서비스
@@ -125,250 +125,163 @@ ko:
 
   eastside:
     fast_facts:
-      title: Fast Facts
+      title: 학교 정보
       desc: 
         <table class="table table-striped table-bordered table-condensed">
           <tbody>
             <tr>
-              <td>Year Established&#58;</td>
+              <td>설립 년도&#58;</td>
               <td>1976</td>
             </tr>
             <tr>
-              <td>School type&#58;</td> <td>K-12</td>
+              <td>학년&#58;</td> <td>유치원-12학년(고3)</td>
             </tr>
             <tr>
-              <td>Number of Students&#58;</td> <td>556</td>
+              <td>학생수&#58;</td> <td>556명</td>
             </tr>
             <tr>
-              <td>Student Teacher Ratio&#58;</td> <td>1&#58;16</td>
+              <td>학생 교사 비율&#58;</td> <td>1&#58;16</td>
             </tr>
             <tr>
-              <td>Location&#58;</td> <td>Fullerton, California</td>
+              <td>위치&#58;</td> <td>Fullerton, California</td>
             </tr>
             <tr>
-              <td>Religious Affiliation&#58;</td><td>Christian</td>
+              <td>종교 소속&#58;</td><td>기독교</td>
             </tr>
             <tr>
-              <td>Accreditation&#58;</td><td>Western Association of Schools and Colleges</td>
+              <td>인가&#58;</td><td>Western Association of Schools and Colleges</td>
             </tr>
           </tbody>
         </table>
     map_caption: google map
     link:
-      title: Goto Eastside Christian Schools webpage
+      title: Eastside Christian School 웹페이지로 가기
     history:
-      title: School History
+      title: 학교 역사
       desc:
         <p>
-          Eastside Christian Schools was established as part of the Eastside 
-          Christian Church ministry in 1976. David Schoen has been the lead 
-          administrator since 1980 when the school was a preschool through 
-          fifth grade campus of 100 students.
+          Eastside Christian 학교는 1976년에 Eastside Christian Church Ministry에 의해 설립이 되었습니다. 1980년부터 David Schoen 선생님이 주요 관리자로 학교를 이끌어 오셨는데, 당시에는 전교생이 유치원에서부터 5학년까지 100명 정도였습니다. 시간이 지날수록 학교가 급속히 성장하여 교회 공간이 부족해 더 많은 사무실과 교실을 부여하였고 8학년까지 추가하였습니다. 
         </p>
          
         <p>
-          The school grew rapidly during the 1980's, filling the space that 
-          Eastside Christian Church was able to provide at the time. As the 
-          church added facilities, the school was given additional office and 
-          classroom space as well. As part of the growth process, grades were 
-          added up through eighth grade.
+          시간이 지날수록 학교가 급속히 성장하여 교회 공간이 부족해 더 많은 사무실과 교실을 부여하였고 8학년까지 추가하였습니다. 
         </p>
           
         <p>
-          As Eastside Christian Schools matured, it became apparent that the 
-          school needed to become a separate corporation to expand our 
-          Christian school ministry to additional locations as well as to 
-          add a high school.
-          Today Eastside Christian Schools has grown to become a fully 
-          accredited educational program and operates two school campuses in 
-          the City of Fullerton California. At Eastside you will find a 
-          comprehensive educational program for all age groups from preschool 
-          through twelfth grade.
+         오늘날의 Eastside Christian 학교는 완전히 인가를 받은 교육 프로그램으로 성장하여 풀러턴 (Fullerton), 캘리포니아의 도시에서 두 캠퍼스를 운영하고 있습니다. 이 학교에서는 유치원에서 12학년까지 모든 연령 그룹을 포함한 종합적인 교육 프로그램을 찾을 수 있습니다. 
         </p>
 
     about:
-      title: About Eastside
+      title: Eastside에 대해서
       desc:
-        Eastside Christian High School and Junior High operates a comprehensive 
-        high school and junior high program in a shared facility in freeway-close 
-        west Fullerton. With large classrooms, cafeteria, gymnasium, science labs 
-        and computer lab on site, and Hunt Branch Public Library sharing its 
-        border; Eastside occupies property owned by Grace Ministries International, 
-        and leases local city fields for outdoor sports. Students are encouraged to 
-        participate in a variety of activities, including sports, arts, service and 
-        leadership. With opportunities such as extra-curricular international trips and a 
-        four-year film-making institute, Eastside offers the basics of a curriculum 
-        for college preparation while it provides areas of high interest for 
-        students to explore.
+         Fullerton, California에 위치한Eastside 중고등학교는 종합적으로 체계된 교육시스템을 응용한 사립학교입니다.  큰 교실, 급식소, 운동장, 체육관, 과학실, 컴퓨터실을 갖추고 있으며, 공립 도서관을 마주 치고 있어 좋은 위치를 차지하고 있습니다. Eastside학교는 Grace Ministries International가 소유한 땅을 임대하고 있으며 여러 스포츠 활동을 위해 운동장을 빌리고 있습니다. 학생들은 스포츠, 미술, 봉사 활동, 리더십 트레이닝, 등 다양한 클럽활동을 즐길 수 있습니다. 선교여행, 영화제작 배움터, 및 여러 특별한 기회를 가질 수 있는 Eastside학교는 대학준비의 기초를 제공할 뿐 아니라 학생들의 더 깊은 관심과 특기를 기르고 양육할 수 있는 자리를 제공해 줍니다. 
     accreditation:
-      title: Accreditation
+      title: 인가
       desc:
-        Our K-12 program is accredited by the Western Association of Schools and 
-        Colleges (WA SC). Detailed information in regards to WASC accreditation 
-        can be found on their 
-        <a href="http://www.acswasc.org/index.htm" target="_blank">website</a>.  
+        우리의 K-12 (유치원-12학년) 프로그램은 Western Association of Schools and Colleges (WASC)의 인증을 받았습니다. WASC 인증에 관한 상세한 정보는 <a href="http://www.acswasc.org/index.htm" target="_blank">웹사이트</a>에서 확인하실 수 있습니다.  
 
     academics:
-      title: Academics
+      title: 학업
       desc:
         <p>
-          Both the Eastside junior high and high school program received a 
-          six-year term of accreditation from the Western Association of 
-          Schools and Colleges in 2007. The curriculum at Eastside is college 
-          prep, and meets all curricular requirements of the University of 
-          California. All a-g high school courses have been submitted and 
-          approved by the UC board. ECHS graduation requirements meet 
-          pre-requisites for UC or CSU admission, with the additional 
-          requirement of four years of Bible and three semesters of 
-          business/technology. 
+          Eastside중학교와 고등학교 프로그램은 2007년부터 Western Association of Schools and Colleges의 인가를 6년간 받았습니다. 학업은 대학 입시를 위해 설계되었으며 California 대학교의 필요사항을 모두 충족시킵니다. 졸업을 위해서는 California 대학교들의 요구하는 필수 반들을 들어야 하며 4년간의 성경 수업과 3학기의 비즈니스 또는 기술 수업을 들어야 합니다. 
         </p>
          
         <p>
-          Students may choose from <strong>eight AP courses</strong> during 
-          their junior and senior years, and a trip to Europe for additional 
-          academic credit.
+          또한 대학교에서 학점으로 인정 받을 수 있는 8개의 Advanced Placement (AP) 수업을 11학년, 12학년에 들을 수 있으며, 유럽견학에 참여할 수 있는 기회가 있습니다.   
         </p>
 
     admissions:
-      title: Admissions
+      title: 입학 안내
       desc:
-        If you would like more information about applying to Eastside, please 
-        contact us at Many Moons Education, who is the Eastside Christian Schools 
-        representative for China, at %{encoded_email}.
+        자세한 Eastside학교 정보 및 입학 자료를 원하시면 %{encoded_email}로 문의해 주시기 바랍니다. Many Moons Education은 Eastside Christian School의 중국 공식 대표입니다.  
 
   tpca:
     link:
-      title: Goto Traders Point Christian Academy webpage
+      title: Traders Point Christian Academy (TPCA) 웹페이지로 가기 
     map_caption: google map
     fast_facts:
-      title: Fast Facts
+      title: 학교 정보
       desc:
         <table class="table table-striped table-bordered table-condensed">
           <tbody>
             <tr>
-              <td>Year Established&#58;</td><td>1976</td>
+              <td>설립 년도&#58;</td><td>1976</td>
             <tr>
             </tr>
-              <td>School type&#58;</td><td>K-12</td>
+              <td>학년&#58;</td><td>유치원-12학년(고3)</td>
             <tr>
             </tr>
-              <td>Number of Students&#58;</td><td>590</td>
+              <td>학생수&#58;</td><td>590명</td>
             <tr>
             </tr>
-              <td>Student Teacher Ratio&#58;</td><td>1&#58;13</td>
+              <td>학생 교사 비율&#58;</td><td>1&#58;13</td>
             <tr>
             </tr>
-              <td>Location&#58;</td><td>Whitestown, Indiana</td>
+              <td>위치&#58;</td><td>Whitestown, Indiana</td>
             <tr>
             </tr>
-              <td>Religious Affiliation&#58;</td><td>Christian</td>
+              <td>종교 소속&#58;</td><td>기독교</td>
             <tr>
             </tr>
               <td>
-                Accreditation&#58;</td><td>Association of Christian Schools International, 
+                인가&#58;</td><td>Association of Christian Schools International, 
                 <br />
                 North Central Association and Indiana Department of Education
               </td>
             </tr>
         </table>
     history:
-      title: School History
+      title: 학교 역사
       desc:
-        Traders Point Christian Academy was founded in 1976 and continues to 
-        build a reputation of being one of the most respected private 
-        Christian schools in Indiana. The school mission statement reflects 
-        a commitment to providing exceptional academics within a Biblical 
-        worldview as part of an effort to educate the whole student.
+        Traders Point Christian Academy는 1976년에 설립되어 계속적으로 인디애나 주에서 가장 존경 받는 크리스천 사립 학교 중 하나라는 명성을 알리고 있습니다. 성경적 세계관 속에서 뛰어난 교육을 제공해 온전하게 성장할 수 있는 학생들을 만들어 내는 학교 목표에 노력하고 있음을 약속합니다. 
     about:
-      title: About Traders Point
+      title: Traders Point에 대해서 
       desc:
-        Traders Point Christian Academy (TPCA) is a private Christian school 
-        that serves northwest Indianapolis and outlying areas. We believe 
-        that a complete education includes imparting knowledge and developing 
-        skills in the framework of a Christian values system. Knowledge 
-        involves critical life skills such as learning vocabulary and math. 
-        Skill development is the application of knowledge, which allows 
-        children to become more self-directed and sets the stage for lifelong 
-        learning. But knowledge and skills are not enough to equip a child to 
-        succeed in the world. The heart must be enriched with a value system 
-        through which knowledge is evaluated, skills are applied, and decisions 
-        are made. Teaching Biblical worldview provides the value system through 
-        which students learn how God wants them to behave, react, and respond 
-        to life. A complete education expands the mind and enriches the heart. 
-        That's our goal at TPCA. Join us in fulfilling our mission.
+        Traders Point Christian Academy (TPCA)는 크리스천 사립학교로 Indianapolis도시의 북서쪽에 위치해 있습니다. 기독교 가치관 속에서 지식전달과 기술개발을 포함한 온전한 교육 시스템을 자랑하고 있습니다. 폭넓은 어휘와 수학에 중요시 여기는 교육과 지식을 응용할 수 있는 기술 발달을 제공합니다. 이런 학습을 통해서 학생들은 언제 어디서나 스스로 배울 수 있는 자세를 가지게 될 것입니다. 지식과 기술뿐 아니라, 학생들의 가치관을 더 가꾸어 지식을 분석하고 기술을 응용하고 좋은 결정을 내릴 수 있도록 합니다. 성경적 관점을 통해 학생들이 하나님께서 원하시는 모습으로 살아가는 자세를 배우게 될 것입니다. 
     accreditation:
-      title: Accreditation
+      title: 인가 
       acsi: Association of Christian Schools International
       nca: North Central Association
       doe_in: Indiana Department of Education
 
     academics:
-      title: Academics
+      title: 학업
       desc:
-        TPCA has a comprehensive media center, science lab, music and visual 
-        arts areas.
-        25 classrooms are fully networked for the most advanced technological 
-        tools to enhance learning. High School students receive Tablet computers 
-        for use during the academic year. Students pursue a rigorous academic 
-        curriculum in the academy tradition while having the freedom to pursue 
-        their own academic passions.
+         TPCA는 종합적인 미디어 센터, 과학실, 음악실, 미술실을 갖추고 있습니다25개의 교실 안에는 최첨단의 교육 기구들로 갖추어져 있어 향상된 가르침을 가질 수 있습니다. 고등학생들은 학기 중 타블렛 컴퓨터로 공부하게 됩니다. 학생들은 철저한 학습을 받을 뿐 아니라 자신의 학업 열정을 추구할 수 있는 자유 또한 있습니다. 
       sub:
-        <h3>Advanced Placement Courses</h3>
+        <h3>Advanced Placement Courses (AP, 대학교에서 학점으로 인정 받을 수 있는 반)</h3>
          
         <ul>
-          <li>Offer scope and depth of college courses</li>
-          <li>AP test offered; AP courses available in Spanish, World History, Chemistry and English Literature.</li>
+          <li>대학 강의의 범위와 깊이 제공</li>
+          <li>AP 시험 제공; 스페인어, 세계사, 화학, 영어문학 AP반 들을 수 있음(Spanish, World History, Chemistry and English Literature)</li>
         </ul>
           
-        <h3>Honors Courses</h3>
+        <h3>Honors 수업</h3>
 
         <ul>
-          <li>Offer more in-depth study of subjects</li>
-          <li>Proceed at a faster pace for students</li>
-          <li>Expand opportunities for independent work</li>
+          <li>더 깊이 있는 학습 제공</li>
+          <li>빠른 속도의 진행</li>
+          <li>독립적인 작업 추구</li>
         </ul>
 
-        <h3>College Preparatory Courses</h3>
+        <h3>대학 입학 준비 수업</h3>
 
         <ul>
-          <li>Provide students with the skills and knowledge imperative for college success</li>
-          <li>All major courses not otherwise designated are college preparatory</li>
+          <li>대학 성공을 위한 기술과 지식 제공</li>
         </ul>
     admissions:
-      title: Admissions
+      title: 입학 안내
       desc:
-        If you would like more information about applying to Traders Point 
-        Christian Academy, please contact Mr. Sung Chung, who is the Eastside 
-        Christian Schools representative for China, at %{encoded_email}.
+         자세한 Eastside학교 정보 및 입학 자료를 원하시면 %{encoded_email}로 문의해 주시기 바랍니다. Many Moons Education은 Eastside Christian School의 중국 공식 대표입니다.
     quote1:
       text:
-        Tonight we were discussing high school and I asked her what she thought. 
-        She simply said, "I love it". She does not say this lightly. She grew 
-        up in public schools, she has cousins and an Uncle, Aunt and Grandparents 
-        that go to and work or worked in public schools. She sees and knows the 
-        difference and she is grateful for where her education is taking place. 
-
-        So I say thank you to you, to Mr Lance and to all of our teachers. I am truly very grateful. 
-      who: Kim McManus, TPCA parent of 10th grade student
+        하루는 딸에게 학교 어떠냐고 물어보니 아주 간단하게 “너무 좋아요!” 대답했습니다. 제 딸은 그런 말을 쉽게 하는 아이가 아니랍니다. 
+      who: 킴 맥마너스, TPCA 10학년 학생의 부모
     quote2:
       text:
-        In the spirit of seeking and sharing positive things in my life, I 
-        couldn’t resist telling you about an amazing lesson that I witnessed 
-        this morning. The teacher was launching a science unit about space. 
-        These are the things that amazed me&#58; clearly stated student expectations, 
-        compliments for students meeting the expectations, calm warnings given to 
-        students not living up to the expectations stated, the lesson employed 
-        excellent use of technology, including music, humor and pictures that 
-        allowed comparison of something as large as planets and stars to be 
-        clearly seen by the students. 
-
-        The format of the lesson was deliberately 
-        thought out with a catchy introduction, teaching that integrated God’s 
-        great hand in creation and challenged the students, as scientists, to 
-        solve a problem which was tested right there during the class. I 
-        continue to be amazed by the teaching creativity and excellence of the 
-        teachers. Way to go!!!
-      who: Lisa M
+        한번은 과학 수업에서 우주에 관한 것을 배우고 있었는데 선생님께서 가르치시는 방법을 보고 참 놀랐습니다. 학생들의 목표를 명백하게 얘기하셨고, 이 목표를 이루기 위한 격려와 침착한 경고를 아끼지 않으셨으며, 최첨단의 과학 시설을 도모하여 수업을 가르치셨습니다. 레슨을 시작할 때 관심을 끌게끔 소개 하셨을 뿐 아니라, 하나님의 창조물을 새롭게 볼 수 있게 가르치셨고 학생들에게 과학자의 자세로 문제를 풀도록 도전하셨습니다. 아직까지도 선생님들의 창의력인 교육 방법에 놀라움을 그칠 수 없습니다. 선생님들, 수고하셨습니다!
+      who: 리싸
 
   # 서비스 > 문화교류 
   exchange:
@@ -706,10 +619,10 @@ ko:
         </p>
  
         <p>
-          우리는 사람들이 생각하는 방식을 도전하길 원합니다. 색다른 문화 접함과 창의력, 및 상상력을 통해 사람들이 새로운 눈으로 세계를 보길 바라며 그로 인해 찾고 있던 해답을 꼭 찾길 바랍니다. 
+          저희들은 사람들이 생각하는 방식을 도전하기 원합니다. 색다른 문화 접함과 창의력, 및 상상력을 통해 사람들이 새로운 눈으로 세계를 보길 바라며 그로 인해 찾고 있던 해답을 꼭 찾길 바랍니다. 
         </p>
       book_caption: 
-      korean_book_caption: Korean Version
+      korean_book_caption: 한국판
 
   # Contact page
   contact:
@@ -720,7 +633,7 @@ ko:
       </p>
 
       <p>
-        유학, 미국 문화 경험 및 문학 탐방에 관심 있으신 분들에게 저희들이 도움을 드릴 수 있습니다. 다음과 같은 궁금증이 있습니까?  
+        유학, 미국 문화 경험, 및 문학 탐방에 관심 있으신 고객 분들, 저희들이 도움을 드릴 수 있습니다! 다음과 같은 궁금증을 모두 해결해 드립니다.   
       </p>
 
       <ul>
@@ -745,7 +658,7 @@ ko:
         desc:
           중국어 문의처&#58; 18600164247 (小雨)
           <br />
-          한국어 영어 문의처&#58;  15611571244 (에스더/Esther) 
+          한국어/영어 문의처&#58;  15611571244 (에스더/Esther) 
       email:
         title: 이메일
         email: "%{encoded_email}"
