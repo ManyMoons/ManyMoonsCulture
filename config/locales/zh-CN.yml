@@ -5,15 +5,15 @@ zh-CN:
     link_home: 主页
     link_about: 关于集月
     link_contact: 联系我们
-    link_services: Services
-    link_admissions: Admissions Consulting
-    link_exchange: Cultural Exchange
-    link_tour: American University Tour
-    link_space: Space Rental
-    link_mission: Mission Statement
-    link_locations: Locations
-    link_staff: Staff
-    link_name: Our Name
+    link_services: 服务
+    link_admissions: 学校申请咨询
+    link_exchange: 文化交流
+    link_tour: 游学美国
+    link_space: 地点租用
+    link_mission: 使命陈述
+    link_locations: 地址
+    link_staff: 认识我们的员工
+    link_name: 我们的名字
 
   # home page
   home:
@@ -486,7 +486,7 @@ zh-CN:
         title: 北京办事处
         desc:
           <p>
-            集月教育咨询中心北京办事处的主要目的是完成申请者的面试，协助签证申请工作，也作为一个准备赴美留学前培训的地点。集月梦想之旅的登记和处理也在北京办事处进行。
+            集月教育咨询中心北京办事处是进行申请者面试的地方，签证申请咨询服务工作和，也是美留学前培训的地点。集月梦想之旅的申请接收也在北京办事处完成。
           </p>
 
           <p>
@@ -500,7 +500,7 @@ zh-CN:
                   工作时间
                 </td>
                 <td>
-                  周一至周五，8：00AM - 8：00PM
+                  周一至周五，9&#58;00AM - 5&#58;00PM
                 </td>
               </tr>
               <tr>
@@ -562,7 +562,7 @@ zh-CN:
             <tbody>
               <tr>
                 <td>
-                  Office Hours
+                  工作时间
                 </td>
                 <td>
                   Monday-Friday 9&#58;00AM - 5&#58;00PM
@@ -570,7 +570,7 @@ zh-CN:
               </tr>
               <tr>
                 <td>
-                  Address
+                  地址
                 </td>
                 <td>
                   <div>
@@ -621,59 +621,51 @@ zh-CN:
       sung:
         title: 郑诚（Sung Chung），教育咨询主管
         desc:
-          郑老师毕业于UCSD（加州大学圣地亚哥分校），在南加州的Biola大学完成研究生学业。在1996年来到中国东北地区，暑期的旅行，来到很多城市，他决定在将来回到中国扎根。          郑老师有在美国和中国有大量与学生工作的经验，并建立集月教育咨询中心来延续他对人的热心，尤其是全球各地的学生。他的工作经历包括在洛杉矶联合学区（Los Angeles Unified School District）当老师，在JAMA学生大会做讲员和协调员，在美国各地的基督教团体中做讲员。他现在和他美丽的妻子和4个可爱的女儿一起住在北京。
+        <p>
+          郑诚毕业于UCSD（加州大学圣地亚哥分校），在南加州的Biola大学完成研究生学业。在1996年的暑假，他曾到访中国东北地区的很多城市，并决定有朝一日来到中国扎根。
+        </p>
+        <p>
+          无论在美国还是中国，郑诚都有着大量与学生工作的经验。他对人的热心，尤其是对全球各地学生的关注，促使他建立了集月教育咨询中心。他的工作经历包括在洛杉矶联合学区（Los Angeles Unified School District）教学，做JAMA学生大会讲员和协调员，以及在美国各地的基督教团体中担任讲员。他现在和他美丽的妻子和4个可爱的女儿一起住在北京。
+        </p>
       chloe:
-        title: 吴秋雨（Chloe Wu），中国学生申请专员
-        desc:
+        title: 小雨（Chloe Wu），中国学生申请专员
+                  desc:
+        <p>
+                      小雨是土生土长的北京人，熟悉北京的教育情况。毕业于北京四中和北京大学的她是国内最一流教育的体验者，而心理学的专业背景使她对人的发展、全面健康，以及教育在其中的作用有着特别的关注。
+        </p> 
+        <p>
+                      从05年开始小雨积累了4年多参与初高中学生工作的经历，另外在2010、2011年组织中美初高中学生交流活动，也参与了Stanford大学与国内教育工作者的心理工作坊项目。在集月教育咨询中心，小雨着重面对中国家庭，致力于理解学生和家长的关注，通过具体可靠的服务帮助学生顺利进入海外学校的优质教育环境，在初高中这个自我意识发展的关键时期中得到最好的成长。
+        </p> 
+        <p>
+                      在热心工作之余，她喜欢学习、听音乐、把玩电子设备，也喜欢与朋友和小动物在一起做任何事情。
+        </p> 
+       
       esther:
-        title: 张珠惠（Esther Chang），韩国学生申请专员
+        title: 珠惠（Esther Chang），韩国学生申请专员
         desc:
-          Having lived half her life in Korea and the other half in America, 
-          Esther is an advocate of culture and global exchange. She graduated 
-          from Emory University in Atlanta, Georgia with a degree in Psychology. 
-          Her experiences include teaching English to Korean and Chinese middle 
-          school students, working with children with Autism and other 
-          disabilities, and doing research regarding children’s spatial 
-          concepts and cognitive maps. She is interested in overall comprehensive 
-          (physical, psychological, social, and spiritual) health for people all 
-          over the world, particularly those in the margins, and believes 
-          community development and practice is the key to better health.  She 
-          is currently in Beijing, China, embracing another part of the world 
-          as her own. So far, she enjoys learning how to navigate through 
-          Beijing traffic with her bike, trying new dishes whose 
+        <p>
+          珠慧到现在的时间一般在韩国、另一半在美国度过，她是全球文化交流的拥护者和实践者。她毕业于乔治亚州亚特兰大市（Atlanta, Georgia ）的Emory大学，心理学学位。
+        </p>
+        <p>
+                       她的经历包括教韩国和中国的中学生英语，与孤独症儿童和有其他残疾的儿童工作，以及进行关于儿童空间知觉的认知地图的研究。她全球对整体健康（生理、心理、社会、属灵的），尤其是边缘人群，相信团队发展和练习是更加健康的关键。
+        </p>
+        <p>
+                       她现在在中国北京，拥抱她的另一片世界。近来，她喜欢骑着她的自行车在北京繁忙的路上上练习骑自行车、尝试她永远说不上名字的中国菜、用Ko-ChEnglish和朋友聊天。
+        </p>
       daniel:
-        title: 大牛，技术主管
+        title: 大牛（Daniel Yoon），技术主管
         desc:
           <p>
-            Daniel is a customer-focused IT specialist with 10+ years of 
-            professional experience in the development and design of 
-            e-enabled web solutions. He believes that software development 
-            is both an art and science and strives to be a "software 
-            craftsman" rather than a strict engineer. Prior to joining 
-            Many Moons Culture Exchange, Daniel worked in a variety of 
-            environments ranging from large Fortune 500 companies to 
-            small technology startups. 
+            大牛是一个有着超过十年专业经验的IT专家，网络方案的开发和设计，顾客专长。他相信软件开发是艺术也是科学，努力成为一个“软件手艺人”而不是一个严格的工程师。在加入集月教育咨询中心之前，大牛在一系列丰富的工作环境中有过工作经历，从500强公司到小型技术自主创业公司。
           </p>
           <p>
-            Daniel graduated from University of California Irvine with a BS 
-            in Information and Computer Science. Graduation was just the 
-            beginning as he continues to research new trends and best 
-            practices in software development and user design experience.
+            大牛毕业于尔湾加州大学，信息和计算科学学历。大学毕业只是他继续研究软件开发和用户设计体验的新趋势和最佳实践。的开始
           </p>
           <p>
-            Currently his web development environment of choice is Ruby on 
-            Rails, VIM, git, iTerm2 and tmux on Mac OSX. He's also intimately 
-            familiar with the Microsoft stack having developed professionally 
-            on it for almost 10 years. After experiencing both, his preference 
-            is for the *nix stack and is a staunch proponent of open source software.
+            现在他在Mac OSX平台选择使用Rails，ViM，git，iTerm2和tmux的网络开发环境。他有将近十年驾驭微软技术工具的专业经验，也非常熟悉。在体验了两种之后，他倾向于使用*nix stack，是开源软件的忠诚拥护者。
           </p>
           <p>
-            When not at the office you can find him either at home with his 
-            wife, anxiously awaiting the arrival of their newborn baby or in 
-            class studying Chinese. He used to love surfing (on actual waves, 
-            not the internet) but since leaving his home town of California 
-            he's had to change to more sedentary hobbies like reading and 
-            watching movies with friends.
+            非工作时间中，他要不会在家和妻子一起，焦急地等待迎接他们即将出生的孩子，要不在上中文课。以前他很喜欢冲浪（在海里，不是网上），但自从离开加州，他不得不开始有更“宅”的爱好，比如阅读，或者和朋友一起看电影。
           </p>
 
     our_name:
@@ -691,49 +683,48 @@ zh-CN:
           我们希望能使人们对自己的思维模式做出改变。 通过体验各种文化，加上在创意和想象力方面的熏陶，我们希望能鼓励大家用另一个角度来观察世界，或许，从而能帮助他们找到他们一直在探索的问题的答案。
         </p>
       book_caption: 1990 edition（新版）
-      korean_book_caption: Korean Version
+      korean_book_caption: 韩语版
 
   # Contact page
   contact:
-    title: Contact Us
+    title: 联系我们
     desc:
       <p>
-        Thank you for visiting our website! 
+        感谢您浏览我们的网站！
       </p>
 
       <p>
-        If you are interested in studying abroad, experiencing American culture or want to join us on an exciting trip to America, please let us show you how we can help! 
+        无论是对留学、体验美国文化有兴趣，还是想参加激动人心的梦想之旅。请告诉我们！
       </p>
 
       <ul>
         <li>
-          Want help filling out the application? 
+          需要填写申请的帮助吗？ 
         </li>
         <li>
-          Want to know what living in Fullerton, California is really like? 
+          你想知道住在加州富勒顿究竟是什么样吗？
         </li>
         <li>
-          Want an estimate of how much all this is going to cost?
+          想要一个总花费的估计吗？
         </li>
         <li>
-          Want to meet some Americans who can help?
+          想认识一些可以帮助你的美国人吗？
         </li>
       </ul>
     table:
       desc: 
-        You can contact us using any of the following methods&#58; call, email 
-        or just stop by&#58;
+        您可以通过电话、Email联系我们，直接到我们的办公室来&#58
       phone:
         title: 电话
         desc:
-          Chinese Inquiries&#58; 18600164247 (小雨)
+          中文咨询&#58; 18600164247 (小雨)
           <br />
-          Korean and English Inquiries&#58;  15611571244  (Esther)
+          韩语、英语咨询&#58;  15611571244  (Esther)
       email:
         title: Email
         email: "%{encoded_email}"
       in_person:
-        title: Stop by in Person!
+        title: 来当面了解吧！
         desc:
           (English)
           <br />
@@ -748,7 +739,7 @@ zh-CN:
           <br />
           北京市海淀区 
           <br />
-          华清嘉园 三号楼 503房 
+          华清嘉园 三号楼 503室
           <br />
           100083
 
