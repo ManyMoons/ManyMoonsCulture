@@ -16,7 +16,7 @@ class PagesController < ApplicationController
 
     if message.present?
       UserMailer.contact_us_email(contact, message).deliver
-      redirect_to contact_path, :flash => { success:'Thank you for contacting us.' }
+      redirect_to contact_path, :flash => { success:t(:'contact.form.response') }
     else
       redirect_to contact_path
     end

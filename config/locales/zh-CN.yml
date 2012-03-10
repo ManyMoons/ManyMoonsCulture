@@ -712,6 +712,11 @@ zh-CN:
           想认识一些可以帮助你的美国人吗？
         </li>
       </ul>
+    form:
+      contact: Your contact info (email, phone, etc)
+      message: Message
+      button: Contact Many Moons
+      response: Thank you for contacting us.
     table:
       desc: 
         您可以通过电话、Email联系我们，直接到我们的办公室来&#58

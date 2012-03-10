@@ -876,6 +876,11 @@ en:
           Want to meet some Americans who can help?
         </li>
       </ul>
+    form:
+      contact: Your contact info (email, phone, etc)
+      message: Message
+      button: Contact Many Moons
+      response: Thank you for contacting us.
     table:
       desc: 
         You can contact us using any of the following methods&#58; call, email 

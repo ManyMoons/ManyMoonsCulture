@@ -652,6 +652,11 @@ ko:
           도움을 받을 수 있는 현지 미국인을 어떻게 만날 수 있나요?  
         </li>
       </ul>
+    form:
+      contact: Your contact info (email, phone, etc)
+      message: Message
+      button: Contact Many Moons
+      response: Thank you for contacting us.
     table:
       desc: 
         다음과 같은 방법으로 연락해 주십시오&#58;

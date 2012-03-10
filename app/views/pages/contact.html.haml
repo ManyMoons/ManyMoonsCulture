@@ -16,10 +16,10 @@
         = f.error_notification
 
         .form-inputs
-          = f.input :contact
-          = f.input :message
+          = f.input :contact, :label => t(:'contact.form.contact')
+          = f.input :message, :lable => t(:'contact.form.message')
         .form-actions
-          = f.button :submit, :value => 'Contact Many Moons', :class => 'btn'
+          = f.button :submit, :value => t(:'contact.form.button'), :class => 'btn'
 
     .span1
       &nbsp;
