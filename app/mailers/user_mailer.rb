@@ -1,7 +1,9 @@
 class UserMailer < ActionMailer::Base
   default from: "info@manymoonseducation.com"
 
-  def contact_us_email
-    mail(:to => 'test@test.com', :subject => "Many Moons Education Contact form")
+  def contact_us_email(contact, message)
+    @contact = contact
+    @message = message
+    mail(:to => 'info@manymoonseducation.com', :subject => "Many Moons Education Contact form")
   end
 end

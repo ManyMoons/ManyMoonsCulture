@@ -4,6 +4,18 @@
   .row
     .span5
       = raw t(:'contact.desc')
+      %br
+      %hr
+
+      = simple_form_for(@contact_form, :html => { :id => 'contact-form', :class => 'form-vertical' }) do |f|
+        = f.error_notification
+
+        .form-inputs
+          = f.input :contact
+          = f.input :message
+        .form-actions
+          = f.button :submit, :value => 'Contact Many Moons', :class => 'btn'
+
     .span1
       &nbsp;
     .span6

@@ -7,6 +7,19 @@ class PagesController < ApplicationController
   end
 
   def contact
+    @contact_form = ContactForm.new
+  end
+
+  def contact_form
+    contact = params[:contact_form][:contact]
+    message = params[:contact_form][:message]
+
+    if message.present?
+      UserMailer.contact_us_email(contact, message).deliver
+      redirect_to contact_path, :flash => { success:'Thank you for contacting us.' }
+    else
+      redirect_to contact_path
+    end
   end
 
   def admissions
