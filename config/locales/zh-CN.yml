@@ -54,7 +54,7 @@ zh-CN:
       title: 招生程序
       desc:
         <ol>
-          <li>第一步：打印入学申请，发送给我们的教育咨询主管 郑老师（Mr. Sung Chung，联系方式： {encoded_email}）. 我们有一个招生申请程序。只要有空余的名额，我们都会考虑申请者的申请，但最佳的申请时间是新学期开始之前至少2个月。招生在每年的春季和秋季学期都会进行。 </li>
+          <li>第一步：打印入学申请发送给我们： %{encoded_email}，我们有一个招生申请程序，只要有空余的名额，我们都会考虑申请者的申请，但最佳的申请时间是新学期开始之前至少2个月。招生在每年的春季和秋季学期都会进行。 </li>
           <li>第二步：一旦接受你的申请，我们将安排通过Skype（视频通话软件）进行的学生面试。面试时间约15分钟。如果申请者条件允许，这一步的面试也可以当面进行。</li>
           <li>第三步：在面试完成之后，我们将做出是否接收学生的决定。这个决定的做出会根据学生的申请材料、面试情况以及是否有合适的接待家庭。录取决定的结果将通过电子邮件发送到学生家中。被接收的学生在提交定金和入学协议后，会收到包含I-20表（入学通知书）的信件。</li>
         </ol>
@@ -123,7 +123,7 @@ zh-CN:
       title: 有其他问题？
       desc:
         关于开始申请以及如何填写申请表，若有任何疑问请发送邮件到  
-        %{encoded_email}. 
+        %{encoded_email}，或致电18600164247。
 
   eastside:
     fast_facts:
@@ -200,7 +200,8 @@ zh-CN:
 
     admissions:
       title: 入学申请
-      desc: 如果你想要更多了解信息，以及如何申请Eastside学校，请发送邮件到%{encoded_email}联系我们。集月教育咨询中心是Eastside基督教学校驻中国的官方代表。
+      desc:
+        如果你想要更多了解信息，以及如何申请Eastside学校，请发送邮件到%{encoded_email}，或致电18600164247联系我们。集月教育咨询中心是Eastside基督教学校驻中国的官方代表。
 
   tpca:
     link:
@@ -286,16 +287,14 @@ zh-CN:
     admissions:
       title: 入学申请
       desc:
-        如果您想了解更多申请Traders Point 学校的信息，请联
-        系%{encoded_email}，或致电18600164247 集月教育咨询中心是
+        如果您想了解更多申请Traders Point 学校的信息，请联系%{encoded_email}，或致电18600164247。集月教育咨询中心是
         Traders Point（TPCA）驻中国的官方代表
     quote1:
       text:
-        “Tonight we were discussing high school and I asked her what she thought. She simply said, ‘I love it.’ She does not say this lightly.（今晚和女儿聊到她的高中。我问她觉得怎么样，她只简单地说“我喜欢”——我女儿这话可不是轻易说的）”        She grew up in public schools, she has cousins and an Uncle, Aunt and Grandparents that go to and work or worked in public schools. She sees and knows the difference and she is grateful for where her education is taking place. 她在一个公立学校长大，她的表兄弟，一个表叔，和表姨，和祖父母都，去在公立学校学习或工作。所以她懂得区别在哪儿，感激她现在所受到的教育。
-
-
-        So I say thank you to you, to Mr Lance and to all of our teachers. I am truly very grateful. 所以我再次向Mr Lance和所有的老师们致谢。我真的非常感谢你们。
-      who: 高一学生家长：KIM McMANUS
+        “Tonight we were discussing high school and I asked her what she thought. She simply said, ‘I love it.’ She does not say this lightly.”
+        She grew up in public schools, she has cousins and an Uncle, Aunt and Grandparents that go to and work or worked in public schools. She sees and knows the difference and she is grateful for where her education is taking place. 
+        So I say thank you to you, to Mr Lance and to all of our teachers. I am truly very grateful. 
+      who: TPCA高一学生家长：KIM McMANUS
     quote2:
       text:
         In the spirit of seeking and sharing positive things in my life, I 
@@ -388,11 +387,11 @@ zh-CN:
 
     how_sign_up:
       title: 报名方式
-      desc: 若想了解进一步信息，索取宣传手册及报名表，请联系我们：%{encoded_email} 
+      desc: 若想了解进一步信息，索取宣传手册及报名表，请联系我们：%{encoded_email} ，18600164247.
 
   # Services > Space Rental
   space_rental:
-    title: 场地租借
+    title: 场地租借（仅上海）
     desc:
       想在市中心寻找一个开派对或见面聚会的地方？你可以在我们的 Many Moons 中心租借一个空间——我们的资源愿供你使用。要预定请联系 %{encoded_email} 
     main:
@@ -478,7 +477,7 @@ zh-CN:
           您的家庭在为孩子的教育寻找实在可靠的伙伴吗？我们相信，我们的美国文化之旅项目，和我们与美国学校所有的直接关系，能够使您对我们的信心不断增长。
         </p>
       questions:
-        如果想要知道更多关于文化之旅和学校的信息，请通过 %{encoded_email}联系我们
+        如果想要知道更多关于文化之旅和学校的信息，请通过 %{encoded_email}联系我们，或致电18600164247.
 
     # About > Locations
     locations:
@@ -613,7 +612,7 @@ zh-CN:
             </tbody>
           </table>
         map:
-          caption: Baidu Maps Many Moons Culture, Shanghai
+          caption: 百度地图，上海集月文化交流中心
 
     # About > Staff
     staff:
@@ -634,7 +633,7 @@ zh-CN:
             Chloe是土生土长的北京人。毕业于北京四中和北京大学的她是国内最一流教育的体验者，而心理学的专业背景使她对人的发展、全面健康，以及教育在其中的作用有着特别的关注。
           </p> 
           <p>
-            从05年开始Chloe积累了4年多参与初高中学生工作的经历，另外在2010、2011年组织中美初高中学生交流活动，也参与了Stanford大学与国内教育工作者的心理工作坊项目。在集月教育咨询中心，Chloe着重面对中国家庭，致力于理解学生和家长的关注，通过具体可靠的服务帮助学生顺利进入海外学校的优质教育环境，在初高中这个自我意识发展的关键时期中得到最好的成长。
+            从05年开始Chloe积累了4年多参与初高中学生工作的经历，她在2010、2011年两次组织中美初高中学生交流活动，也参与了Stanford大学与国内教育工作者的心理工作坊项目。在集月教育咨询中心，Chloe着重面对中国家庭，致力于理解学生和家长的关注，通过具体可靠的服务帮助学生顺利进入海外学校的优质教育环境，在初高中这个自我意识发展的关键时期中得到最好的成长。
           </p> 
           <p>
             在热心工作之余，她喜欢学习、听音乐、把玩电子设备，也喜欢与朋友和小动物在一起做任何事情。
@@ -644,13 +643,14 @@ zh-CN:
         title: Esther（张珠惠，珠惠），韩国学生申请专员
         desc:
           <p>
-            到现在，Esther有一半的时间在韩国度过，另一半在美国，她是全球文化交流的拥护者和实践者。她毕业于乔治亚州亚特兰大市（Atlanta, Georgia ）的Emory大学，在那里获得心理学学位。
+
+到现在，Esther有一半的时间在韩国度过，另一半在美国，她是全球文化交流的拥护者和实践者。她毕业于乔治亚州亚特兰大市（Atlanta, Georgia ）的Emory大学，在那里获得心理学学位。
           </p>
-          <p>
-            Esther曾教韩国和中国的中学生英语，孤独症儿童和有其他残疾的儿童，以及进行关于儿童空间知觉的认知地图的研究。她感兴趣的领域是世界各地人们的整体健康（生理、心理、社会和心灵的健康），尤其是处于边缘的人群。她相信社会团体发展和实践是更加健康的关键。
+
+          <p>         Esther曾教韩国和中国的中学生英语，孤独症儿童和有其他残疾的儿童，以及进行关于儿童空间知觉的认知地图的研究。她感兴趣的领域是世界各地人们的整体健康（生理、心理、社会和心灵的健康），尤其是处于边缘的人群。她相信社会团体发展和实践是更加健康的关键。
           </p>
-          <p>
-            Esther现在在中国拥抱她的另一片世界。近来，她喜欢骑着她的自行车在北京繁忙的路上上练习骑自行车、尝试她永远说不上名字的中国菜、用Ko-ChEnglish和朋友聊天。
+
+          <p> Esther现在在中国拥抱她的另一片世界。近来，她喜欢骑着她的自行车在北京繁忙的路上上练习骑自行车、尝试她永远说不上名字的中国菜、用Ko-ChEnglish和朋友聊天。
           </p>
       daniel:
         title: Daniel（尹泰凡，大牛），技术主管
@@ -735,7 +735,7 @@ zh-CN:
           100083
 
           <hr />
-          (Chinese)
+          (中文地址)
           <br />
           北京市海淀区 
           <br />
