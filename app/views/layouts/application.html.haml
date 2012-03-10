@@ -68,10 +68,6 @@
                 = link_to "English", url_for(:controller => params[:controller], :action => params[:action], :locale => 'en')
 
     .container
-      - flash.each do |type, message|
-        %div.alert.fade.in{ :class => "alert-#{twitterized_type(type)}" }
-          %a.close(data-dismiss="alert") x
-          = message
       = yield
     
       %footer.pull-right

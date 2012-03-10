@@ -7,6 +7,11 @@
       %br
       %hr
 
+      - flash.each do |type, message|
+        %div.alert.fade.in{ :class => "alert-#{twitterized_type(type)}" }
+          %a.close(data-dismiss="alert") x
+          = message
+
       = simple_form_for(@contact_form, :html => { :id => 'contact-form', :class => 'form-vertical' }) do |f|
         = f.error_notification
 
