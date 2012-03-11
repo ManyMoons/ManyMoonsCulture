@@ -1,38 +1,46 @@
 %h2= t :'about.staff.title'
 
 .row
-  .span4
-    = image_tag asset_path("staff_sung.png")
+  .span5
+    = image_tag asset_path("staff_grace.jpg"), { :align => "right" }
+  .span7
+    .staff_title
+      = t :'about.staff.grace.title'
+    = raw t(:'about.staff.grace.desc')
+%hr
+
+.row
   .span8
     .staff_title
       = t :'about.staff.sung.title'
     = raw t(:'about.staff.sung.desc')
-
+  .span4
+    = image_tag asset_path("staff_sung.png")
 %hr
+
 .row
+  .span5
+    = image_tag asset_path("staff_chloe.png")
   .span7
     .staff_title
       = t :'about.staff.chloe.title'
     = raw t(:'about.staff.chloe.desc')
-  .span5
-    &nbsp;
-    = image_tag asset_path("staff_chloe.png"), { :align => "right" }
-
 %hr
+
 .row
-  .span4
-    &nbsp;
-    = image_tag asset_path("staff_esther.jpg")
   .span8
     .staff_title
       = t :'about.staff.esther.title'
     = raw t(:'about.staff.esther.desc')
-
+  .span4
+    = image_tag asset_path("staff_esther.jpg"), { :align => "right" }
 %hr
+
 .row
+  .span3
+    = image_tag asset_path("staff_daniel.png")
   .span9
     .staff_title
       = t :'about.staff.daniel.title'
     = raw t(:'about.staff.daniel.desc')
-  .span3
-    = image_tag asset_path("staff_daniel.png"), { :align => "right" }
+%hr
