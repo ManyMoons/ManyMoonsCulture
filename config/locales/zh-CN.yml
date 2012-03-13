@@ -618,18 +618,18 @@ zh-CN:
     staff:
       title: Our Staff
       grace:
-        title: Grace Wen, Founder
+        title: Grace Wen，机构创始人
         desc:
           <p>
-            Grace Wen entered Yale University at the age of 16, received a B.A. in English Literature and later went on to obtain an M.A. in Applied Linguistics at Teachers College, Columbia University.
+            Grace Wen 本科毕业于耶鲁大学，主修英语文学；随后又在哥伦比亚大学教师学院获得应用语言学硕士学位。
           </p>
          
           <p>
-            She has taught in a variety of settings, from a private prep school in New England to a tropical Pacific island to Chinatown in New York City.  One of her favorite experiences was teaching at Shanghai Jiao Tong University (SJTU) where she worked with some of the finest students and faculty in the nation.  There she was honored with the Phillips Excellence in Teaching Prize in 2006.
+            Grace曾游访世界各国，在新英格兰的私立学校、热带太平洋岛屿、以及纽约的中国城等各个地方任教，积累了丰富的教学经历。而在她看来，最难忘的经历之一还是在上海交通大学做老师，与那里优秀的老师和学生们在一起。2006年，Grace荣获上海交通大学"飞利浦"教学优秀奖。
           </p>
           
           <p>
-            While at SJTU, she began arranging cultural exchange activities between her Chinese students and visiting students from the U.S.  In 2010, she founded Many Moons Cultural Exchange to continue and expand this vision of bringing people of different cultures together for friendship and greater mutual understanding. In recent years, she has also served as a language consultant for the College English Test (CET) and SJTU Press.
+            也正是在上海交大任教期间，Grace开始组织她的中国学生和从美国来访问学生在一起开展文化交流活动。她一直希望通过推动跨文化交流来增进不同人之间的友谊和彼此的相互理解，终于在2010年建立了集月文化交流中心作为这个愿景的延伸。近年来，她也在全国英语等级考试（CET）和上海交通大学出版社担任语言顾问。
           </p>
       sung:
         title: Sung（郑诚），教育咨询主管
@@ -727,10 +727,10 @@ zh-CN:
         </li>
       </ul>
     form:
-      contact: Your contact info (email, phone, etc)
-      message: Message
-      button: Contact Many Moons
-      response: Thank you for contacting us.
+      contact: 你的联系方式（Email地址、电话，等等）
+      message: 留言
+      button: 联系集月
+      response: 感谢你联系我们
     table:
       desc: 
         您可以通过电话、Email联系我们，直接到我们的办公室来&#58
