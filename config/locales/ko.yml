@@ -1,4 +1,4 @@
-ko:
+`ko:
   # header section
   header:
     title: Many Moons
@@ -308,11 +308,8 @@ ko:
       author: 컬트  
     quote3:
       text:
-        Friends here are very sincere, easygoing, and easy to get along with. 
-        It’s worth your time to check out Many Moons! Hurry on over! Cheer 
-        and joy are awaiting your arrival!
-      author: Megan
-
+        여기서 만난 친구들 모두 신중하고 편하며 좋은 관계 맺을 수 있는 사람들이에요. Many Moons은 정말 가볼만한 곳입니다. 빨리 가보세요, 즐거움과 기쁨이 기다리는 곳이에요. 
+      author: 메겐 
 
   # 서비스 > 명문대 탐방
   university_tour:
