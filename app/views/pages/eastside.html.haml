@@ -18,13 +18,13 @@
     .span6
       -if I18n.locale == :'zh-CN'
         -#-chinese
-        <embed src='http://player.youku.com/player.php/sid/XMzcyMTQxMTky/v.swf' quality='high' width='432' height='360' align='right' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
+        <embed src='http://player.youku.com/player.php/sid/XMzcyMTQxMTky/v.swf' quality='high' width='432' height='360' align='right' allowFullScreen='true' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
       -elsif I18n.locale == :ko
         -#korean
-        <embed src='http://player.youku.com/player.php/sid/XMzcyMTQ2NzQ0/v.swf' quality='high' width='432' height='360' align='right' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
+        <embed src='http://player.youku.com/player.php/sid/XMzcyMTQ2NzQ0/v.swf' quality='high' width='432' height='360' align='right' allowFullScreen='true' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
       -else
         -#english (no subtitles)
-        <embed src='http://player.youku.com/player.php/sid/XMzUyNDA4MjM2/v.swf' quality='high' width='432' height='360' align='right' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
+        <embed src='http://player.youku.com/player.php/sid/XMzUyNDA4MjM2/v.swf' quality='high' width='432' height='360' align='right' allowFullScreen='true' allowScriptAccess='sameDomain' type='application/x-shockwave-flash'></embed>
 %hr
 
 .row
