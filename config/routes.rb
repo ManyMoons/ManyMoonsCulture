@@ -22,6 +22,8 @@ ManyMoons::Application.routes.draw do
 
   match 'contact_forms' => 'pages#contact_form'
 
+  match 'esther_egg' => 'pages#esther_egg'
+
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'
   # Keep in mind you can assign values other than :controller and :action

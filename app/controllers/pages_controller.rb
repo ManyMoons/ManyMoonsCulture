@@ -55,4 +55,6 @@ class PagesController < ApplicationController
   def ping
   end
 
+  def esther_egg
+  end
 end
