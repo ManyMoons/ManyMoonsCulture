@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.11'
+gem 'rails', '3.2.12'
 gem 'jquery-rails'
 gem 'haml'
 gem 'haml-rails', :group => :development
@@ -21,8 +21,16 @@ group :assets do
   gem 'less-rails-bootstrap'
 end
 
+group :development do
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'meta_request', '0.2.1'
+  gem 'quiet_assets'
+end
+
 group :development, :test do
   gem 'sqlite3'
+  gem 'pry'
 end
 
 group :test do
