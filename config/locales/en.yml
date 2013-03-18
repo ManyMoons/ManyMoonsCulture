@@ -72,10 +72,10 @@ en:
       title: School Calendar
       desc: !xml |
         <ul>
-          <li>Early August: International Student Boarding Orientation</li>
-          <li>Mid-August through mid-December: First Semester</li>
+          <li>Late-July: International Student Boarding Orientation</li>
+          <li>Early-August through late-December: First Semester</li>
           <li>Late-December- early January: two week Christmas Vacation</li>
-          <li>Mid-January through early June: Second Semester</li>
+          <li>Mid-January through early May: Second Semester</li>
         </ul>
     school_fees:
       title: Tuition and Fees
@@ -93,13 +93,13 @@ en:
         <p>
           <strong>Traders Point Christian Academy</strong>
           <br />
-          $16,000 per year for grades 7 - 12
+          $18,000 per year for grades 7 - 12
         </p>
           
         <p>
           <strong>Eastside Christian High School</strong>
           <br />
-          $18,000 per year for grades 7 - 12
+          $18,350 per year for grades 7 - 12
         </p>
     additional_costs:
       title: Estimated Additional Costs
@@ -115,9 +115,9 @@ en:
         </p>
          
         <ul>
-          <li>Homestay fees ($10,000 for TPCA per year and $20,000 Eastside for  per year)</li>
+          <li>Homestay fees ($15,000 for TPCA per year and $20,000 Eastside for  per year)</li>
           <li>School lunch (approximately $70 per month)</li>
-          <li>Athletic participation fees (approximately $100 per sport)</li>
+          <li>Athletic participation fees (approximately $150 per sport)</li>
           <li>Uniforms (Eastside only, about $300 depending on items)</li>
           <li>Ipad2 Program (Eastside only, $350)</li>
           <li>Return to home country during Christmas break and/or summer break</li>
@@ -125,18 +125,22 @@ en:
         </ul>
 
     mm_fees:
-      title: Many Moons Consultation Fee 
+      title: Many Moons Services
       desc: !xml |
         <ul>
-          <li>1000 RMB application fee</li>
-          <li>20,000 RMB due at reception of I-20</li>
+          <li></li>
+          <li></li>
         </ul>
         Our mission is to provide you with the service that best suits your needs. 
-        That is why the service fee is only charged after the student has been 
-        accepted to either of the schools. After the application process has 
+        After the application process has 
         begun, if the student and the school does not seem to be an ideal fit, 
         there will be no further obligation to pay beyond the 1000 RMB application 
-        fee.
+        fee. Our services only begin when the students are admitted into the school.
+        Our orientation process will prepare the students life in a different culture
+        and setting. We also provide communication and translation services for
+        families and students who want clear communication among host families,
+        biological families and the schools. This is a service that sets us apart in
+        other companies. Our moto is that no student gets left behind!
 
     questions:
       title: Questions?
