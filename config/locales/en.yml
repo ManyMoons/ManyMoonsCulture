@@ -62,7 +62,7 @@ en:
         international students.
     process:
       title: Admission Process
-      desc:
+      desc: !xml |
         <ol>
           <li>Print and submit our application for admission to us at %{encoded_email}. We have a rolling application process. We will consider applicants as long as there are spaces available, but the best time to apply is at least 2 months before the start of a new semester. We accept students for both Spring and Fall semesters.</li>
           <li>Once we receive your application, we will schedule a Skype student interview. The interview consists of our meeting with the applicant for about 15 minutes. The interview can also be conducted in person if the applicant is available.</li>
@@ -70,24 +70,24 @@ en:
         </ol>
     calendar:
       title: School Calendar
-      desc:
+      desc: !xml |
         <ul>
-          <li>Early August&#58; International Student Boarding Orientation</li>
-          <li>Mid-August through mid-December&#58; First Semester</li>
-          <li>Late-December- early January&#58; two week Christmas Vacation</li>
-          <li>Mid-January through early June&#58; Second Semester</li>
+          <li>Early August: International Student Boarding Orientation</li>
+          <li>Mid-August through mid-December: First Semester</li>
+          <li>Late-December- early January: two week Christmas Vacation</li>
+          <li>Mid-January through early June: Second Semester</li>
         </ul>
     school_fees:
       title: Tuition and Fees
-      desc:
+      desc: !xml |
         <p>
-          Tuition and Fees include&#58; enrollment and orientation fees, special 
+          Tuition and Fees include: enrollment and orientation fees, special 
           fieldtrips, special dinners and excursions, college counseling, college 
           application assistance, books, international processing services. 
         </p>
         
         <p>
-          Tuition and fees for 2011-2012 are&#58;
+          Tuition and fees for 2011-2012 are:
         </p>
          
         <p>
@@ -103,7 +103,7 @@ en:
         </p>
     additional_costs:
       title: Estimated Additional Costs
-      desc:
+      desc: !xml |
         <p>
           Homestay fees, lunch and athletic participation fees are not included in 
           tuition and fees noted above. These additional fees will be billed to 
@@ -111,7 +111,7 @@ en:
         </p>
         
         <p>
-          Anticipated additional fees are&#58;
+          Anticipated additional fees are:
         </p>
          
         <ul>
@@ -126,7 +126,7 @@ en:
 
     mm_fees:
       title: Many Moons Consultation Fee 
-      desc:
+      desc: !xml |
         <ul>
           <li>1000 RMB application fee</li>
           <li>20,000 RMB due at reception of I-20</li>
@@ -148,30 +148,30 @@ en:
   eastside:
     fast_facts:
       title: Fast Facts
-      desc: 
+      desc: !xml |
         <table class="table table-striped table-bordered table-condensed">
           <tbody>
             <tr>
-              <td>Year Established&#58;</td>
+              <td>Year Established:</td>
               <td>1976</td>
             </tr>
             <tr>
-              <td>School type&#58;</td> <td>K-12</td>
+              <td>School type:</td> <td>K-12</td>
             </tr>
             <tr>
-              <td>Number of Students&#58;</td> <td>556</td>
+              <td>Number of Students:</td> <td>556</td>
             </tr>
             <tr>
-              <td>Student Teacher Ratio&#58;</td> <td>1&#58;16</td>
+              <td>Student Teacher Ratio:</td> <td>1:16</td>
             </tr>
             <tr>
-              <td>Location&#58;</td> <td>Fullerton, California</td>
+              <td>Location:</td> <td>Fullerton, California</td>
             </tr>
             <tr>
-              <td>Religious Affiliation&#58;</td><td>Christian</td>
+              <td>Religious Affiliation:</td><td>Christian</td>
             </tr>
             <tr>
-              <td>Accreditation&#58;</td><td>Western Association of Schools and Colleges</td>
+              <td>Accreditation:</td><td>Western Association of Schools and Colleges</td>
             </tr>
           </tbody>
         </table>
@@ -264,30 +264,30 @@ en:
     map_caption: google map
     fast_facts:
       title: Fast Facts
-      desc:
+      desc: !xml |
         <table class="table table-striped table-bordered table-condensed">
           <tbody>
             <tr>
-              <td>Year Established&#58;</td><td>1976</td>
+              <td>Year Established:</td><td>1976</td>
             <tr>
             </tr>
-              <td>School type&#58;</td><td>K-12</td>
+              <td>School type:</td><td>K-12</td>
             <tr>
             </tr>
-              <td>Number of Students&#58;</td><td>590</td>
+              <td>Number of Students:</td><td>590</td>
             <tr>
             </tr>
-              <td>Student Teacher Ratio&#58;</td><td>1&#58;13</td>
+              <td>Student Teacher Ratio:</td><td>1:13</td>
             <tr>
             </tr>
-              <td>Location&#58;</td><td>Whitestown, Indiana</td>
+              <td>Location:</td><td>Whitestown, Indiana</td>
             <tr>
             </tr>
-              <td>Religious Affiliation&#58;</td><td>Christian</td>
+              <td>Religious Affiliation:</td><td>Christian</td>
             <tr>
             </tr>
               <td>
-                Accreditation&#58;</td><td>Association of Christian Schools International, 
+                Accreditation:</td><td>Association of Christian Schools International, 
                 <br />
                 North Central Association and Indiana Department of Education
               </td>
@@ -487,37 +487,37 @@ en:
       reservation. 
     main:
       title: Main Events Room
-      desc:
+      desc: !xml |
         <ul>
           <li>6 square tables</li>
-          <li>Seating capacity&#58; 40</li>
+          <li>Seating capacity: 40</li>
           <li>Projector & laptop</li>
           <li>Small stereo</li>
           <li>Keyboard</li>
         </ul>
 
         <hr />
-        Member price&#58; 150 RMB/hour 
+        Member price: 150 RMB/hour 
         <br />
-        Non-Member price&#58; 200 RMB/hour
+        Non-Member price: 200 RMB/hour
     reading:
       title: Reading Room
-      desc:
+      desc: !xml |
         <ul>
-          <li>Seating capacity&#58; 10</li>
+          <li>Seating capacity: 10</li>
           <li>Imported books and magazines (click here to download list)</li>
         </ul>
 
         <hr />
-        Member price&#58; 50 RMB/hour 
+        Member price: 50 RMB/hour 
         <br />
-        Non-Member price&#58; 80 RMB/hour
+        Non-Member price: 80 RMB/hour
     workshop:
       title: Workshop
-      desc:
+      desc: !xml |
         <ul>
           <li>Large work table</li>
-          <li>Seating capacity&#58; 10</li>
+          <li>Seating capacity: 10</li>
           <li>Two ovens</li>
           <li>Baking equipment (cookie cutters, measuring cups, baking pans, etc.)</li>
           <li>Arts & crafts books, cookbooks, magazines</li>
@@ -526,12 +526,12 @@ en:
         </ul>
 
         <hr />
-        Member price&#58; 50 RMB/hour 
+        Member price: 50 RMB/hour 
         <br />
-        Non-Member price&#58; 80 RMB/hour
+        Non-Member price: 80 RMB/hour
     bonus:
-      title: Free wireless internet and games available for use throughout the center&#58; 
-      desc:
+      title: "Free wireless internet and games available for use throughout the center:"
+      desc: !xml |
         <ul>
           <li>Monopoly (Chinese edition)</li>
           <li>Scrabble</li>
@@ -612,7 +612,7 @@ en:
                   Office Hours
                 </td>
                 <td>
-                  Monday, Wednesday-Friday 9&#58;00AM - 5&#58;00PM
+                  Monday, Wednesday-Friday 9:00AM - 5:00PM
                 </td>
               </tr>
               <tr>
@@ -672,7 +672,7 @@ en:
           and enjoyment while engaging in meaningful activities leading to 
           personal growth.  This is the place of cultural exchange where we will 
           encourage students to learn through 
-        info_table:
+        info_table: !xml |
           <table class="table table-striped table-bordered table-condensed">
             <tbody>
               <tr>
@@ -680,7 +680,7 @@ en:
                   Office Hours
                 </td>
                 <td>
-                  Monday-Friday 9&#58;00AM - 5&#58;00PM
+                  Monday-Friday 9:00AM - 5:00PM
                 </td>
               </tr>
               <tr>
@@ -735,7 +735,7 @@ en:
       title: Our Staff
       grace:
         title: Grace Wen, Founder
-        desc:
+        desc: !xml |
           <p>
             Grace Wen entered Yale University at the age of 16, received a B.A. in English Literature and later went on to obtain an M.A. in Applied Linguistics at Teachers College, Columbia University.
           </p>
@@ -812,7 +812,7 @@ en:
           never remember, and using “Ko-ChEnglish” to communicate with friends.  
       daniel:
         title: Daniel Yoon, Director of Technology
-        desc:
+        desc: !xml |
           <p>
             Daniel is a customer-focused IT specialist with 10+ years of 
             professional experience in the development and design of 
@@ -874,7 +874,7 @@ en:
   # Contact page
   contact:
     title: Contact Us
-    desc:
+    desc: !xml |
       <p>
         Thank you for visiting our website! 
       </p>
@@ -903,21 +903,21 @@ en:
       button: Contact Many Moons
       response: Thank you for contacting us.
     table:
-      desc: 
-        You can contact us using any of the following methods&#58; call, email 
-        or just stop by&#58;
+      desc: !xml |
+        You can contact us using any of the following methods: call, email 
+        or just stop by:
       phone:
         title: Phone
-        desc:
-          Chinese Inquiries&#58; 18600164247 (小雨)
+        desc: !xml |
+          Chinese Inquiries: 18600164247 (小雨)
           <br />
-          Korean and English Inquiries&#58;  15611571244 (Esther)
+          Korean and English Inquiries:  15611571244 (Esther)
       email:
         title: Email
         email: "%{encoded_email}"
       in_person:
         title: Stop by in Person!
-        desc:
+        desc: !xml |
           (English)
           <br />
           Beijing, Haidian District 
