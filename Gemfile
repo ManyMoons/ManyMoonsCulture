@@ -5,7 +5,6 @@ gem 'jquery-rails'
 gem 'haml'
 gem 'haml-rails', :group => :development
 gem 'newrelic_rpm'
-gem 'pry', :group => :development
 gem 'simple_form', '~> 2.0'
 
 group :production do
