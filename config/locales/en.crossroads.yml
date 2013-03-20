@@ -1,0 +1,75 @@
+en:
+  crossroads:
+    fast_facts:
+      title: Fast Facts
+      desc:
+        "
+        <table class=\"table table-striped table-bordered table-condensed\">
+          <tbody>
+            <tr>
+              <td>Year Established:</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>School type:</td> <td>K-12</td>
+            </tr>
+            <tr>
+              <td>Number of Students:</td> <td>556</td>
+            </tr>
+            <tr>
+              <td>Student Teacher Ratio:</td> <td>1:16</td>
+            </tr>
+            <tr>
+              <td>Location:</td> <td>Fullerton, California</td>
+            </tr>
+            <tr>
+              <td>Religious Affiliation:</td><td>Christian</td>
+            </tr>
+            <tr>
+              <td>Accreditation:</td><td>Western Association of Schools and Colleges</td>
+            </tr>
+          </tbody>
+        </table>
+        "
+    map_caption: google map
+    link:
+      title: Goto Crossroads Christian Schools webpage
+    history:
+      title: School History
+      desc:
+        "
+        <p>
+          Crossroads Christian Schools 
+        </p>
+        "
+
+    about:
+      title: About Crossroads
+      desc:
+        Crossroads Christian High School ...
+    accreditation:
+      title: Accreditation
+      desc:
+        Our K-12 program is accredited by the Western Association of Schools and 
+        Colleges (WA SC). Detailed information in regards to WASC accreditation 
+        can be found on their 
+        <a href="http://www.acswasc.org/index.htm" target="_blank">website</a>.  
+
+    academics:
+      title: Academics
+      desc:
+        "
+        <p>
+          Crossroads academics
+        </p>
+        <p>
+          more info
+        </p>
+        "
+
+    admissions:
+      title: Admissions
+      desc:
+        If you would like more information about applying to Crossroads, please 
+        contact us at Many Moons Education, who is the Crossroads Christian Schools 
+        representative for China, at %{encoded_email} .

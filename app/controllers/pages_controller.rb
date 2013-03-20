@@ -31,6 +31,9 @@ class PagesController < ApplicationController
   def tpca
   end
 
+  def crossroads
+  end
+
   def exchange
   end
 

@@ -1,16 +1,20 @@
 %h2= t :'admissions.title'
 
 %ul.thumbnails
-  %li.span5
+  %li.span6
     .thumbnail.alert.alert-success
       = link_to image_tag(asset_path('eastside-logo.png')), eastside_url, { :class => 'thumbnail' }
       .caption
         = link_to "#{t :'admissions.eastside_link_caption'}", eastside_url
-  %li.span7
     .thumbnail.alert.alert-info
       = link_to image_tag(asset_path('tpca-logo.png')), tpca_url, { :class => 'thumbnail' }
       .caption
         = link_to "#{t :'admissions.tpca_link_caption'}", tpca_url
+  %li.span6
+    .thumbnail.alert.alert-info
+      = link_to image_tag(asset_path('crossroads-logo.png')), crossroads_url, { :class => 'thumbnail' }
+      .caption
+        = link_to "#{t :'admissions.tpca_link_caption'}", crossroads_url
 
 %h3= t :'admissions.intro.title'
 %p= t :'admissions.intro.desc'

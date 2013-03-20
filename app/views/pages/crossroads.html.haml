@@ -1,0 +1,42 @@
+%ul.thumbnails
+  %li
+    %a.thumbnail(target="_blank" href="http://www.crossroadsschool.org")
+      = image_tag(asset_path('crossroads-logo.png', width: '500px'), { :width => '500px', :alt => "Crossroads Christian Schools" })
+
+.alert.alert-info
+  %h3= t :'crossroads.admissions.title'
+  = raw(t :'crossroads.admissions.desc', :encoded_email => encoded_email)
+
+%p
+  .row
+    .span6
+      %h3
+        = t :'crossroads.history.title'
+      %p
+        = link_to "#{t :'crossroads.link.title'}", "http://www.crossroadsschool.org", { :target => "_blank" }
+      = raw(t :'crossroads.history.desc')
+    .span6
+%hr
+
+.row
+  .span6
+    %ul.thumbnails
+      %li.span6
+        %a.thumbnail(target="_blank" href="https://maps.google.com/maps?q=Crossroads+Christian+Schools+2380+Fullerton+Avenue+Corona,+CA+92881&hl=en&ll=33.849853,-117.552423&spn=0.010389,0.01457&geocode=+&hq=Crossroads+Christian+Schools&hnear=2380+Fullerton+Ave,+Corona,+California+92881&t=m&z=16")
+          = image_tag asset_path("crossroads_map.png")
+          .caption= t :'crossroads.map_caption'
+  .span6
+    = raw(t :'crossroads.fast_facts.desc')
+
+%h3= t :'crossroads.about.title'
+= raw(t :'crossroads.about.desc')
+
+.row
+  .span10
+    %p
+      %h3= t :'crossroads.accreditation.title'
+      = raw(t :'crossroads.accreditation.desc')
+    %p
+      %h3= t :'crossroads.academics.title'
+      = raw(t :'crossroads.academics.desc')
+  .span2

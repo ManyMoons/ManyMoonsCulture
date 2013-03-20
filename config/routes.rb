@@ -10,6 +10,7 @@ ManyMoons::Application.routes.draw do
   match 'admissions' => 'pages#admissions'
   match 'eastside' => 'pages#eastside'
   match 'tpca' => 'pages#tpca'
+  match 'crossroads' => 'pages#crossroads'
 
   match 'exchange' => 'pages#exchange'
   match 'university_tour' => 'pages#university_tour'
