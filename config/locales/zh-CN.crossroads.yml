@@ -7,8 +7,7 @@ zh-CN:
         <table class=\"table table-striped table-bordered table-condensed\">
           <tbody>
             <tr>
-              <td>建校年份:</td>1979
-              <td></td>
+              <td>建校年份:</td> <td>1979</td> 
             </tr>
             <tr>
               <td>学制:</td> <td>K-12（学前~12年级）</td>
@@ -44,19 +43,18 @@ zh-CN:
         "
 
     about:
-      title: ""
-      desc: ""
-    accreditation:
       title: "认证"
-      desc:
+      desc: 
+        "
         <p>
         Crossroads学校经过美国⻄部学校学院协会（WASC）和国际基督教学校联盟（ACSI）的双重认证。具体的认证信息请参考其网站
         WASC：<a href="http://www.acswasc.org/index.htm" target="_blank">website</a>. 
         ACSI：
         </p>
-
-    academics:
-      title: "学术情况"
+        "
+        
+    accreditation:
+      title:  "学术情况"
       desc:
         "
         <p>
@@ -68,8 +66,24 @@ zh-CN:
         </p>
         "
 
+    academics:
+      title:  "国际学生"
+      desc:
+        "
+        <p>
+          Crossroads现有的5名国际学生全部来⾃自韩国（2012年），学校正向更多国家的优秀学生敞开⼤门。为了面对来自中国的学生/家庭，学校授权集月教育中⼼作为在中国的官⽅方代表接受学生申请、提供国际学生服务。
+        </p>
+        <p>
+          国际学⽣服务包括为学生匹配合适的寄宿家庭并帮助寄宿家庭和学生彼此适应。学生在校学习期间，另有国际学⽣生辅导员监督记录学⽣的生活学习情况，将多⽅面信息汇总写⼊学⽣进度报告，供国内的家庭全⾯了解孩子情况。
+        </p>
+        <p>
+          更多了解寄宿家庭与国际学生服务
+        </p>
+        "
+       
+        
     admissions:
-      title: “入学申请”
+      title:  "入学申请"
       desc:
         "
         <p>
