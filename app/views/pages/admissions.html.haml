@@ -27,7 +27,9 @@
 %p= raw t(:'admissions.philosophy.desc', :encoded_email => encoded_email)
 %hr
 
-%h3= t :'admissions.process.title'
+%h3
+  %a.anchor(name='homestay' href="#homestay" style="color: inherit")
+    = t :'admissions.process.title'
 %p= raw(t :'admissions.process.desc', :encoded_email => encoded_email)
 %hr
 
@@ -44,8 +46,7 @@
 %p= raw(t :'admissions.additional_costs.desc')
 
 %h3
-  %a.anchor(name='homestay' href="#homestay" style="color: inherit")
-    %span= t :'admissions.homestay.title'
+  %span= t :'admissions.homestay.title'
 %p= raw(t :'admissions.homestay.desc')
 
 %h3= t :'admissions.mm_fees.title'
