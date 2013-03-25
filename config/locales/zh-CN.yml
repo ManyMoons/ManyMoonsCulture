@@ -228,10 +228,7 @@ zh-CN:
 
     mm_fees:
       title: ""
-      desc:
-        <ul>
-          <li></li>
-        </ul>
+      desc: ""
 
     homestay:
       title:   "国际学生服务(International Student Service)"
